@@ -1,0 +1,1 @@
+VAN A SER TEMPORALES LAS ALIANZAS. Cuando me afiance más o menos con una base, entonces ahí voy a sacar las alianzas y voy a poner los partners

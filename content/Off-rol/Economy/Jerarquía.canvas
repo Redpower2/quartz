@@ -1,0 +1,384 @@
+{
+  "edges": [
+    {
+      "fromNode": "c9cc01acd6c93e3b",
+      "fromSide": "bottom",
+      "id": "6334e17dd975978e",
+      "styleAttributes": {
+        "path": "dotted",
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "6bced91bf320c1e4",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "67f755861f918230",
+      "fromSide": "bottom",
+      "id": "87ab9c71540118f4",
+      "styleAttributes": {
+      },
+      "toNode": "bd380e4aa5a57335",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "67f755861f918230",
+      "fromSide": "bottom",
+      "id": "c2b423c8933a50a9",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "6bced91bf320c1e4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "67f755861f918230",
+      "fromSide": "bottom",
+      "id": "a5f2d188f3c243db",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "1e77c83d4061f90d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "14436ab59131ae29",
+      "fromSide": "bottom",
+      "id": "001586ee69fdf024",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "c9cc01acd6c93e3b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "14436ab59131ae29",
+      "fromSide": "bottom",
+      "id": "03799775c7ee4c56",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "82d05a26add5be1c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "436597befeb4e5b0",
+      "fromSide": "bottom",
+      "id": "e87a67f661b84bb8",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "2e79ad491cf5011b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "436597befeb4e5b0",
+      "fromSide": "bottom",
+      "id": "ac4e9e0fb41514ed",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "52903ab50b598de5",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "52903ab50b598de5",
+      "fromSide": "bottom",
+      "id": "cdb9aa24e1f4aaa3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "fe3daf99dc0c15df",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "52903ab50b598de5",
+      "fromSide": "bottom",
+      "id": "22722a50307038e2",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "8cb64c7c8669a9df",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "52903ab50b598de5",
+      "fromSide": "bottom",
+      "id": "b9f8db0d5ea73bb4",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "dea0dd3f3e1368d4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "2e79ad491cf5011b",
+      "fromSide": "bottom",
+      "id": "47c7e687982ce977",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "7460bb41d4e7c20d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "2e79ad491cf5011b",
+      "fromSide": "bottom",
+      "id": "5f88040e9cebf5b4",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "833aee224a9ef3b0",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "2e79ad491cf5011b",
+      "fromSide": "bottom",
+      "id": "7363cacfb35b6bc7",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "e8a7d92d23e26944",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c9cc01acd6c93e3b",
+      "fromSide": "bottom",
+      "id": "3e5cbf5208a484fd",
+      "styleAttributes": {
+        "path": "dotted",
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "b545399830dc96f3",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "6bced91bf320c1e4",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "text": "Inventario",
+      "type": "text",
+      "width": 130,
+      "x": -435,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "bd380e4aa5a57335",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "text": "Alias",
+      "type": "text",
+      "width": 130,
+      "x": -245,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "1e77c83d4061f90d",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "text": "ID",
+      "type": "text",
+      "width": 130,
+      "x": -75,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "c9cc01acd6c93e3b",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "text": "Items",
+      "type": "text",
+      "width": 130,
+      "x": 200,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "82d05a26add5be1c",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "text": "Técnicas",
+      "type": "text",
+      "width": 130,
+      "x": 390,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "2e79ad491cf5011b",
+      "styleAttributes": {
+        "shape": "parallelogram"
+      },
+      "text": "Fiat",
+      "type": "text",
+      "width": 130,
+      "x": 640,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "52903ab50b598de5",
+      "styleAttributes": {
+        "shape": "parallelogram"
+      },
+      "text": "Commodities",
+      "type": "text",
+      "width": 160,
+      "x": 1190,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "dea0dd3f3e1368d4",
+      "styleAttributes": {
+      },
+      "text": "Plata",
+      "type": "text",
+      "width": 130,
+      "x": 1205,
+      "y": -100
+    },
+    {
+      "height": 60,
+      "id": "fe3daf99dc0c15df",
+      "styleAttributes": {
+      },
+      "text": "Oro",
+      "type": "text",
+      "width": 130,
+      "x": 1060,
+      "y": -100
+    },
+    {
+      "height": 60,
+      "id": "8cb64c7c8669a9df",
+      "styleAttributes": {
+      },
+      "text": "Petroleo",
+      "type": "text",
+      "width": 130,
+      "x": 1350,
+      "y": -100
+    },
+    {
+      "height": 60,
+      "id": "e8a7d92d23e26944",
+      "styleAttributes": {
+      },
+      "text": "Moneda",
+      "type": "text",
+      "width": 120,
+      "x": 810,
+      "y": -100
+    },
+    {
+      "height": 60,
+      "id": "7460bb41d4e7c20d",
+      "styleAttributes": {
+      },
+      "text": "Dólar",
+      "type": "text",
+      "width": 130,
+      "x": 480,
+      "y": -100
+    },
+    {
+      "height": 60,
+      "id": "833aee224a9ef3b0",
+      "styleAttributes": {
+      },
+      "text": "Yuan",
+      "type": "text",
+      "width": 130,
+      "x": 640,
+      "y": -100
+    },
+    {
+      "height": 100,
+      "id": "b545399830dc96f3",
+      "styleAttributes": {
+        "border": "dashed",
+        "shape": "predefined-process",
+        "textAlign": "center"
+      },
+      "text": "Tiendas",
+      "type": "text",
+      "width": 320,
+      "x": -180,
+      "y": 80
+    },
+    {
+      "height": 100,
+      "id": "67f755861f918230",
+      "styleAttributes": {
+        "shape": "database",
+        "textAlign": "center"
+      },
+      "text": "Personajes",
+      "type": "text",
+      "width": 320,
+      "x": -340,
+      "y": -420
+    },
+    {
+      "height": 100,
+      "id": "14436ab59131ae29",
+      "styleAttributes": {
+        "shape": "database",
+        "textAlign": "center"
+      },
+      "text": "Entidades",
+      "type": "text",
+      "width": 320,
+      "x": 200,
+      "y": -420
+    },
+    {
+      "height": 100,
+      "id": "436597befeb4e5b0",
+      "styleAttributes": {
+        "shape": "database",
+        "textAlign": "center"
+      },
+      "text": "Activos",
+      "type": "text",
+      "width": 320,
+      "x": 805,
+      "y": -420
+    },
+    {
+      "height": 60,
+      "id": "a7be702cb4f2bc2a",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "text": "Instancias",
+      "type": "text",
+      "width": 130,
+      "x": 205,
+      "y": -174
+    },
+    {
+      "height": 60,
+      "id": "bf078b4b5817354c",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "text": "Type",
+      "type": "text",
+      "width": 130,
+      "x": 932,
+      "y": -313
+    }
+  ]
+}

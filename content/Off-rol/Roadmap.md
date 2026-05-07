@@ -1,0 +1,137 @@
+---
+cssclasses:
+  - dashboard
+---
+# Fase 1: Integridad
+## Módulo I: Bases
+### Comandos ✅
+
+- [x] test ✅ 2026-03-22
+
+- [x] ayuda ✅ 2026-04-01
+
+- [x] dado ✅ 2026-04-06
+    - [x] general ✅ 2026-04-05
+    - [x] contra ✅ 2026-04-05
+    - [x] duelo ✅ 2026-04-06
+
+- [x] ayuda staff ✅ 2026-04-08
+	
+- [x] ayuda comando ✅ 2026-04-08
+
+- [x] db borrar ✅ 2026-04-11
+### Eventos
+- [x] Listener de comandos ✅ 2026-03-22
+- [x] Ready del bot ✅ 2026-03-22
+
+## Módulo II: Economía básica
+### Comandos
+
+
+- [x] db personaje crear ✅ 2026-04-10 ✅ 2026-04-13
+	
+- [x] db personaje borrar ✅ 2026-04-10 ✅ 2026-04-13
+
+- [x] lista personajes ✅ 2026-04-11 ✅ 2026-04-26
+
+- [x] personaje seleccionar ✅ 2026-04-14
+	
+- [x] personaje ver ✅ 2026-04-11 ✅ 2026-04-14 
+	
+- [x] personaje congelar ✅ 2026-04-14
+	
+- [x] personaje descongelar ✅ 2026-04-14
+
+
+- [x] db personaje dardinero ✅ 2026-04-20
+	
+- [x] db personaje quitardinero ✅ 2026-04-20
+	
+- [x] db personaje fijardinero ✅ 2026-04-20
+
+- [x] balance ✅ 2026-04-21
+	
+- [x] baltop ✅ 2026-04-21
+
+- [x] dinero dar ✅ 2026-04-22  ✅ 2026-04-29
+
+### Eventos
+- [x] Salario ✅ 2026-05-04
+- [x] Manejo y chequeo congelamiento ✅ 2026-05-04
+
+## Módulo III: Items
+### Comandos
+
+- [x] db item crear ✅ 2026-04-29
+	
+- [x] db item borrar ✅ 2026-04-29
+
+- [x] item info ✅ 2026-04-30
+	
+- [x] db personaje daritem ✅ 2026-05-02
+	
+- [x] db personaje quitaritem ✅ 2026-05-02
+	
+- [x] inventario ✅ 2026-05-03
+	
+- [x] item dar ✅ 2026-05-03
+	
+- [ ] item usar
+	
+- [ ] intercambio 
+	
+- [ ] lista items
+
+## Módulo IV: Tiendas
+### Comandos
+
+- [ ] tienda ver
+	
+- [ ] tienda comprar
+	
+- [ ] tienda vender
+
+## Módulo V: Técnicas
+- [ ] espiritu
+	
+- [ ] tecnica enseñar
+	
+- [ ] tecnica usar
+	
+- [ ] lista tecnicas
+
+## Modulo VI: Externo al bot
+
+Lore, canales del servidor, embeds, etc
+# Fase 2: Refinado
+## Módulo I: Monedas
+## Módulo II: Mercado de valores
+## Módulo III: Instituciones
+
+## Módulo IV: Ludopatía
+### Comandos
+
+- [ ] juego
+    - [ ] ruleta
+    - [ ] tragaperras
+    - [ ] craps
+    - [ ] blackjack
+    - [ ] truco
+- Item
+	- usar
+		- [ ] rasca y gana 
+## Módulo V: mongoDB 
+# Fase 3: Extras
+Acá irían cosas como los minijuegos de trabajos, rankings, pelotudeces
+Programas de radio tal vez
+
+# Notas
+ah mal que en los que tienen más de 5 opciones puedo usar stringmenu
+El tema del juego tambien es que son muy circunstanciales, así que capaz lo haga con embeds con botones que respondan. Veré una forma de eso. Por ejemplo, los tragaperras podrían ser así como digo. Pero el rasca y gana desde el anterior bot que lo quiero hacer así
+No va a haber cosas como depositar porque se harían manualmente, los bancos serían reales y podes interactuar con ellos, puede crecer tu dinero
+
+Falta el tema del mercado de capitales, los bonos, tal. Pero no sé como encajarlo sinceramente
+
+Los trabajos que había hecho y los que tenía pendientes, si serán como digo arriba, embeds con botones. Arcades o cosas así
+
+El tablero está descartadisimo. O bueno, podría experimentar con él realmente, pero en un enfoque más laburando que el de puro hueso
