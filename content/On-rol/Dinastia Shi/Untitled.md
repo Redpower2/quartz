@@ -1,1 +1,0 @@
-En la guerra de 2024 hubo mucho daño a la estructura religiosa, murieron casi todos los inquisidores y la gente odia a las mujeres mas por eso. Porque mas allá de que el gran maestro era un usurpador corrupto, ellas mataron a los guerreros del cielo, se cagaron en siglos de prosperidad e independencia religiosa
