@@ -101,9 +101,47 @@ cssclasses:
 
 ## Modulo VI: Externo al bot
 ### Canales
-### Lore
-
-Lore, canales del servidor, embeds, etc
+- [ ] Sin categoría
+	- [ ] Buscar rol
+	- [ ] El staff te lee
+	- [ ] Verificacion
+- [ ] Staff
+	- [ ] Staff chat
+	- [ ] Recursos
+	- [ ] Log
+- [ ] Fichas
+	- [ ] Plantilla
+	- [ ] PJ Principal
+	- [ ] Verificación
+	- [ ] Secundarios
+- [ ] Servidor
+	- [ ] Anuncios
+	- [ ] Autoroles
+	- [ ] Reglamento
+- [ ] Chats
+	- [ ] General
+	- [ ] Debate
+	- [ ] Comandos
+	- [ ] NSFW
+	- [ ] Desahogo
+	- [ ] Arte
+- [ ] Chats de voz
+	- [ ] General
+- [ ] Economía
+	- [ ] Sistema
+	- [ ] Consumo
+	- [ ] Capital
+	- [ ] Estratos
+- [ ] Combate
+	- [ ] Sistema
+	- [ ] Rangos
+	- [ ] Arte Marcial
+	- [ ] Consensos
+- [ ] Biblioteca
+	- [ ] Cultura
+	- [ ] Contexto
+	- [ ] Historia
+### Lore (Fuera del servidor)
 # Fase 2: Refinado
 ## Módulo I: Monedas
 ## Módulo II: Mercado de valores
