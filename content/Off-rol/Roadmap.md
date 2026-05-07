@@ -134,4 +134,4 @@ Falta el tema del mercado de capitales, los bonos, tal. Pero no sé como encajar
 
 Los trabajos que había hecho y los que tenía pendientes, si serán como digo arriba, embeds con botones. Arcades o cosas así
 
-El tablero está descartadisimo. O bueno, podría experimentar con él realmente, pero en un enfoque más laburando que el de puro hueso
+El tablero está descartadisimo. O bueno, podría experimentar con él realmente, pero en un enfoque más laburando que el de puro hueso, que era malo
