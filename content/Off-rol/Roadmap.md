@@ -10,50 +10,50 @@ cssclasses:
 
 - [x] ayuda ✅ 2026-04-01
 
-- [x] dado ✅ 2026-04-06
+- [x] [[dado]] ✅ 2026-04-06
     - [x] general ✅ 2026-04-05
     - [x] contra ✅ 2026-04-05
     - [x] duelo ✅ 2026-04-06
 
-- [x] ayuda staff ✅ 2026-04-08
-	
-- [x] ayuda comando ✅ 2026-04-08
+- [x] ayuda ✅ 2026-04-08
+	- [x] staff ✅ 2026-04-08
+	- [x] comando ✅ 2026-04-08
 
-- [x] db borrar ✅ 2026-04-11
-### Eventos
+
+- [x] [[db]] borrar ✅ 2026-04-11
+### Eventos ✅
 - [x] Listener de comandos ✅ 2026-03-22
 - [x] Ready del bot ✅ 2026-03-22
 
 ## Módulo II: Economía básica
 ### Comandos
 
-
-- [x] db personaje crear ✅ 2026-04-10 ✅ 2026-04-13
-	
-- [x] db personaje borrar ✅ 2026-04-10 ✅ 2026-04-13
+- [x] [[db]] ✅ 2026-04-10 ✅ 2026-04-13
+	- [x] personaje ✅ 2026-04-10 ✅ 2026-04-13
+		- [x] crear ✅ 2026-04-10 ✅ 2026-04-13
+		- [x] borrar ✅ 2026-04-10 ✅ 2026-04-13
 
 - [x] lista personajes ✅ 2026-04-11 ✅ 2026-04-26
 
-- [x] personaje seleccionar ✅ 2026-04-14
-	
-- [x] personaje ver ✅ 2026-04-11 ✅ 2026-04-14 
-	
-- [x] personaje congelar ✅ 2026-04-14
-	
-- [x] personaje descongelar ✅ 2026-04-14
+- [x] personaje✅ 2026-04-14
+	- [x] seleccionar ✅ 2026-04-14
+	- [x] ver ✅ 2026-04-11 ✅ 2026-04-14 
+	- [x] congelar ✅ 2026-04-14
+	- [x] descongelar ✅ 2026-04-14
 
 
-- [x] db personaje dardinero ✅ 2026-04-20
-	
-- [x] db personaje quitardinero ✅ 2026-04-20
-	
-- [x] db personaje fijardinero ✅ 2026-04-20
+- [x] [[db]] ✅ 2026-04-20
+	- [x] personaje ✅ 2026-04-20
+		- [x] dardinero ✅ 2026-04-20
+		- [x] quitardinero ✅ 2026-04-20
+		- [x] fijardinero ✅ 2026-04-20
 
 - [x] balance ✅ 2026-04-21
 	
 - [x] baltop ✅ 2026-04-21
 
-- [x] dinero dar ✅ 2026-04-22  ✅ 2026-04-29
+- [x] dinero ✅ 2026-04-22  ✅ 2026-04-29
+	- [x] dar ✅ 2026-04-22  ✅ 2026-04-29
 
 ### Eventos
 - [x] Salario ✅ 2026-05-04
@@ -62,21 +62,21 @@ cssclasses:
 ## Módulo III: Items
 ### Comandos
 
-- [x] db item crear ✅ 2026-04-29
-	
-- [x] db item borrar ✅ 2026-04-29
+- [x] [[db]] ✅ 2026-04-29
+	- [x] item ✅ 2026-04-29
+		- [x] crear ✅ 2026-04-29
+		- [x] borrar ✅ 2026-04-29
+	- [x] personaje ✅ 2026-05-02
+		- [x] daritem ✅ 2026-05-02
+		- [x] quitaritem ✅ 2026-05-02
 
 - [x] item info ✅ 2026-04-30
 	
-- [x] db personaje daritem ✅ 2026-05-02
-	
-- [x] db personaje quitaritem ✅ 2026-05-02
-	
 - [x] inventario ✅ 2026-05-03
 	
-- [x] item dar ✅ 2026-05-03
-	
-- [ ] item usar
+- [x] item ✅ 2026-05-03
+	- [x] item dar ✅ 2026-05-03
+	- [ ] item usar
 	
 - [ ] intercambio 
 	
@@ -85,18 +85,17 @@ cssclasses:
 ## Módulo IV: Tiendas
 ### Comandos
 
-- [ ] tienda ver
-	
-- [ ] tienda comprar
-	
-- [ ] tienda vender
+- [ ] tienda
+	- [ ] ver
+	- [ ] comprar
+	- [ ] vender
 
 ## Módulo V: Técnicas
 - [ ] espiritu
 	
-- [ ] tecnica enseñar
-	
-- [ ] tecnica usar
+- [ ] tecnica
+	- [ ] tecnica enseñar
+	- [ ] tecnica usar
 	
 - [ ] lista tecnicas
 
@@ -117,8 +116,8 @@ Lore, canales del servidor, embeds, etc
     - [ ] craps
     - [ ] blackjack
     - [ ] truco
-- Item
-	- usar
+- [ ] item
+	- [ ] usar
 		- [ ] rasca y gana 
 ## Módulo V: mongoDB 
 # Fase 3: Extras
