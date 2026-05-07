@@ -35,7 +35,7 @@ cssclasses:
 
 - [x] lista personajes ✅ 2026-04-11 ✅ 2026-04-26
 
-- [x] personaje✅ 2026-04-14
+- [x] [[personaje]]✅ 2026-04-14
 	- [x] seleccionar ✅ 2026-04-14
 	- [x] ver ✅ 2026-04-11 ✅ 2026-04-14 
 	- [x] congelar ✅ 2026-04-14
@@ -100,6 +100,8 @@ cssclasses:
 - [ ] lista tecnicas
 
 ## Modulo VI: Externo al bot
+### Canales
+### Lore
 
 Lore, canales del servidor, embeds, etc
 # Fase 2: Refinado
@@ -116,14 +118,21 @@ Lore, canales del servidor, embeds, etc
     - [ ] craps
     - [ ] blackjack
     - [ ] truco
+
 - [ ] item
 	- [ ] usar
 		- [ ] rasca y gana 
 ## Módulo V: mongoDB 
+## Modulo VI: Canales de rol
 # Fase 3: Extras
 Acá irían cosas como los minijuegos de trabajos, rankings, pelotudeces
 Programas de radio tal vez
-
+# Interludio: Beta cerrada
+> [!faq] Nota
+> Luego de terminar las 3 fases, se vendría una etapa rara. Es decir, no es desarrollo activo pero tampoco está todo terminado. A partir de acá se va a venir la beta y luego de que termine la beta, pasará de fases a temporadas.
+## Ambientación e historia
+## Evento (único)
+# Temporada 1: El auge del emperador (2038)
 # Notas
 ah mal que en los que tienen más de 5 opciones puedo usar stringmenu
 El tema del juego tambien es que son muy circunstanciales, así que capaz lo haga con embeds con botones que respondan. Veré una forma de eso. Por ejemplo, los tragaperras podrían ser así como digo. Pero el rasca y gana desde el anterior bot que lo quiero hacer así
