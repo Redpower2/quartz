@@ -1,6 +1,7 @@
 {
   "edges": [
     {
+      "color": "6",
       "fromNode": "c9cc01acd6c93e3b",
       "fromSide": "bottom",
       "id": "6334e17dd975978e",
@@ -52,6 +53,7 @@
       "toSide": "top"
     },
     {
+      "color": "6",
       "fromNode": "c9cc01acd6c93e3b",
       "fromSide": "bottom",
       "id": "3e5cbf5208a484fd",
@@ -113,6 +115,7 @@
       "toSide": "top"
     },
     {
+      "color": "5",
       "fromNode": "ab32e7c681fca8d3",
       "fromSide": "bottom",
       "id": "540697c7947262b9",
@@ -147,6 +150,7 @@
       "fromSide": "bottom",
       "id": "5a5eec51490be57d",
       "styleAttributes": {
+        "pathfindingMethod": "square"
       },
       "toNode": "378c34eb1dfb5fc3",
       "toSide": "top"
@@ -156,6 +160,7 @@
       "fromSide": "bottom",
       "id": "d77eec5a7eeb2a11",
       "styleAttributes": {
+        "pathfindingMethod": "square"
       },
       "toNode": "d2c5cb26dbf1be6f",
       "toSide": "top"
@@ -165,11 +170,13 @@
       "fromSide": "bottom",
       "id": "967b5ddb40012877",
       "styleAttributes": {
+        "pathfindingMethod": "square"
       },
       "toNode": "f5156aeb8e6a19e2",
       "toSide": "top"
     },
     {
+      "color": "4",
       "fromNode": "22d5c66bd6103dd1",
       "fromSide": "bottom",
       "id": "bc199094c3a816b7",
@@ -184,6 +191,7 @@
       "fromSide": "bottom",
       "id": "848fab46d7d39ccc",
       "styleAttributes": {
+        "pathfindingMethod": "square"
       },
       "toNode": "40e2f7cb348fed75",
       "toSide": "top"
@@ -193,11 +201,13 @@
       "fromSide": "bottom",
       "id": "feb3a9f160ffdc77",
       "styleAttributes": {
+        "pathfindingMethod": "square"
       },
       "toNode": "5a4b77c107f56c92",
       "toSide": "top"
     },
     {
+      "color": "2",
       "fromNode": "3562b4463d433f40",
       "fromSide": "bottom",
       "id": "11e3d225c4e912ba",
@@ -208,6 +218,7 @@
       "toSide": "bottom"
     },
     {
+      "color": "3",
       "fromNode": "d2c5cb26dbf1be6f",
       "fromSide": "bottom",
       "id": "8355b65fa5312829",
@@ -219,6 +230,7 @@
       "toSide": "bottom"
     },
     {
+      "color": "3",
       "fromNode": "378c34eb1dfb5fc3",
       "fromSide": "bottom",
       "id": "a8de16d75d50994f",
@@ -230,6 +242,7 @@
       "toSide": "bottom"
     },
     {
+      "color": "3",
       "fromNode": "f5156aeb8e6a19e2",
       "fromSide": "bottom",
       "id": "e504e895955013e3",
@@ -339,32 +352,6 @@
       "width": 130,
       "x": 237,
       "y": -344
-    },
-    {
-      "height": 60,
-      "id": "a7be702cb4f2bc2a",
-      "styleAttributes": {
-        "border": "invisible"
-      },
-      "text": "Referencias",
-      "type": "text",
-      "width": 130,
-      "x": -1325,
-      "y": -168
-    },
-    {
-      "height": 100,
-      "id": "b545399830dc96f3",
-      "styleAttributes": {
-        "border": "dashed",
-        "shape": "predefined-process",
-        "textAlign": "center"
-      },
-      "text": "Tiendas",
-      "type": "text",
-      "width": 320,
-      "x": -1700,
-      "y": 80
     },
     {
       "height": 60,
@@ -545,6 +532,32 @@
       "width": 320,
       "x": 1880,
       "y": -414
+    },
+    {
+      "height": 60,
+      "id": "a7be702cb4f2bc2a",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "text": "Referencias",
+      "type": "text",
+      "width": 130,
+      "x": -1315,
+      "y": -180
+    },
+    {
+      "height": 100,
+      "id": "b545399830dc96f3",
+      "styleAttributes": {
+        "border": "dashed",
+        "shape": "predefined-process",
+        "textAlign": "center"
+      },
+      "text": "Tiendas",
+      "type": "text",
+      "width": 320,
+      "x": -1417,
+      "y": 0
     }
   ]
 }
