@@ -175,6 +175,7 @@ cssclasses:
 Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
 Programas de radio tal vez
 ¿Contenedores? El tablero. Mecánica de celular, llamadas y mensajes
+
 # Interludio: Beta cerrada
 > [!faq] Nota
 > Luego de terminar las 3 fases, se vendría una etapa rara. Es decir, no es desarrollo activo pero tampoco está todo terminado. A partir de acá se va a venir la beta y luego de que termine la beta, pasará de fases a temporadas.
