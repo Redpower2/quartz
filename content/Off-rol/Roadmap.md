@@ -174,7 +174,7 @@ cssclasses:
 > [!abstract] Extras
 Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
 Programas de radio tal vez
-¿Contenedores? El tablero. Mecánica de celular, llamadas y mensajes
+¿Contenedores? El tablero. Mecánica de celular, llamadas y mensajes. Resolver el eterno dilema del icono del servidor, si será una bandera, si será un escudo, si será cuadrado
 
 # Interludio: Beta cerrada
 > [!faq] Nota
