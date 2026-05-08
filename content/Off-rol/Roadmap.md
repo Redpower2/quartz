@@ -1,7 +1,3 @@
----
-cssclasses:
-  - dashboard
----
 # Fase 1: Integridad
 > [!warning] Advertencia
 > Hay comandos que no escalarán bien. Hay embeds (Como el de los comandos "lista") que podrán exceder el limite de caracteres, o situaciones en las que los botones no serán la opción más práctica (Por ejemplo, en los casos de que haya que elegir un personaje con el alias), teniendo como alternativa el stringmenu
