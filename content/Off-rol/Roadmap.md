@@ -3,22 +3,22 @@ cssclasses:
   - dashboard
 ---
 # Fase 1: Integridad
+> [!warning] Advertencia
+> Hay comandos que no escalarán bien. Hay embeds (Como el de los comandos "lista") que podrán exceder el limite de caracteres, o situaciones en las que los botones no serán la opción más práctica (Por ejemplo, en los casos de que haya que elegir un personaje con el alias), teniendo como alternativa el stringmenu
 ## Módulo I: Bases
 ### Comandos ✅
 
-- [x] test ✅ 2026-03-22
+- [x] [[test]] ✅ 2026-03-22
 
-- [x] ayuda ✅ 2026-04-01
+- [x] [[ayuda]] ✅ 2026-04-08
+	- [x] general ✅ 2026-04-01
+	- [x] staff ✅ 2026-04-08
+	- [x] comando ✅ 2026-04-08
 
 - [x] [[dado]] ✅ 2026-04-06
     - [x] general ✅ 2026-04-05
     - [x] contra ✅ 2026-04-05
     - [x] duelo ✅ 2026-04-06
-
-- [x] ayuda ✅ 2026-04-08
-	- [x] staff ✅ 2026-04-08
-	- [x] comando ✅ 2026-04-08
-
 
 - [x] [[db]] borrar ✅ 2026-04-11
 ### Eventos ✅
@@ -33,7 +33,7 @@ cssclasses:
 		- [x] crear ✅ 2026-04-10 ✅ 2026-04-13
 		- [x] borrar ✅ 2026-04-10 ✅ 2026-04-13
 
-- [x] lista personajes ✅ 2026-04-11 ✅ 2026-04-26
+- [x] [[lista]] personajes ✅ 2026-04-11 ✅ 2026-04-26
 
 - [x] [[personaje]]✅ 2026-04-14
 	- [x] seleccionar ✅ 2026-04-14
@@ -48,11 +48,11 @@ cssclasses:
 		- [x] quitardinero ✅ 2026-04-20
 		- [x] fijardinero ✅ 2026-04-20
 
-- [x] balance ✅ 2026-04-21
+- [x] [[billetera]] ✅ 2026-04-21
 	
-- [x] baltop ✅ 2026-04-21
+- [x] [[baltop]] ✅ 2026-04-21
 
-- [x] dinero ✅ 2026-04-22  ✅ 2026-04-29
+- [x] [[dinero]] ✅ 2026-04-22  ✅ 2026-04-29
 	- [x] dar ✅ 2026-04-22  ✅ 2026-04-29
 
 ### Eventos
@@ -70,114 +70,118 @@ cssclasses:
 		- [x] daritem ✅ 2026-05-02
 		- [x] quitaritem ✅ 2026-05-02
 
-- [x] item info ✅ 2026-04-30
+
+- [x] [[inventario]] ✅ 2026-05-03
 	
-- [x] inventario ✅ 2026-05-03
+- [x] [[item]] ✅ 2026-05-03
+	- [x] info ✅ 2026-04-30
+	- [x] dar ✅ 2026-05-03
+	- [ ] usar
 	
-- [x] item ✅ 2026-05-03
-	- [x] item dar ✅ 2026-05-03
-	- [ ] item usar
+- [ ] [[intercambio]] 
 	
-- [ ] intercambio 
-	
-- [ ] lista items
+- [ ] [[lista]] 
+	- [ ] items
 
 ## Módulo IV: Tiendas
 ### Comandos
 
-- [ ] tienda
+- [ ] [[tienda]]
 	- [ ] ver
 	- [ ] comprar
 	- [ ] vender
 
 ## Módulo V: Técnicas
-- [ ] espiritu
+- [ ] [[espiritu]]
 	
-- [ ] tecnica
-	- [ ] tecnica enseñar
-	- [ ] tecnica usar
+- [ ] [[tecnica]]
+	- [ ] enseñar
+	- [ ] usar
 	
-- [ ] lista tecnicas
+- [ ] [[lista]]
+	- [ ] tecnicas
 
 ## Modulo VI: Externo al bot
 ### Canales
 - [ ] Sin categoría
-	- [ ] Buscar rol
-	- [ ] El staff te lee
-	- [ ] Verificacion
+	- [ ] [[Buscar Rol]]
+	- [ ] [[El staff te lee]]
+	- [ ] [[Verificacion]]
 - [ ] Staff
-	- [ ] Staff chat
-	- [ ] Recursos
-	- [ ] Log
+	- [ ] [[Staff chat]]
+	- [ ] [[Recursos]]
+	- [ ] [[Log]]
 - [ ] Fichas
-	- [ ] Plantilla
-	- [ ] PJ Principal
-	- [ ] Verificación
-	- [ ] Secundarios
+	- [ ] [[Plantilla]]
+	- [ ] [[PJ Principal]]
+	- [ ] [[Verificacion de ficha]]
+	- [ ] [[Secundarios]]
 - [ ] Servidor
-	- [ ] Anuncios
-	- [ ] Autoroles
-	- [ ] Reglamento
+	- [ ] [[Anuncios]]
+	- [ ] [[Autoroles]]
+	- [ ] [[Reglamento]]
 - [ ] Chats
-	- [ ] General
-	- [ ] Debate
-	- [ ] Comandos
-	- [ ] NSFW
-	- [ ] Desahogo
-	- [ ] Arte
+	- [ ] [[General]]
+	- [ ] [[Debate]]
+	- [ ] [[Comandos]]
+	- [ ] [[NSFW]]
+	- [ ] [[Desahogo]]
+	- [ ] [[Arte]]
 - [ ] Chats de voz
-	- [ ] General
+	- [ ] [[General de voz]]
 - [ ] Economía
-	- [ ] Sistema
-	- [ ] Consumo
-	- [ ] Capital
-	- [ ] Estratos
+	- [ ] [[Sistema de economia]]
+	- [ ] [[Consumo]]
+	- [ ] [[Capital]]
+	- [ ] [[Estratos]]
 - [ ] Combate
-	- [ ] Sistema
-	- [ ] Rangos
-	- [ ] Arte Marcial
-	- [ ] Consensos
+	- [ ] [[Sistema de combate]]
+	- [ ] [[Rangos]]
+	- [ ] [[Arte Marcial]]
+	- [ ] [[Consensos]]
 - [ ] Biblioteca
-	- [ ] Cultura
-	- [ ] Contexto
-	- [ ] Historia
+	- [ ] [[Cultura]]
+	- [ ] [[Contexto]]
+	- [ ] [[Historia]]
 ### Lore (Fuera del servidor)
+
 # Fase 2: Refinado
+> [!faq] Nota
+> Todavía los conceptos de esta etapa están muy verdes. Obviamente cosas de la fase 1 se refinarán también, pero no sé bien como estructurar ese módulo. Por ejemplo, el añadir técnicas, items. Un tema que veo del comando juego tambien es que son muy circunstanciales los juegos de casino, así que capaz lo haga con embeds con botones que respondan. Veré una forma de eso. Por ejemplo, los tragaperras podrían ser así como digo. Pero el rasca y gana desde el anterior bot que lo quiero hacer así
+> > [!note] Aún así
+> > Acá si tengo dirección. Por ejemplo, monedas tendrá no solo la inflación dinámica de la moneda local, si no muchas cosas, como el cambio de divisas
 ## Módulo I: Monedas
+
 ## Módulo II: Mercado de valores
 ## Módulo III: Instituciones
 
 ## Módulo IV: Ludopatía
 ### Comandos
 
-- [ ] juego
+- [ ] [[juego]]
     - [ ] ruleta
     - [ ] tragaperras
     - [ ] craps
     - [ ] blackjack
     - [ ] truco
 
-- [ ] item
+- [ ] [[item]]
 	- [ ] usar
 		- [ ] rasca y gana 
 ## Módulo V: mongoDB 
 ## Modulo VI: Canales de rol
 # Fase 3: Extras
-Acá irían cosas como los minijuegos de trabajos, rankings, pelotudeces
+> [!abstract] Extras
+Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
 Programas de radio tal vez
+¿Contenedores? El tablero. Mecánica de celular, llamadas y mensajes
 # Interludio: Beta cerrada
 > [!faq] Nota
 > Luego de terminar las 3 fases, se vendría una etapa rara. Es decir, no es desarrollo activo pero tampoco está todo terminado. A partir de acá se va a venir la beta y luego de que termine la beta, pasará de fases a temporadas.
 ## Ambientación e historia
 ## Evento (único)
 # Temporada 1: El auge del emperador (2038)
-# Notas
-ah mal que en los que tienen más de 5 opciones puedo usar stringmenu
-El tema del juego tambien es que son muy circunstanciales, así que capaz lo haga con embeds con botones que respondan. Veré una forma de eso. Por ejemplo, los tragaperras podrían ser así como digo. Pero el rasca y gana desde el anterior bot que lo quiero hacer así
-No va a haber cosas como depositar porque se harían manualmente, los bancos serían reales y podes interactuar con ellos, puede crecer tu dinero
-
-Falta el tema del mercado de capitales, los bonos, tal. Pero no sé como encajarlo sinceramente
-
-Los trabajos que había hecho y los que tenía pendientes, si serán como digo arriba, embeds con botones. Arcades o cosas así
-
-El tablero está descartadisimo. O bueno, podría experimentar con él realmente, pero en un enfoque más laburando que el de puro hueso, que era malo por ser muy arbitrario
+> [!info] En qué consistirá
+> Acá es dónde el servidor se tendría que consolidar. Primero existirían las alianzas, claramente. Pero el objetivo es que para la temporada 2 no las necesitemos más gracias a las recompensas (como bonos) y al sistema de partners mensual
+## Eventos
+## Actualizaciones
