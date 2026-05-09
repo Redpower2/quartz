@@ -22,7 +22,7 @@
 - [x] Ready del bot ✅ 2026-03-22
 
 ## Módulo II: Economía básica
-### Comandos
+### Comandos ✅
 
 - [x] [[db]] ✅ 2026-04-10 ✅ 2026-04-13
 	- [x] personaje ✅ 2026-04-10 ✅ 2026-04-13
@@ -51,12 +51,12 @@
 - [x] [[dinero]] ✅ 2026-04-22  ✅ 2026-04-29
 	- [x] dar ✅ 2026-04-22  ✅ 2026-04-29
 
-### Eventos
+### Eventos ✅
 - [x] Salario ✅ 2026-05-04
 - [x] Manejo y chequeo congelamiento ✅ 2026-05-04
 
 ## Módulo III: Items
-### Comandos
+### Comandos ✅
 
 - [x] [[db]] ✅ 2026-04-29
 	- [x] item ✅ 2026-04-29
@@ -72,12 +72,14 @@
 - [x] [[item]] ✅ 2026-05-03
 	- [x] info ✅ 2026-04-30
 	- [x] dar ✅ 2026-05-03
-	- [ ] usar
+	- [x] usar ✅ 2026-05-08
 	
 - [ ] [[intercambio]] 
 	
 - [ ] [[lista]] 
 	- [ ] items
+### Usos ✅
+- [x] Permatrago (objeto de prueba) ✅ 2026-05-08
 
 ## Módulo IV: Tiendas
 ### Comandos
@@ -88,6 +90,7 @@
 	- [ ] vender
 
 ## Módulo V: Técnicas
+
 - [ ] [[espiritu]]
 	
 - [ ] [[tecnica]]
@@ -99,6 +102,7 @@
 
 ## Modulo VI: Externo al bot
 ### Canales
+
 - [ ] Sin categoría
 	- [ ] [[Buscar Rol]]
 	- [ ] [[El staff te lee]]
@@ -168,9 +172,9 @@
 ## Modulo VI: Canales de rol
 # Fase 3: Extras
 > [!abstract] Extras
-Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
-Programas de radio tal vez
-¿Contenedores? El tablero. Mecánica de celular, llamadas y mensajes. Resolver el eterno dilema del icono del servidor, si será una bandera, si será un escudo, si será cuadrado
+> Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
+   Programas de radio tal vez
+   ¿Contenedores? El tablero. Mecánica de celular, llamadas y mensajes. Resolver el eterno dilema del icono del servidor, si será una bandera, si será un escudo, si será cuadrado. Testeo intensivo de todos los comandos
 
 # Interludio: Beta cerrada
 > [!faq] Nota
