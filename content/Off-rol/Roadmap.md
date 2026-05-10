@@ -1,3 +1,5 @@
+Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, pero porque le doy un uso más personal que para subirlo público. Aunque se digan cosas como "Lore" y eventos, en realidad no se debería explicitar nada de eso y solamente actuar como checklist o mostrar las premisas como máximo
+
 # Fase 1: Integridad
 > [!warning] Advertencia
 > Hay comandos que no escalarán bien. Hay embeds (Como el de los comandos "lista") que podrán exceder el limite de caracteres, o situaciones en las que los botones no serán la opción más práctica (Por ejemplo, en los casos de que haya que elegir un personaje con el alias), teniendo como alternativa el stringmenu
