@@ -24,16 +24,16 @@
 ## Módulo II: Economía básica
 ### Comandos ✅
 
-- [x] [[db]] ✅ 2026-04-10 ✅ 2026-04-13
-	- [x] personaje ✅ 2026-04-10 ✅ 2026-04-13
-		- [x] crear ✅ 2026-04-10 ✅ 2026-04-13
-		- [x] borrar ✅ 2026-04-10 ✅ 2026-04-13
+- [ ] [[db]] ✅ 2026-04-10 ✅ 2026-04-13
+	- [ ] personaje ✅ 2026-04-10 ✅ 2026-04-13
+		- [ ] crear ✅ 2026-04-10 ✅ 2026-04-13
+		- [ ] borrar ✅ 2026-04-10 ✅ 2026-04-13
 
 - [x] [[lista]] personajes ✅ 2026-04-11 ✅ 2026-04-26
 
-- [x] [[personaje]]✅ 2026-04-14
+- [ ] [[personaje]]✅ 2026-04-14
 	- [x] seleccionar ✅ 2026-04-14
-	- [x] ver ✅ 2026-04-11 ✅ 2026-04-14 
+	- [ ] ver ✅ 2026-04-11 ✅ 2026-04-14 
 	- [x] congelar ✅ 2026-04-14
 	- [x] descongelar ✅ 2026-04-14
 
@@ -48,6 +48,7 @@
 	
 - [x] [[baltop]] ✅ 2026-04-21
 
+//La implementación de la billetera bien se dará en la fase 2.
 - [x] [[dinero]] ✅ 2026-04-22  ✅ 2026-04-29
 	- [x] dar ✅ 2026-04-22  ✅ 2026-04-29
 
@@ -58,21 +59,21 @@
 ## Módulo III: Items
 ### Comandos ✅
 
-- [x] [[db]] ✅ 2026-04-29
-	- [x] item ✅ 2026-04-29
-		- [x] crear ✅ 2026-04-29
-		- [x] borrar ✅ 2026-04-29
-	- [x] personaje ✅ 2026-05-02
-		- [x] daritem ✅ 2026-05-02
-		- [x] quitaritem ✅ 2026-05-02
+- [ ] [[db]] ✅ 2026-04-29
+	- [ ] item ✅ 2026-04-29
+		- [ ] crear ✅ 2026-04-29
+		- [ ] borrar ✅ 2026-04-29
+	- [ ] personaje ✅ 2026-05-02
+		- [ ] daritem ✅ 2026-05-02
+		- [ ] quitaritem ✅ 2026-05-02
 
 
-- [x] [[inventario]] ✅ 2026-05-03
+- [ ] [[inventario]] ✅ 2026-05-03
 	
-- [x] [[item]] ✅ 2026-05-03
-	- [x] info ✅ 2026-04-30
-	- [x] dar ✅ 2026-05-03
-	- [x] usar ✅ 2026-05-08
+- [ ] [[item]] ✅ 2026-05-03
+	- [ ] info ✅ 2026-04-30
+	- [ ] dar ✅ 2026-05-03
+	- [ ] usar ✅ 2026-05-08
 	
 - [ ] [[intercambio]] 
 	
