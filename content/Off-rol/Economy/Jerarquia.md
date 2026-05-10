@@ -10,8 +10,8 @@ PJ[("Personajes")]
 	Inv(["Inventario"])
 	Alias(["Alias"])
 	ID(["ID"])
-	Bil(["Billetera"])
 	UId(["UserId"])
+	Bil(["Billetera"])
 
 Users[("Usuarios")]
 
@@ -58,5 +58,6 @@ Inst --> Emp
 
 Prop --> Viv
 Prop --> Neg
+	Emp --> Neg
 ```
 
