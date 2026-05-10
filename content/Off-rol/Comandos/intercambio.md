@@ -8,9 +8,15 @@ Botón verde ✔️
 
 Y saldrá un embed que voy a estructurar más pronto que tarde, pero voy a aprovechar y usar los components v2, medio basado en mundo gaturro, probablemente más de 1 cosa a la vez, es decir, no item x item si no, capaz darle 3 cosas como maximo
 
-Al principio solo será intercambio de dinero y de items, pero se le sumarán bonos, acciones y esas boludeces. Quiero aclarar que no se podrá intercambiar las técnicas, suena obvio pero soy capaz de olvidarme.
+Al principio solo será intercambio de dinero y de items, pero se le sumarán bonos, acciones y esas boludeces. Quiero aclarar que no se podrá intercambiar las técnicas, suena obvio pero soy capaz de olvidarme. 
+Y claro, se podrá hacer que te den los 4 slots y vos no des nada.
+
+Por el sistema actual de como se maneja las cantidades de items, solo se podrá dar 1 item a la vez. Lo cuál es medio paja pero ya lo resolveré después. "Después" es una palabra común
 
 Será un embed con 4 botones grises de cada lado, no lo pensé muy bien pero pensaba tipo que puedas presionar tanto tus botones como los del otro.
+![[Pasted image 20260510163140.png]]
+3 propuestas de colores de botones (no puedo probar el separator porque es de pago, desgraciadamente)
+Me gusta más la tercera
 ### Tus botones
 Al presionarse por primera vez, te manda a un form con apartados como items, acciones, bonos, bueno, lo típico. Por ahora solo estaría item y dinero
 Si pones 2 cosas a la vez en un mismo form, no vale. O puedo hacer 2 forms, uno para elegir que querés tradear. Ni idea.
