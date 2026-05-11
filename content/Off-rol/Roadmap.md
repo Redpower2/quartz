@@ -61,21 +61,21 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 ## Módulo III: Items
 ### Comandos ✅
 
-- [ ] [[db]] ✅ 2026-04-29
+- [x] [[db]] ✅ 2026-04-29 ✅ 2026-05-02 ✅ 2026-05-11
 	- [x] item ✅ 2026-04-29 ✅ 2026-05-11
 		- [x] crear ✅ 2026-04-29 ✅ 2026-05-11
 		- [x] borrar ✅ 2026-04-29 ✅ 2026-05-11
-	- [ ] personaje ✅ 2026-05-02
-		- [ ] daritem ✅ 2026-05-02
-		- [ ] quitaritem ✅ 2026-05-02
+	- [x] personaje ✅ 2026-05-02 ✅ 2026-05-11
+		- [x] daritem ✅ 2026-05-02 ✅ 2026-05-11
+		- [x] quitaritem ✅ 2026-05-02 ✅ 2026-05-11
 
 
-- [ ] [[inventario]] ✅ 2026-05-03
+- [x] [[inventario]] ✅ 2026-05-03 ✅ 2026-05-11
 	
-- [ ] [[item]] ✅ 2026-05-03
-	- [ ] info ✅ 2026-04-30
-	- [ ] dar ✅ 2026-05-03
-	- [ ] usar ✅ 2026-05-08
+- [x] [[item]] ✅ 2026-05-03 ✅ 2026-05-11
+	- [x] info ✅ 2026-04-30 ✅ 2026-05-11
+	- [x] dar ✅ 2026-05-08 ✅ 2026-05-11
+	- [x] usar ✅ 2026-05-08 ✅ 2026-05-11
 	
 - [ ] [[intercambio]] 
 	
