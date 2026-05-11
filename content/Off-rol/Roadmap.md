@@ -62,9 +62,9 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 ### Comandos ✅
 
 - [ ] [[db]] ✅ 2026-04-29
-	- [ ] item ✅ 2026-04-29
-		- [ ] crear ✅ 2026-04-29
-		- [ ] borrar ✅ 2026-04-29
+	- [x] item ✅ 2026-04-29 ✅ 2026-05-11
+		- [x] crear ✅ 2026-04-29 ✅ 2026-05-11
+		- [x] borrar ✅ 2026-04-29 ✅ 2026-05-11
 	- [ ] personaje ✅ 2026-05-02
 		- [ ] daritem ✅ 2026-05-02
 		- [ ] quitaritem ✅ 2026-05-02
