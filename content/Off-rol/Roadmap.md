@@ -26,16 +26,16 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 ## Módulo II: Economía básica
 ### Comandos ✅
 
-- [ ] [[db]] ✅ 2026-04-10 ✅ 2026-04-13
-	- [ ] personaje ✅ 2026-04-10 ✅ 2026-04-13
-		- [ ] crear ✅ 2026-04-10 ✅ 2026-04-13
-		- [ ] borrar ✅ 2026-04-10 ✅ 2026-04-13
+- [x] [[db]] ✅ 2026-04-10 ✅ 2026-04-13 ✅ 2026-05-10
+	- [x] personaje ✅ 2026-04-10 ✅ 2026-04-13 ✅ 2026-05-10
+		- [x] crear ✅ 2026-04-10 ✅ 2026-04-13 ✅ 2026-05-10
+		- [x] borrar ✅ 2026-04-10 ✅ 2026-04-13 ✅ 2026-05-10
 
 - [x] [[lista]] personajes ✅ 2026-04-11 ✅ 2026-04-26
 
-- [ ] [[personaje]]✅ 2026-04-14
+- [x] [[personaje]] ✅ 2026-04-14 ✅ 2026-05-10
 	- [x] seleccionar ✅ 2026-04-14
-	- [ ] ver ✅ 2026-04-11 ✅ 2026-04-14 
+	- [x] ver ✅ 2026-04-11 ✅ 2026-04-14  ✅ 2026-05-10
 	- [x] congelar ✅ 2026-04-14
 	- [x] descongelar ✅ 2026-04-14
 
