@@ -25,9 +25,6 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 
 ## Módulo II: Economía básica
 ### Comandos ✅
-> [!danger] ¡PROBLEMA SERIO!
-> El comando "dinero dar" no tiene nada que evite que no puedas darte dinero a uno de tus propios personajes. Esto no significa nada, pero no debería pasar.
-
 
 - [x] [[db]] ✅ 2026-04-10 ✅ 2026-04-13 ✅ 2026-05-10
 	- [x] personaje ✅ 2026-04-10 ✅ 2026-04-13 ✅ 2026-05-10
@@ -62,8 +59,6 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [x] Manejo y chequeo congelamiento ✅ 2026-05-04
 
 ## Módulo III: Items
-> [!danger] ¡PROBLEMA SERIO!
-> Los comandos "item dar" e "intercambio" no manejan el caso de que puedas tratar de interactuar con uno de tus personajes. Esto especialmente en el último caso es potencialmente catastrófico por como se maneja la interacción, puede llevar a bugs graves
 ### Comandos ✅
 
 - [x] [[db]] ✅ 2026-04-29 ✅ 2026-05-02 ✅ 2026-05-11
