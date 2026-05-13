@@ -59,6 +59,8 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [x] Manejo y chequeo congelamiento ✅ 2026-05-04
 
 ## Módulo III: Items
+> [!warning] Intercambio
+> Remitiendose a la primera advertencia de la fase 1, intercambio puede llegar a tener problemas en el stringmenu en caso de que tengas mas de 25 items. No sé si eso sería alcanzable en el rol, pero de todas formas hay que pensarlo como algo que puede pasar
 ### Comandos ✅
 
 - [x] [[db]] ✅ 2026-04-29 ✅ 2026-05-02 ✅ 2026-05-11
