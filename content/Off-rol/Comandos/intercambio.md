@@ -27,3 +27,10 @@ Si presionas un botón por segunda vez, lo sacás de la oferta.
 Cuando presionás los botones del otro, te manda un mensaje efímero de qué se supone que es
 # ¿Alternativas?
 Pensaba hacerlo como imagenes pequeñas o algo así pero no sé si es posible o si vale la pena la paja mental. Los emojis son minimalistas y quedan lindo
+# A laburar
+Si uno presiona cancelar, se cancela todo.
+Si uno presiona confirmar, solamente se confirma su parte y se manda al Set. Se espera al otro, hasta que ambos ids estén en el Set, y ahí se dan los items.
+Si presionas de vuelta confirmar antes de que ambos estén en el Set, entonces se te quita del Set
+![[Pasted image 20260512202218.png]]
+
+Luego de llenar el form, los datos de los casilleros se guardarían en un Map, ya sea dinero
