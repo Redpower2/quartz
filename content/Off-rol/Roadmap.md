@@ -156,13 +156,12 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 	- [/] [[Cultura]]
 	- [/] [[Contexto]]
 	- [/] [[Historia]]
-### Lore (Fuera del servidor)
 
 # Fase 2: Refinado
 > [!faq] Nota
 > Todavía los conceptos de esta etapa están muy verdes. Obviamente cosas de la fase 1 se refinarán también, pero no sé bien como estructurar ese módulo. Por ejemplo, el añadir técnicas, items. Un tema que veo del comando juego tambien es que son muy circunstanciales los juegos de casino, así que capaz lo haga con embeds con botones que respondan. Veré una forma de eso. Por ejemplo, los tragaperras podrían ser así como digo. Pero el rasca y gana desde el anterior bot que lo quiero hacer así
 > > [!note] Aún así
-> > Acá si tengo dirección. Por ejemplo, monedas tendrá no solo la inflación dinámica de la moneda local, si no muchas cosas, como el cambio de divisas. Habrá un pulido sobre los items, tipo, van a dejar de ser referencias directas y veré como las manejo, pero mi idea es que haya degradación de las armas y esas cosas. El concepto de autoridad narrativa
+> > Acá si tengo dirección. Por ejemplo, monedas tendrá no solo la inflación dinámica de la moneda local, si no muchas cosas, como el cambio de divisas. Habrá un pulido sobre los items, tipo mi idea es que haya degradación de las armas y esas cosas. El concepto de autoridad narrativa
 ## Módulo I: Monedas
 
 ## Módulo II: Mercado de valores
@@ -190,11 +189,39 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
    Programas de radio tal vez
    ¿Contenedores? El tablero. Mecánica de celular, llamadas y mensajes. Resolver el eterno dilema del icono del servidor, si será una bandera, si será un escudo, si será cuadrado. Testeo intensivo de todos los comandos
 
-# Interludio: Beta cerrada
+# Interludio: Tiempo muerto
 > [!faq] Nota
-> Luego de terminar las 3 fases, se vendría una etapa rara. Es decir, no es desarrollo activo pero tampoco está todo terminado. A partir de acá se va a venir la beta y luego de que termine la beta, pasará de fases a temporadas.
-## Ambientación e historia
-## Evento (único)
+> Luego de terminar las 3 fases, se vendría una etapa rara. Me dedicaré a escribir lore y a hacer mantenimiento básico, pulir estética si es necesario, revisar si hay bugs. Esto también es para retrasar el lanzamiento un poco y no volver a Discord de un tirón
+## Religiones
+Con los metahumanos existiendo, no solo cambiará el día a día si no que habrán cultos y esas cosas. Btw esto se tendrá que explicar en la geopolítica alternativa también, al menos una explicación vaga de lo que se cree que es su origen
+## Lore
+- [ ] Islas Manya
+	- [ ] Mitos tribales | Poesía
+	- [ ] Crónicas Jar-Tec | Prosa de narrador poco fiable
+	- [ ] Escrituras de la Época oscura
+	- [ ] Cantos
+	- [ ] Genealogías
+- [ ] Dinastía Shi
+	- [ ] Crónicas chinas de la casa Shi (de su fundación hasta la llegada a Manya)
+	- [ ] Historia oficial
+	- [ ] Testimonios apócrifos
+- [ ] Nueva Castilla
+    - [ ] Testimonio español
+    - [ ] Testimonio holandés 
+    - [ ] Historia oficial
+- [ ] Geopolítica Alternativa
+	- [ ] Primeras apariciones documentadas de los metahumanos.
+	- [ ] Ambiente en China con la casa Shi hasta 1644
+	- [ ] Siglo XIX
+	- [ ] Guerra fría
+	- [ ] Actualidad
+## Mantenimiento
+- Añadir items
+- Añadir tecnicas
+- Añadir NPCs a personajes
+- Añadir instituciones
+# Temporada 0: La simulación (2026)
+## Subeventos
 # Temporada 1: El auge del emperador (2038)
 > [!info] En qué consistirá
 > Acá es dónde el servidor se tendría que consolidar. Primero existirían las alianzas, claramente. Pero el objetivo es que para la temporada 2 no las necesitemos más gracias a las recompensas (como bonos) y al sistema de partners mensual
