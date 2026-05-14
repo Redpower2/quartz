@@ -81,8 +81,8 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 	
 - [x] [[intercambio]] ✅ 2026-05-13
 	
-- [ ] [[lista]] 
-	- [ ] items
+- [x] [[lista]] ✅ 2026-05-14
+	- [x] items ✅ 2026-05-14
 ### Usos ✅
 - [x] Permatrago (objeto de prueba) ✅ 2026-05-08
 
@@ -90,9 +90,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 ### Comandos
 
 - [ ] [[tienda]]
-	- [ ] ver
-	- [ ] comprar
-	- [ ] vender
+
 
 ## Módulo V: Técnicas
 > [!info] Manejo de personajes propios
