@@ -79,7 +79,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 	- [x] dar ✅ 2026-05-08 ✅ 2026-05-11
 	- [x] usar ✅ 2026-05-08 ✅ 2026-05-11
 	
-- [ ] [[intercambio]] 
+- [x] [[intercambio]] ✅ 2026-05-13
 	
 - [ ] [[lista]] 
 	- [ ] items
