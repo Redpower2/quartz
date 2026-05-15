@@ -118,10 +118,6 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 	- [/] [[Buscar Rol]] // Fase 2
 	- [x] [[El staff te lee]] ✅ 2026-02-24
 	- [x] [[Verificacion]] ✅ 2026-02-24
-- [x] Staff ✅ 2026-02-26
-	- [x] [[Staff chat]] ✅ 2026-02-24
-	- [x] [[Recursos]] ✅ 2026-02-24
-	- [x] [[Log]] ✅ 2026-02-26
 - [x] Fichas ✅ 2026-03-15
 	- [x] [[Plantilla]] ✅ 2026-03-15
 	- [x] [[PJ Principal]] ✅ 2026-03-15
@@ -151,7 +147,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 	- [ ] [[Arte Marcial]]
 	- [ ] [[Consensos]]
 - [/] Biblioteca // Fase 2
-	- [/] [[Cultura]]
+	- [/] [[Canal cultura|Cultura]]
 	- [/] [[Contexto]]
 	- [/] [[Historia]]
 
