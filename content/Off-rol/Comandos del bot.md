@@ -12,6 +12,7 @@
 - [[intercambio]]
 - [[inventario]]
 - [[item]]
+- [[juego]]
 - [[personaje]]
 - [[tecnica]]
 - [[tienda]]
