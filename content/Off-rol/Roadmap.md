@@ -117,37 +117,37 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [x] Sin categoría ✅ 2026-02-24
 	- [/] [[Buscar Rol]] // Fase 2
 	- [x] [[El staff te lee]] ✅ 2026-02-24
-	- [x] [[Verificacion]] ✅ 2026-02-24
+	- [x] [[Off-rol/Servidor/Canales/Sin categoría/Verificacion]] ✅ 2026-02-24
 - [x] Fichas ✅ 2026-03-15
 	- [x] [[Plantilla]] ✅ 2026-03-15
 	- [x] [[PJ Principal]] ✅ 2026-03-15
-	- [x] [[Verificacion de ficha]] ✅ 2026-03-15
+	- [x] [[Off-rol/Servidor/Canales/Fichas/Verificacion]] ✅ 2026-03-15
 	- [x] [[Secundarios]] ✅ 2026-03-15
 - [x] Servidor ✅ 2026-02-24
 	- [x] [[Anuncios]] ✅  2026-02-24
 	- [x] [[Autoroles]] ✅ 2026-02-25
 	- [x] [[Reglamento]] ✅ 2026-04-14
 - [x] Chats ✅ 2026-02-22
-	- [x] [[General]] ✅ 2026-02-12
+	- [x] [[Off-rol/Servidor/Canales/Chats/General]] ✅ 2026-02-12
 	- [x] [[Debate]] ✅ 2026-02-22
-	- [x] [[Comandos]] ✅ 2026-02-22
+	- [x] [[Off-rol/Servidor/Canales/Chats/Comandos|Comandos]] ✅ 2026-02-22
 	- [x] [[NSFW]] ✅ 2026-02-22
 	- [x] [[Desahogo]] ✅ 2026-02-22
 	- [x] [[Arte]] ✅ 2026-02-22
 - [x] Chats de voz ✅ 2026-02-12
-	- [x] [[General de voz]] ✅ 2026-02-12
+	- [x] [[Off-rol/Servidor/Canales/Chats de voz/General]] ✅ 2026-02-12
 - [ ] Economía
-	- [x] [[Sistema de economia]] ✅ 2026-03-18
+	- [x] [[Off-rol/Servidor/Canales/Economia/Sistema]] ✅ 2026-03-18
 	- [ ] [[Consumo]]
 	- [/] [[Capital]] // Fase 2
 	- [x] [[Estratos]] ✅ 2026-04-14
 - [ ] Combate
-	- [x] [[Sistema de combate]] ✅ 2026-03-15
+	- [x] [[Off-rol/Servidor/Canales/Combate/Sistema]] ✅ 2026-03-15
 	- [x] [[Rangos]] ✅ 2026-03-15
 	- [ ] [[Arte Marcial]]
 	- [ ] [[Consensos]]
 - [/] Biblioteca // Fase 2
-	- [/] [[Canal cultura|Cultura]]
+	- [/] [[Off-rol/Servidor/Canales/Biblioteca/Cultura|Cultura]]
 	- [/] [[Contexto]]
 	- [/] [[Historia]]
 

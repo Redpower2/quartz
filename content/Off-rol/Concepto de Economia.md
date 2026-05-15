@@ -11,7 +11,7 @@ Mientras más rolees, más plata vas a tener. La plata se te da por cada mensaje
 《🍽️》Pobrex1
 《💀》Indigente: x0
 
-Por eso es conveniente elegir un trabajo para tu personaje porque es todo beneficios y no tenés que trabajar. Es automático, no tenés que hacer ningún trámite. Sin embargo, podés tener algunos ingresos extras con [Contratos] y [Juegos y Apuestas]
+Por eso es conveniente elegir un trabajo para tu personaje porque es todo beneficios y no tenés que trabajar. Es automático, no tenés que hacer ningún trámite. Sin embargo, podés tener algunos ingresos extras con Contratos y Juegos y Apuestas
 
 La moneda puede sufrir por inflación, y los precios se pueden ver distorsionados por los impuestos que meta el noble vigente.
 Si llegas a ocupar cupo de Burgués, podés cotizar en bolsa como uno más. Ya que podes invertir en la bolsa
