@@ -3,11 +3,12 @@
 - [[baltop]]
 - [[db]] (Exclusivo del staff)
 - [[lista]]
-- Test
+- [[test]]
 ## Rol
 - [[billetera]]
 - [[dado]]
 - [[dinero]]
+- [[espiritu]]
 - [[intercambio]]
 - [[inventario]]
 - [[item]]
