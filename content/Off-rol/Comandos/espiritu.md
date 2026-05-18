@@ -1,2 +1,1 @@
-> [!info] Vacío
-> Esta página está vacía, ya que no la necesité durante el desarrollo. Puede que haya algo en el futuro
+Sinceramente no sé como será el concepto de espiritu. Tengo las tecnicas muy inmaduras. Tendría que plantear desde acá, al menos, un boceto de como serán las técnicas
