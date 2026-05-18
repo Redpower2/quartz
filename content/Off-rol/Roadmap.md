@@ -98,14 +98,14 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 >>[!tip] Técnicas interactivas
 >>En una nota aparte, quizás haga tecnicas interactivas, estaría bueno. Algo así como que tengas que presionar 3 botones en un orden o que el otro te lo pueda responder si es rápido. No lo sé, el components v2 deja espacio a ideas locas
  
-- [ ] [[espiritu]]
+- [x] [[espiritu]] ✅ 2026-05-18
 	
 - [ ] [[tecnica]]
 	- [ ] enseñar
 	- [ ] usar
 	
-- [ ] [[lista]]
-	- [ ] tecnicas
+- [x] [[lista]] ✅ 2026-05-18
+	- [x] tecnicas ✅ 2026-05-18
 
 ## Modulo VI: Externo al bot
 ### Roles
@@ -176,7 +176,9 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 		- [ ] rasca y gana 
 ## Módulo V: mongoDB 
 ## Módulo VI: Items 2
-## Modulo VII: Canales de rol
+## Módulo VII: Canales de rol
+## Módulo VIII: Estructura interna del bot
+- [ ] Refactorizar subcomandos (cambiar a nombres más genéricos como sub1 y manejarlo desde el handler de comandos directamente para evitar repetir código)
 # Fase 3: Extras
 > [!abstract] Extras
 > Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
