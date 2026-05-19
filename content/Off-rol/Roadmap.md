@@ -102,7 +102,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 	
 - [ ] [[tecnica]]
 	- [ ] enseñar
-	- [ ] usar
+	- [x] usar ✅ 2026-05-19
 	
 - [x] [[lista]] ✅ 2026-05-18
 	- [x] tecnicas ✅ 2026-05-18
