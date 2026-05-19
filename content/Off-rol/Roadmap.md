@@ -163,11 +163,13 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 	- [ ] seleccionar
 	- [ ] dar
 
-## Módulo II: Instituciones [[#Módulo I Monedas|(REQUIERE MÓDULO I)]]
+## Módulo II: Instituciones y Propiedades [[#Módulo I Monedas|(REQUIERE MÓDULO I)]]
 Bancos, estado, nobleza, empresas.
 Prestamos, tasa de interés, bonos
 Mercado de valores
 Pensaba que en vez de comandos, se maneje con brokers. Y bueno, tal vez se cree un hilo privado tuyo, con todos tus movimientos.
+
+
 
 ## Módulo III: Ludopatía
 Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no sean comandos, si no que embeds en hilos o en publicaciones de foros. Podría ser que /juego invoque un hilo o algo así, y después lo borre o ni idea
