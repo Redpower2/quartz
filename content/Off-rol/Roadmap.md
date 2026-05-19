@@ -186,8 +186,9 @@ Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no 
 ## Módulo IV: Estructura interna del bot
 - [ ] Refactorizar subcomandos (cambiar a nombres más genéricos como sub1 y manejarlo desde el handler de comandos directamente para evitar repetir código)
 - [ ] Mudarse a MongoDB
-## Módulo V: Items 2
-Durabilidad y caracteristicas especiales de los items
+- [ ] Durabilidad y caracteristicas especiales de los items
+- [ ] Optimizar las propiedades de personaje, porque es un desastre. Podría hacer el espiritu una moneda, juntar inventario y tecnicas en una propiedad que se llame entidades
+
 ## Módulo VI: Canales de rol
 # Fase 3: Extras
 > [!abstract] Extras
