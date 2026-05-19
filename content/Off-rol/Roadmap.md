@@ -3,7 +3,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 # Fase 1: Integridad
 > [!warning] Advertencia
 > Hay comandos que no escalarán bien. Hay embeds (Como el de los comandos "lista") que podrán exceder el limite de caracteres, o situaciones en las que los botones no serán la opción más práctica (Por ejemplo, en los casos de que haya que elegir un personaje con el alias), teniendo como alternativa el stringmenu
-## Módulo I: Bases
+## Módulo I: Bases ✅
 ### Comandos ✅
 
 - [x] [[test]] ✅ 2026-03-22
@@ -23,7 +23,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [x] Listener de comandos ✅ 2026-03-22
 - [x] Ready del bot ✅ 2026-03-22
 
-## Módulo II: Economía básica
+## Módulo II: Economía básica ✅
 ### Comandos ✅
 
 - [x] [[db]] ✅ 2026-04-10 ✅ 2026-04-13 ✅ 2026-05-10
@@ -58,7 +58,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [x] Salario ✅ 2026-05-04
 - [x] Manejo y chequeo congelamiento ✅ 2026-05-04
 
-## Módulo III: Items
+## Módulo III: Items ✅
 > [!warning] Intercambio
 > Remitiendose a la primera advertencia de la fase 1, intercambio puede llegar a tener problemas en el stringmenu en caso de que tengas mas de 25 items. No sé si eso sería alcanzable en el rol, pero de todas formas hay que pensarlo como algo que puede pasar
 ### Comandos ✅
@@ -157,11 +157,20 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 > > [!note] Aún así
 > > Acá si tengo dirección. Por ejemplo, monedas tendrá no solo la inflación dinámica de la moneda local, si no muchas cosas, como el cambio de divisas. Habrá un pulido sobre los items, tipo mi idea es que haya degradación de las armas y esas cosas. El concepto de autoridad narrativa
 ## Módulo I: Monedas
+### Comandos
+- [ ] ~~billetera~~ dinero
+	- [ ] ver 
+	- [ ] seleccionar
+	- [ ] dar
 
-## Módulo II: Mercado de valores
-## Módulo III: Instituciones
+## Módulo II: Instituciones [[#Módulo I Monedas|(REQUIERE MÓDULO I)]]
+Bancos, estado, nobleza, empresas.
+Prestamos, tasa de interés, bonos
+Mercado de valores
+Pensaba que en vez de comandos, se maneje con brokers. Y bueno, tal vez se cree un hilo privado tuyo, con todos tus movimientos.
 
-## Módulo IV: Ludopatía
+## Módulo III: Ludopatía
+Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no sean comandos, si no que embeds en hilos o en publicaciones de foros. Podría ser que /juego invoque un hilo o algo así, y después lo borre o ni idea
 ### Comandos
 
 - [ ] [[juego]]
@@ -170,15 +179,14 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
     - [ ] craps
     - [ ] blackjack
     - [ ] truco
-
-- [ ] [[item]]
-	- [ ] usar
-		- [ ] rasca y gana 
-## Módulo V: mongoDB 
-## Módulo VI: Items 2
-## Módulo VII: Canales de rol
-## Módulo VIII: Estructura interna del bot
+## Items
+- [ ] Rasca y gana (con su uso)
+## Módulo IV: Estructura interna del bot
 - [ ] Refactorizar subcomandos (cambiar a nombres más genéricos como sub1 y manejarlo desde el handler de comandos directamente para evitar repetir código)
+- [ ] Mudarse a MongoDB
+## Módulo V: Items 2
+Durabilidad y caracteristicas especiales de los items
+## Módulo VI: Canales de rol
 # Fase 3: Extras
 > [!abstract] Extras
 > Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
@@ -212,10 +220,10 @@ Con los metahumanos existiendo, no solo cambiará el día a día si no que habr�
 	- [ ] Guerra fría
 	- [ ] Actualidad
 ## Mantenimiento
-- Añadir items
-- Añadir tecnicas
-- Añadir NPCs a personajes
-- Añadir instituciones
+- [ ] Añadir items
+- [ ] Añadir tecnicas
+- [ ] Añadir NPCs a personajes
+- [ ] Añadir instituciones
 # Temporada 0: La simulación (2026)
 ## Subeventos
 # Temporada 1: El auge del emperador (2038)
