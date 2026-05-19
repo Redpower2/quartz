@@ -92,7 +92,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [ ] [[tienda]]
 
 
-## Módulo V: Técnicas
+## Módulo V: Técnicas✅
 > [!info] Manejo de personajes propios
 > Al igual que en los casos anteriores, cuando se llegue a crear "tecnica enseñar", se deberá manejar el caso de que sea uno de tus personajes y evite que lo uses. A menos de que seas staff.
 >>[!tip] Técnicas interactivas
@@ -100,8 +100,8 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
  
 - [x] [[espiritu]] ✅ 2026-05-18
 	
-- [ ] [[tecnica]]
-	- [ ] enseñar
+- [x] [[tecnica]] ✅ 2026-05-19
+	- [x] enseñar ✅ 2026-05-19
 	- [x] usar ✅ 2026-05-19
 	
 - [x] [[lista]] ✅ 2026-05-18
