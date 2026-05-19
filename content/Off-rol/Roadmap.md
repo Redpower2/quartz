@@ -93,11 +93,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 
 
 ## Módulo V: Técnicas✅
-> [!info] Manejo de personajes propios
-> Al igual que en los casos anteriores, cuando se llegue a crear "tecnica enseñar", se deberá manejar el caso de que sea uno de tus personajes y evite que lo uses. A menos de que seas staff.
->>[!tip] Técnicas interactivas
->>En una nota aparte, quizás haga tecnicas interactivas, estaría bueno. Algo así como que tengas que presionar 3 botones en un orden o que el otro te lo pueda responder si es rápido. No lo sé, el components v2 deja espacio a ideas locas
- 
+
 - [x] [[espiritu]] ✅ 2026-05-18
 	
 - [x] [[tecnica]] ✅ 2026-05-19
@@ -223,6 +219,9 @@ Con los metahumanos existiendo, no solo cambiará el día a día si no que habr�
 	- [ ] Guerra fría
 	- [ ] Actualidad
 ## Mantenimiento
+>[!tip] Técnicas interactivas
+>En una nota aparte, quizás haga tecnicas interactivas, estaría bueno. Algo así como que tengas que presionar 3 botones en un orden o que el otro te lo pueda responder si es rápido. No lo sé, el components v2 deja espacio a ideas locas
+ 
 - [ ] Añadir items
 - [ ] Añadir tecnicas
 - [ ] Añadir NPCs a personajes
