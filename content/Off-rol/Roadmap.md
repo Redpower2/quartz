@@ -105,7 +105,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [x] Darle colores a los roles ✅ 2026-05-10
 ### Canales
 
-- [x] Sin categoría ✅ 2026-02-24
+- [/] Sin categoría ✅ 2026-02-24
 	- [/] [[Buscar Rol]] // Fase intermedia
 	- [x] [[El staff te lee]] ✅ 2026-02-24
 	- [x] [[Off-rol/Servidor/Canales/Sin categoría/Verificacion|Verificacion]] ✅ 2026-02-24
@@ -132,11 +132,11 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 	- [/] [[Consumo]] // Fase 2
 	- [/] [[Capital]] // Fase 2
 	- [x] [[Estratos]] ✅ 2026-04-14
-- [ ] Combate
+- [/] Combate
 	- [x] [[Off-rol/Servidor/Canales/Combate/Sistema|Sistema]] ✅ 2026-03-15
 	- [x] [[Rangos]] ✅ 2026-03-15
 	- [/] [[Arte Marcial]] //Fase intermedia
-	- [ ] [[Consensos]]
+	- [x] [[Consensos]] ✅ 2026-05-20
 - [/] Biblioteca // Fase intermedia
 	- [/] [[Off-rol/Servidor/Canales/Biblioteca/Cultura|Cultura]]
 	- [/] [[Contexto]]
@@ -189,6 +189,28 @@ Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no 
 > Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
    Programas de radio tal vez
    ¿Contenedores? El tablero. Mecánica de celular, llamadas y mensajes. Resolver el eterno dilema del icono del servidor, si será una bandera, si será un escudo, si será cuadrado. Testeo intensivo de todos los comandos
+   
+## Comandos
+- [ ] [[staff]]
+	- [ ] canal
+		- [ ] crear
+		- [ ] borrar
+	- [ ] categoria
+		- [ ] crear
+		- [ ] borrar
+	- [ ] limpiar
+		- [ ] mensajes
+		- [ ] off-rol
+	- [ ] rol
+		- [ ] dar
+		- [ ] quitar
+		- [ ] crear
+	- [ ] verificar
+	- [ ] desverificar
+	- [ ] kickear
+	- [ ] banear
+	- [ ] info
+
 # Interludio: Tiempo muerto
 > [!faq] Nota
 > Luego de terminar las 3 fases, se vendría una etapa rara. Me dedicaré a escribir lore y a hacer mantenimiento básico, pulir estética si es necesario, revisar si hay bugs. Esto también es para retrasar el lanzamiento un poco y no volver a Discord de un tirón
