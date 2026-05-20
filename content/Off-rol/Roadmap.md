@@ -1,6 +1,6 @@
 Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, pero porque le doy un uso más personal que para subirlo público. Aunque se digan cosas como "Lore" y eventos, en realidad no se debería explicitar nada de eso y solamente actuar como checklist o mostrar las premisas como máximo
 
-# Fase 1: Integridad
+# Fase 1: Integridad✅
 > [!warning] Advertencia
 > Hay comandos que no escalarán bien. Hay embeds (Como el de los comandos "lista") que podrán exceder el limite de caracteres, o situaciones en las que los botones no serán la opción más práctica (Por ejemplo, en los casos de que haya que elegir un personaje con el alias), teniendo como alternativa el stringmenu
 ## Módulo I: Bases ✅
@@ -86,13 +86,9 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 ### Usos ✅
 - [x] Permatrago (objeto de prueba) ✅ 2026-05-08
 
-## Módulo IV: Tiendas
-### Comandos
 
-- [ ] [[tienda]]
-
-
-## Módulo V: Técnicas✅
+## Módulo IV: Técnicas✅
+### Comandos✅
 
 - [x] [[espiritu]] ✅ 2026-05-18
 	
@@ -107,11 +103,10 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 ### Roles
 - [x] Crear roles de los estilos de pelea ✅ 2026-05-10
 - [x] Darle colores a los roles ✅ 2026-05-10
-- [ ] Configurar permisos del off-rol
 ### Canales
 
 - [x] Sin categoría ✅ 2026-02-24
-	- [/] [[Buscar Rol]] // Fase 2
+	- [/] [[Buscar Rol]] // Fase intermedia
 	- [x] [[El staff te lee]] ✅ 2026-02-24
 	- [x] [[Off-rol/Servidor/Canales/Sin categoría/Verificacion|Verificacion]] ✅ 2026-02-24
 - [x] Fichas ✅ 2026-03-15
@@ -132,17 +127,17 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 	- [x] [[Arte]] ✅ 2026-02-22
 - [x] Chats de voz ✅ 2026-02-12
 	- [x] [[Off-rol/Servidor/Canales/Chats de voz/General|General]] ✅ 2026-02-12
-- [ ] Economía
+- [/] Economía
 	- [x] [[Off-rol/Servidor/Canales/Economia/Sistema|Sistema]] ✅ 2026-03-18
-	- [ ] [[Consumo]]
+	- [/] [[Consumo]] // Fase 2
 	- [/] [[Capital]] // Fase 2
 	- [x] [[Estratos]] ✅ 2026-04-14
 - [ ] Combate
 	- [x] [[Off-rol/Servidor/Canales/Combate/Sistema|Sistema]] ✅ 2026-03-15
 	- [x] [[Rangos]] ✅ 2026-03-15
-	- [ ] [[Arte Marcial]]
+	- [/] [[Arte Marcial]] //Fase intermedia
 	- [ ] [[Consensos]]
-- [/] Biblioteca // Fase 2
+- [/] Biblioteca // Fase intermedia
 	- [/] [[Off-rol/Servidor/Canales/Biblioteca/Cultura|Cultura]]
 	- [/] [[Contexto]]
 	- [/] [[Historia]]
@@ -152,22 +147,31 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 > Todavía los conceptos de esta etapa están muy verdes. Obviamente cosas de la fase 1 se refinarán también, pero no sé bien como estructurar ese módulo. Por ejemplo, el añadir técnicas, items. Un tema que veo del comando juego tambien es que son muy circunstanciales los juegos de casino, así que capaz lo haga con embeds con botones que respondan. Veré una forma de eso. Por ejemplo, los tragaperras podrían ser así como digo. Pero el rasca y gana desde el anterior bot que lo quiero hacer así
 > > [!note] Aún así
 > > Acá si tengo dirección. Por ejemplo, monedas tendrá no solo la inflación dinámica de la moneda local, si no muchas cosas, como el cambio de divisas. Habrá un pulido sobre los items, tipo mi idea es que haya degradación de las armas y esas cosas. El concepto de autoridad narrativa
-## Módulo I: Monedas
+## Módulo I: Estructura interna del bot
+- [ ] Refactorizar subcomandos (cambiar a nombres más genéricos como sub1 y manejarlo desde el handler de comandos directamente para evitar repetir código)
+- [ ] Mudarse a MongoDB
+- [ ] Durabilidad y caracteristicas especiales de los items
+- [ ] Optimizar las propiedades de personaje, porque es un desastre. Podría hacer el espiritu una moneda, juntar inventario y tecnicas en una propiedad que se llame entidades
+## Módulo II: Monedas
 ### Comandos
 - [ ] ~~billetera~~ dinero
 	- [ ] ver 
 	- [ ] seleccionar
 	- [ ] dar
 
-## Módulo II: Instituciones y Propiedades [[#Módulo I Monedas|(REQUIERE MÓDULO I)]]
+## Módulo III: Instituciones y Propiedades [[#Módulo II Monedas|(REQUIERE MÓDULO II)]]
 Bancos, estado, nobleza, empresas.
 Prestamos, tasa de interés, bonos
 Mercado de valores
 Pensaba que en vez de comandos, se maneje con brokers. Y bueno, tal vez se cree un hilo privado tuyo, con todos tus movimientos.
 
+## Módulo IV: Tiendas [[#Módulo III Instituciones y Propiedades Módulo I Monedas (REQUIERE MÓDULO I)|(REQUIERE MÓDULO III)]]
+### Comandos
+
+- [ ] [[tienda]]
 
 
-## Módulo III: Ludopatía
+## Módulo V: Ludopatía
 Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no sean comandos, si no que embeds en hilos o en publicaciones de foros. Podría ser que /juego invoque un hilo o algo así, y después lo borre o ni idea
 ### Comandos
 
@@ -177,21 +181,14 @@ Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no 
     - [ ] craps
     - [ ] blackjack
     - [ ] truco
-## Items
+### Items
 - [ ] Rasca y gana (con su uso)
-## Módulo IV: Estructura interna del bot
-- [ ] Refactorizar subcomandos (cambiar a nombres más genéricos como sub1 y manejarlo desde el handler de comandos directamente para evitar repetir código)
-- [ ] Mudarse a MongoDB
-- [ ] Durabilidad y caracteristicas especiales de los items
-- [ ] Optimizar las propiedades de personaje, porque es un desastre. Podría hacer el espiritu una moneda, juntar inventario y tecnicas en una propiedad que se llame entidades
 
-## Módulo VI: Canales de rol
 # Fase 3: Extras
 > [!abstract] Extras
 > Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
    Programas de radio tal vez
    ¿Contenedores? El tablero. Mecánica de celular, llamadas y mensajes. Resolver el eterno dilema del icono del servidor, si será una bandera, si será un escudo, si será cuadrado. Testeo intensivo de todos los comandos
-
 # Interludio: Tiempo muerto
 > [!faq] Nota
 > Luego de terminar las 3 fases, se vendría una etapa rara. Me dedicaré a escribir lore y a hacer mantenimiento básico, pulir estética si es necesario, revisar si hay bugs. Esto también es para retrasar el lanzamiento un poco y no volver a Discord de un tirón
@@ -226,6 +223,8 @@ Con los metahumanos existiendo, no solo cambiará el día a día si no que habr�
 - [ ] Añadir tecnicas
 - [ ] Añadir NPCs a personajes
 - [ ] Añadir instituciones
+ - [ ] Configurar permisos del off-rol
+ - [ ] Añadir canales de rol
 # Temporada 0: La simulación (2026)
 ## Subeventos
 # Temporada 1: El auge del emperador (2038)
