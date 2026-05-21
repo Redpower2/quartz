@@ -148,8 +148,38 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 > > [!note] Aún así
 > > Acá si tengo dirección. Por ejemplo, monedas tendrá no solo la inflación dinámica de la moneda local, si no muchas cosas, como el cambio de divisas. Habrá un pulido sobre los items, tipo mi idea es que haya degradación de las armas y esas cosas. El concepto de autoridad narrativa
 ## Módulo I: Estructura interna del bot
-- [ ] Refactorizar subcomandos (cambiar a nombres más genéricos como sub1 y manejarlo desde el handler de comandos directamente para evitar repetir código)
+- [x] Refactorizar subcomandos ✅ 2026-05-20
 - [ ] Mudarse a MongoDB
+	- [ ] Comandos a cambiar:
+		- [ ] baltop 
+		- [x] db personaje crear ✅ 2026-05-21
+		- [x] db personaje borrar ✅ 2026-05-21
+		- [x] db borrar ✅ 2026-05-21
+		- [ ] db personaje dardinero
+		- [ ] db personaje quitardinero
+		- [ ] db personaje fijardinero
+		- [ ] db crearitem
+		- [ ] db borraritem
+		- [ ] db personaje daritem
+		- [ ] db personaje quitaritem
+		- [ ] lista personajes
+		- [ ] lista items
+		- [ ] lista tecnicas
+		- [ ] ~~billetera~~ dinero ver
+		- [ ] dinero dar
+		- [ ] dinero seleccionar
+		- [ ] dinero cambiar
+		- [ ] espiritu
+		- [ ] intercambio
+		- [ ] item info
+		- [ ] item dar
+		- [ ] item usar
+		- [ ] personaje ver
+		- [ ] personaje seleccionar
+		- [ ] personaje congelar
+		- [ ] personaje descongelar
+		- [ ] tecnica enseñar 
+		- [ ] tecnica usar
 - [ ] Durabilidad y caracteristicas especiales de los items
 - [ ] Optimizar las propiedades de personaje, porque es un desastre. Podría hacer el espiritu una moneda, juntar inventario y tecnicas en una propiedad que se llame entidades
 ## Módulo II: Monedas
