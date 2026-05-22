@@ -149,37 +149,36 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 > > Acá si tengo dirección. Por ejemplo, monedas tendrá no solo la inflación dinámica de la moneda local, si no muchas cosas, como el cambio de divisas. Habrá un pulido sobre los items, tipo mi idea es que haya degradación de las armas y esas cosas. El concepto de autoridad narrativa
 ## Módulo I: Estructura interna del bot
 - [x] Refactorizar subcomandos ✅ 2026-05-20
-- [ ] Mudarse a MongoDB
-	- [ ] Comandos a cambiar:
-		- [ ] baltop 
+- [x] Mudarse a MongoDB ✅ 2026-05-22
+	- [x] Comandos a cambiar: ✅ 2026-05-22
+		- [x] baltop ✅ 2026-05-22
 		- [x] db personaje crear ✅ 2026-05-21
 		- [x] db personaje borrar ✅ 2026-05-21
 		- [x] db borrar ✅ 2026-05-21
-		- [ ] db personaje dardinero
-		- [ ] db personaje quitardinero
-		- [ ] db personaje fijardinero
-		- [ ] db crearitem
-		- [ ] db borraritem
-		- [ ] db personaje daritem
-		- [ ] db personaje quitaritem
-		- [ ] lista personajes
-		- [ ] lista items
-		- [ ] lista tecnicas
-		- [ ] ~~billetera~~ dinero ver
-		- [ ] dinero dar
-		- [ ] dinero seleccionar
-		- [ ] dinero cambiar
-		- [ ] espiritu
-		- [ ] intercambio
-		- [ ] item info
-		- [ ] item dar
-		- [ ] item usar
-		- [ ] personaje ver
-		- [ ] personaje seleccionar
-		- [ ] personaje congelar
-		- [ ] personaje descongelar
-		- [ ] tecnica enseñar 
-		- [ ] tecnica usar
+		- [x] db personaje dardinero ✅ 2026-05-21
+		- [x] db personaje quitardinero ✅ 2026-05-21
+		- [x] db personaje fijardinero ✅ 2026-05-21
+		- [x] db crearitem ✅ 2026-05-22
+		- [x] db borraritem ✅ 2026-05-22
+		- [x] db personaje daritem ✅ 2026-05-22
+		- [x] db personaje quitaritem ✅ 2026-05-22
+		- [x] lista personajes ✅ 2026-05-22
+		- [x] lista items ✅ 2026-05-22
+		- [x] lista tecnicas ✅ 2026-05-22
+		- [x] ~~billetera~~ dinero ver ✅ 2026-05-22
+		- [x] dinero dar ✅ 2026-05-22
+		- [x] espiritu ✅ 2026-05-22
+		- [x] intercambio ✅ 2026-05-22
+		- [x] inventario ✅ 2026-05-22
+		- [x] item info ✅ 2026-05-22
+		- [x] item dar ✅ 2026-05-22
+		- [x] item usar ✅ 2026-05-22
+		- [x] personaje ver ✅ 2026-05-22
+		- [x] personaje seleccionar ✅ 2026-05-22
+		- [x] personaje congelar ✅ 2026-05-22
+		- [x] personaje descongelar ✅ 2026-05-22
+		- [x] tecnica enseñar ✅ 2026-05-22
+		- [x] tecnica usar ✅ 2026-05-22
 - [ ] Durabilidad y caracteristicas especiales de los items
 - [ ] Optimizar las propiedades de personaje, porque es un desastre. Podría hacer el espiritu una moneda, juntar inventario y tecnicas en una propiedad que se llame entidades
 ## Módulo II: Monedas
@@ -188,6 +187,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 	- [ ] ver 
 	- [ ] seleccionar
 	- [ ] dar
+	- [ ] cambiar
 
 ## Módulo III: Instituciones y Propiedades [[#Módulo II Monedas|(REQUIERE MÓDULO II)]]
 Bancos, estado, nobleza, empresas.
