@@ -184,6 +184,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [ ] Durabilidad y caracteristicas especiales de los items
 ## Comandos
 - [ ] db item crear (interactivo y con nuevas propiedades) 
+- [ ] db item editar
 - [ ] db item borrar
 ## Módulo II: Monedas
 ### Comandos
