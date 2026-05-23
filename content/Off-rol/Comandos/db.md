@@ -5,3 +5,6 @@ Después de poner al personaje en cuestión en personajes.json, revisa si el id 
 ## Personaje borrar
 Lee los 2 json
 Lo de crear afecta directamente acá, porque si lo borran, y después tiene a ese como personajeactivo, queda bugueado citando un id vacío. Así que acá debería hacer una comprobación de usuarios.json, ver si es el personaje activo, y si si, entonces hacer lo de crear una lista de los personajes que tiene el usuario en personajes.json y si se puede, elegir el primero. En caso de que el usuario no tenga más personajes, se borra la propiedad entera
+
+## Item crear
+![[Pasted image 20260522225204.png]]
