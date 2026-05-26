@@ -188,13 +188,13 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [x] db item borrar ✅ 2026-05-26
 ## Módulo II: Monedas
 ### Comandos
-- [ ] db
-	- [ ] personaje
-		- [ ] dardinero
-		- [ ] quitardinero
-- [ ] dinero
-	- [ ] ver
-	- [ ] dar
+- [x] db ✅ 2026-05-26
+	- [x] personaje ✅ 2026-05-26
+		- [x] dardinero ✅ 2026-05-26
+		- [x] quitardinero ✅ 2026-05-26
+- [x] dinero ✅ 2026-05-26
+	- [x] ver ✅ 2026-05-26
+	- [x] dar ✅ 2026-05-26
 	- [x] cambiar ✅ 2026-05-26
 - [ ] baltop (Suma todas las monedas del usuario)
 ## Módulo III: Instituciones y Propiedades [[#Módulo II Monedas|(REQUIERE MÓDULO II)]]
