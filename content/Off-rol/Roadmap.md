@@ -147,8 +147,8 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 > Todavía los conceptos de esta etapa están muy verdes. Obviamente cosas de la fase 1 se refinarán también, pero no sé bien como estructurar ese módulo. Por ejemplo, el añadir técnicas, items. Un tema que veo del comando juego tambien es que son muy circunstanciales los juegos de casino, así que capaz lo haga con embeds con botones que respondan. Veré una forma de eso. Por ejemplo, los tragaperras podrían ser así como digo. Pero el rasca y gana desde el anterior bot que lo quiero hacer así
 > > [!note] Aún así
 > > Acá si tengo dirección. Por ejemplo, monedas tendrá no solo la inflación dinámica de la moneda local, si no muchas cosas, como el cambio de divisas. Habrá un pulido sobre los items, tipo mi idea es que haya degradación de las armas y esas cosas. El concepto de autoridad narrativa
-## Módulo I: La gran reforma
-## Estructura interna del bot
+## Módulo I: La gran reforma✅
+## Estructura interna del bot✅
 - [x] Refactorizar subcomandos ✅ 2026-05-20
 - [x] Mudarse a MongoDB ✅ 2026-05-22
 	- [x] Comandos a cambiar: ✅ 2026-05-22
@@ -181,13 +181,12 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 		- [x] tecnica enseñar ✅ 2026-05-22
 		- [x] tecnica usar ✅ 2026-05-22
 - [x] Optimizar las propiedades de personaje, porque es un desastre. ✅ 2026-05-22
-- [ ] Durabilidad y caracteristicas especiales de los items
-## Comandos
+## Comandos✅
 - [x] db item crear (interactivo y con nuevas propiedades) ✅ 2026-05-26
 - [x] db item editar ✅ 2026-05-26
 - [x] db item borrar ✅ 2026-05-26
-## Módulo II: Monedas
-### Comandos
+## Módulo II: Monedas✅
+### Comandos✅
 - [x] db ✅ 2026-05-26
 	- [x] personaje ✅ 2026-05-26
 		- [x] dardinero ✅ 2026-05-26
