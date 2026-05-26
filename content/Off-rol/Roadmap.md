@@ -183,9 +183,9 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [x] Optimizar las propiedades de personaje, porque es un desastre. ✅ 2026-05-22
 - [ ] Durabilidad y caracteristicas especiales de los items
 ## Comandos
-- [ ] db item crear (interactivo y con nuevas propiedades) 
-- [ ] db item editar
-- [ ] db item borrar
+- [x] db item crear (interactivo y con nuevas propiedades) ✅ 2026-05-26
+- [x] db item editar ✅ 2026-05-26
+- [x] db item borrar ✅ 2026-05-26
 ## Módulo II: Monedas
 ### Comandos
 - [ ] ~~billetera~~ dinero
