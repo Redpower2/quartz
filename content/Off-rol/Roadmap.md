@@ -188,11 +188,14 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [x] db item borrar ✅ 2026-05-26
 ## Módulo II: Monedas
 ### Comandos
-- [ ] ~~billetera~~ dinero
-	- [ ] ver 
-	- [ ] seleccionar
+- [ ] db
+	- [ ] personaje
+		- [ ] dardinero
+		- [ ] quitardinero
+- [ ] dinero
+	- [ ] ver
 	- [ ] dar
-	- [ ] cambiar
+	- [x] cambiar ✅ 2026-05-26
 
 ## Módulo III: Instituciones y Propiedades [[#Módulo II Monedas|(REQUIERE MÓDULO II)]]
 Bancos, estado, nobleza, empresas.
@@ -223,7 +226,7 @@ Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no 
 > [!abstract] Extras
 > Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
    Programas de radio tal vez
-   ¿Contenedores? El tablero. Mecánica de celular, llamadas y mensajes. Resolver el eterno dilema del icono del servidor, si será una bandera, si será un escudo, si será cuadrado. Testeo intensivo de todos los comandos
+   ¿Contenedores? El tablero. Mecánica de celular, llamadas y mensajes. Resolver el eterno dilema del icono del servidor, si será una bandera, si será un escudo, si será cuadrado. Testeo intensivo de todos los comandos. Logs, ya que podrían servir como logs del estado
    
 ## Comandos
 - [ ] [[staff]]
