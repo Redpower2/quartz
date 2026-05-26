@@ -196,7 +196,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 	- [ ] ver
 	- [ ] dar
 	- [x] cambiar ✅ 2026-05-26
-- [ ] baltop
+- [ ] baltop (Suma todas las monedas del usuario)
 ## Módulo III: Instituciones y Propiedades [[#Módulo II Monedas|(REQUIERE MÓDULO II)]]
 Bancos, estado, nobleza, empresas.
 Prestamos, tasa de interés, bonos
