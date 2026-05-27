@@ -196,19 +196,31 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 	- [x] dar ✅ 2026-05-26
 	- [x] cambiar ✅ 2026-05-26
 
-## Módulo III: Instituciones y Propiedades [[#Módulo II Monedas|(REQUIERE MÓDULO II)]]
-Bancos, estado, nobleza, empresas.
-Prestamos, tasa de interés, bonos
-Mercado de valores
-Pensaba que en vez de comandos, se maneje con brokers. Y bueno, tal vez se cree un hilo privado tuyo, con todos tus movimientos.
-
-## Módulo IV: Tiendas [[#Módulo III Instituciones y Propiedades Módulo I Monedas (REQUIERE MÓDULO I)|(REQUIERE MÓDULO III)]]
+## Módulo III: Comercio [[#Módulo II Monedas|(REQUIERE MÓDULO II)]]
+### Estructura interna del bot 
+- [ ] Instituciones
+	- [ ] Banco central
+	- [ ] Principado de Nueva Castilla
+	- [ ] Casas nobles
+	- [ ] Empresas 
+	- [ ] Bancos
+- [ ] Propiedades 
+	- [ ] Viviendas
+	- [ ] Negocios
+### Mecánicas 
+- [ ] Bancos 
+	- [ ] Préstamos 
+	- [ ] Tasas de interés 
+- [ ] Mercado de valores
+	- [ ] Bonos (pueden ser emitidos por el estado, por empresas o por bancos)
+	- [ ] Acciones
+	- [ ] ¿Cripto?
+- [ ] Brokers (Pensaba que en vez de comandos, se maneje con brokers. Y bueno, tal vez se cree un hilo privado tuyo, con todos tus movimientos.)
 ### Comandos
 
 - [ ] [[tienda]]
 
-
-## Módulo V: Ludopatía
+## Módulo IV: Ludopatía
 Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no sean comandos, si no que embeds en hilos o en publicaciones de foros. Podría ser que /juego invoque un hilo o algo así, y después lo borre o ni idea
 ### Comandos
 
@@ -225,7 +237,7 @@ Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no 
 > [!abstract] Extras
 > Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
    Programas de radio tal vez
-   ¿Contenedores? El tablero. Mecánica de celular, llamadas y mensajes. Resolver el eterno dilema del icono del servidor, si será una bandera, si será un escudo, si será cuadrado. Testeo intensivo de todos los comandos. Logs, ya que podrían servir como logs del estado
+   ¿Contenedores? El tablero. Mecánica de celular, llamadas y mensajes. Resolver el eterno dilema del icono del servidor, si será una bandera, si será un escudo, si será cuadrado. Testeo intensivo de todos los comandos. Logs, ya que podrían servir como logs del estado. Los ítems del inventario, realmente necesitan el nombre? Es decir, casi siempre se va a comprobar que existe, se puede usar ese nombre directamente.  
    
 ## Comandos
 - [ ] [[staff]]
