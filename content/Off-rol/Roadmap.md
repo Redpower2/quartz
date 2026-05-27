@@ -58,7 +58,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [x] Salario ✅ 2026-05-04
 - [x] Manejo y chequeo congelamiento ✅ 2026-05-04
 
-## Módulo III: Items ✅
+## Módulo III: Entidades ✅
 > [!warning] Intercambio
 > Remitiendose a la primera advertencia de la fase 1, intercambio puede llegar a tener problemas en el stringmenu en caso de que tengas mas de 25 items. No sé si eso sería alcanzable en el rol, pero de todas formas hay que pensarlo como algo que puede pasar
 ### Comandos ✅
@@ -83,12 +83,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 	
 - [x] [[lista]] ✅ 2026-05-14
 	- [x] items ✅ 2026-05-14
-### Usos ✅
-- [x] Permatrago (objeto de prueba) ✅ 2026-05-08
 
-
-## Módulo IV: Técnicas✅
-### Comandos✅
 
 - [x] [[espiritu]] ✅ 2026-05-18
 	
@@ -99,7 +94,8 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [x] [[lista]] ✅ 2026-05-18
 	- [x] tecnicas ✅ 2026-05-18
 
-## Modulo V: Externo al bot
+
+## Modulo IV: Externo al bot✅
 ### Roles
 - [x] Crear roles de los estilos de pelea ✅ 2026-05-10
 - [x] Darle colores a los roles ✅ 2026-05-10
@@ -185,22 +181,13 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [x] db item crear (interactivo y con nuevas propiedades) ✅ 2026-05-26
 - [x] db item editar ✅ 2026-05-26
 - [x] db item borrar ✅ 2026-05-26
-## Módulo II: Monedas✅
-### Comandos✅
-- [x] db ✅ 2026-05-26
-	- [x] personaje ✅ 2026-05-26
-		- [x] dardinero ✅ 2026-05-26
-		- [x] quitardinero ✅ 2026-05-26
-- [x] dinero ✅ 2026-05-26
-	- [x] ver ✅ 2026-05-26
-	- [x] dar ✅ 2026-05-26
-	- [x] cambiar ✅ 2026-05-26
 
-## Módulo III: Comercio [[#Módulo II Monedas|(REQUIERE MÓDULO II)]]
+## Mecánicas
+## Módulo II: Comercio [[#Módulo II Monedas|(REQUIERE MÓDULO II)]]
 ### Estructura interna del bot 
 - [ ] Instituciones
 	- [ ] Banco central
-	- [ ] Principado de Nueva Castilla
+	- [ ] Principado de Nueva Castilla (Gobierno)
 	- [ ] Casas nobles
 	- [ ] Empresas 
 	- [ ] Bancos
@@ -211,16 +198,24 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [ ] Bancos 
 	- [ ] Préstamos 
 	- [ ] Tasas de interés 
+- [ ] Inflación por consumo
 - [ ] Mercado de valores
 	- [ ] Bonos (pueden ser emitidos por el estado, por empresas o por bancos)
 	- [ ] Acciones
 	- [ ] ¿Cripto?
 - [ ] Brokers (Pensaba que en vez de comandos, se maneje con brokers. Y bueno, tal vez se cree un hilo privado tuyo, con todos tus movimientos.)
 ### Comandos
-
+- [x] db ✅ 2026-05-26
+	- [x] personaje ✅ 2026-05-26
+		- [x] dardinero ✅ 2026-05-26
+		- [x] quitardinero ✅ 2026-05-26
+- [x] dinero ✅ 2026-05-26
+	- [x] ver ✅ 2026-05-26
+	- [x] dar ✅ 2026-05-26
+	- [x] cambiar ✅ 2026-05-26
 - [ ] [[tienda]]
 
-## Módulo IV: Ludopatía
+## Módulo III: Ludopatía
 Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no sean comandos, si no que embeds en hilos o en publicaciones de foros. Podría ser que /juego invoque un hilo o algo así, y después lo borre o ni idea
 ### Comandos
 
