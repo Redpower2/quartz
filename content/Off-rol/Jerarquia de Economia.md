@@ -37,6 +37,7 @@ Ent --> Tec
 
 PJ --> Inv
 	It -.-> Inv
+	Tec -.-> Inv
 PJ --> Alias
 PJ --> ID
 PJ --> Bil
