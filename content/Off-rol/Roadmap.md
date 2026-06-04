@@ -191,6 +191,9 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 	- [ ] Casas nobles
 	- [ ] Empresas 
 	- [ ] Bancos
+- [ ] Merval
+	- [ ] Acciones
+	- [ ] Bonos
 - [ ] Propiedades 
 	- [ ] Viviendas
 	- [ ] Negocios
