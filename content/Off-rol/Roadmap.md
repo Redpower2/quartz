@@ -182,18 +182,18 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [x] db item editar ✅ 2026-05-26
 - [x] db item borrar ✅ 2026-05-26
 
-## Mecánicas
-
 ## Módulo II: Silencioso
 Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si no que vamos a cambiar cosas dentro del bot que necesitan rework o features que son importantes. Por ejemplo, antes se tenia que crear una tecnica de forma manual lo cuál no solo no tiene sentido si no que es peligroso porque podemos romper algo. Además no es tan fácil en mongoDB como lo era en el JSON
 ### Checklist
 - [x] Arreglar los tipos de Entidad y IntEnv (Anteriormente Item) ✅ 2026-06-04
-- [ ] Cambiar schemas y models de Entidad y Personaje
-- [ ] Urge hacer un objeto grande que sea "personaje", con sus metodos de dinero, item, propiedad (refiriendonos a inventario, espiritu). Hasta una clase, pero no estoy seguro. No lo veo muy necesario
+- [x] Cambiar schemas y models de Entidad y Personaje ✅ 2026-06-05
+- [x] dineroPJ ✅ 2026-06-05
+- [ ] itemPJ
 - [ ] Crear una función "manejarItem" ya que aunque en entidades no puede haber 2 con el mismo nombre, si puede haber en el inventario, diferenciandose por la fecha y el subID
 - [ ] Corregir comandos de DB. En vez de crearitem, crearentidad
 - [ ] Corregir Intercambio, Inventario, Item, Personaje y Tecnica
 - [ ] Corregir Lista
+- [ ] Comandos debug
 ## Módulo III: Comercio [[#Módulo II Monedas|(REQUIERE MÓDULO II)]]
 ### Estructura interna del bot 
 - [ ] Instituciones
