@@ -144,7 +144,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 > > [!note] Aún así
 > > Acá si tengo dirección. Por ejemplo, monedas tendrá no solo la inflación dinámica de la moneda local, si no muchas cosas, como el cambio de divisas. Habrá un pulido sobre los items, tipo mi idea es que haya degradación de las armas y esas cosas. El concepto de autoridad narrativa
 ## Módulo I: La gran reforma✅
-## Estructura interna del bot✅
+### Estructura interna del bot✅
 - [x] Refactorizar subcomandos ✅ 2026-05-20
 - [x] Mudarse a MongoDB ✅ 2026-05-22
 	- [x] Comandos a cambiar: ✅ 2026-05-22
@@ -177,7 +177,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 		- [x] tecnica enseñar ✅ 2026-05-22
 		- [x] tecnica usar ✅ 2026-05-22
 - [x] Optimizar las propiedades de personaje, porque es un desastre. ✅ 2026-05-22
-## Comandos✅
+### Comandos✅
 - [x] db item crear (interactivo y con nuevas propiedades) ✅ 2026-05-26
 - [x] db item editar ✅ 2026-05-26
 - [x] db item borrar ✅ 2026-05-26
@@ -188,7 +188,7 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 - [x] Arreglar los tipos de Entidad y IntEnv (Anteriormente Item) ✅ 2026-06-04
 - [x] Cambiar schemas y models de Entidad y Personaje ✅ 2026-06-05
 - [x] dineroPJ ✅ 2026-06-05
-- [ ] itemPJ
+- [x] itemPJ ✅ 2026-06-06
 - [ ] Crear una función "manejarItem" ya que aunque en entidades no puede haber 2 con el mismo nombre, si puede haber en el inventario, diferenciandose por la fecha y el subID
 - [ ] Corregir comandos de DB. En vez de crearitem, crearentidad
 - [ ] Corregir Intercambio, Inventario, Item, Personaje y Tecnica
