@@ -183,6 +183,10 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [x] db item borrar ✅ 2026-05-26
 
 ## Módulo II: Silencioso
+> [!warning] itemPJ
+> Un tema que tiene itemPJ es que: No podes dar una estancia de un subId específico. Y cada vez que un personaje da un item a otro, este se renueva, no tiene el mismo subId ni fecha. Por ende, en vez de comprar nuevas armas, podrían dárselas a otros personajes y así se reparan solitas. Mi idea es que para no meter tantos parámetros haga otro método llamado "transferir",. Pero eso ya lo veré en la fase 3, no toco nada. 
+
+
 Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si no que vamos a cambiar cosas dentro del bot que necesitan rework o features que son importantes. Por ejemplo, antes se tenia que crear una tecnica de forma manual lo cuál no solo no tiene sentido si no que es peligroso porque podemos romper algo. Además no es tan fácil en mongoDB como lo era en el JSON
 ### Checklist
 - [x] Arreglar los tipos de Entidad y IntEnv (Anteriormente Item) ✅ 2026-06-04
