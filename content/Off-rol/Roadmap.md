@@ -188,9 +188,9 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 ### Checklist
 - [x] Arreglar los tipos de Entidad y IntEnv (Anteriormente Item) ✅ 2026-06-04
 - [x] Cambiar schemas y models de Entidad y Personaje ✅ 2026-06-05
-- [ ] dineroPJ
+- [x] dineroPJ ✅ 2026-06-10
+- [x] Crear una función "manejarItem" ya que aunque en entidades no puede haber 2 con el mismo nombre, si puede haber en el inventario, diferenciandose por la fecha y el subID ✅ 2026-06-10
 - [ ] itemPJ
-- [ ] Crear una función "manejarItem" ya que aunque en entidades no puede haber 2 con el mismo nombre, si puede haber en el inventario, diferenciandose por la fecha y el subID
 - [ ] Corregir comandos de DB. En vez de crearitem, crearentidad
 - [ ] Corregir Intercambio, Inventario, Item, Personaje y Tecnica
 - [ ] Corregir Lista
