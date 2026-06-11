@@ -190,11 +190,12 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 - [x] Cambiar schemas y models de Entidad y Personaje ✅ 2026-06-05
 - [x] dineroPJ ✅ 2026-06-10
 - [x] Crear una función "manejarItem" ya que aunque en entidades no puede haber 2 con el mismo nombre, si puede haber en el inventario, diferenciandose por la fecha y el subID ✅ 2026-06-10
-- [ ] itemPJ
-- [ ] Corregir comandos de DB. En vez de crearitem, crearentidad
+- [x] itemPJ ✅ 2026-06-10
+- [x] Corregir comandos de DB. ✅ 2026-06-11
 - [ ] Corregir Intercambio, Inventario, Item, Personaje y Tecnica
 - [ ] Corregir Lista
 - [ ] Comandos debug
+- [ ] En vez de crearitem, crearentidad
 ## Módulo III: Comercio [[#Módulo II Monedas|(REQUIERE MÓDULO II)]]
 ### Estructura interna del bot 
 - [ ] Instituciones
