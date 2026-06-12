@@ -1,7 +1,7 @@
 ## Off-rol
 - [[ayuda]]
 - [[baltop]]
-- [[db]] (Exclusivo del staff)
+- [[manager]] (Exclusivo del staff)
 - [[lista]]
 - [[test]]
 ## Rol

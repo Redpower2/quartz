@@ -18,7 +18,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
     - [x] contra ✅ 2026-04-05
     - [x] duelo ✅ 2026-04-06
 
-- [x] [[db]] borrar ✅ 2026-04-11
+- [x] [[manager]] borrar ✅ 2026-04-11
 ### Eventos ✅
 - [x] Listener de comandos ✅ 2026-03-22
 - [x] Ready del bot ✅ 2026-03-22
@@ -26,7 +26,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 ## Módulo II: Economía básica ✅
 ### Comandos ✅
 
-- [x] [[db]] ✅ 2026-04-10 ✅ 2026-04-13 ✅ 2026-05-10
+- [x] [[manager]] ✅ 2026-04-10 ✅ 2026-04-13 ✅ 2026-05-10
 	- [x] personaje ✅ 2026-04-10 ✅ 2026-04-13 ✅ 2026-05-10
 		- [x] crear ✅ 2026-04-10 ✅ 2026-04-13 ✅ 2026-05-10
 		- [x] borrar ✅ 2026-04-10 ✅ 2026-04-13 ✅ 2026-05-10
@@ -40,7 +40,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 	- [x] descongelar ✅ 2026-04-14
 
 
-- [x] [[db]] ✅ 2026-04-20
+- [x] [[manager]] ✅ 2026-04-20
 	- [x] personaje ✅ 2026-04-20
 		- [x] dardinero ✅ 2026-04-20
 		- [x] quitardinero ✅ 2026-04-20
@@ -63,7 +63,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 > Remitiendose a la primera advertencia de la fase 1, intercambio puede llegar a tener problemas en el stringmenu en caso de que tengas mas de 25 items. No sé si eso sería alcanzable en el rol, pero de todas formas hay que pensarlo como algo que puede pasar
 ### Comandos ✅
 
-- [x] [[db]] ✅ 2026-04-29 ✅ 2026-05-02 ✅ 2026-05-11
+- [x] [[manager]] ✅ 2026-04-29 ✅ 2026-05-02 ✅ 2026-05-11
 	- [x] item ✅ 2026-04-29 ✅ 2026-05-11
 		- [x] crear ✅ 2026-04-29 ✅ 2026-05-11
 		- [x] borrar ✅ 2026-04-29 ✅ 2026-05-11
@@ -149,16 +149,16 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [x] Mudarse a MongoDB ✅ 2026-05-22
 	- [x] Comandos a cambiar: ✅ 2026-05-22
 		- [x] baltop ✅ 2026-05-22
-		- [x] db personaje crear ✅ 2026-05-21
-		- [x] db personaje borrar ✅ 2026-05-21
-		- [x] db borrar ✅ 2026-05-21
-		- [x] db personaje dardinero ✅ 2026-05-21
-		- [x] db personaje quitardinero ✅ 2026-05-21
-		- [x] db personaje fijardinero ✅ 2026-05-21
-		- [x] db crearitem ✅ 2026-05-22
-		- [x] db borraritem ✅ 2026-05-22
-		- [x] db personaje daritem ✅ 2026-05-22
-		- [x] db personaje quitaritem ✅ 2026-05-22
+		- [x] manager personaje crear ✅ 2026-05-21
+		- [x] manager personaje borrar ✅ 2026-05-21
+		- [x] manager borrar ✅ 2026-05-21
+		- [x] manager personaje dardinero ✅ 2026-05-21
+		- [x] manager personaje quitardinero ✅ 2026-05-21
+		- [x] manager personaje fijardinero ✅ 2026-05-21
+		- [x] manager crearitem ✅ 2026-05-22
+		- [x] manager borraritem ✅ 2026-05-22
+		- [x] manager personaje daritem ✅ 2026-05-22
+		- [x] manager personaje quitaritem ✅ 2026-05-22
 		- [x] lista personajes ✅ 2026-05-22
 		- [x] lista items ✅ 2026-05-22
 		- [x] lista tecnicas ✅ 2026-05-22
@@ -178,9 +178,9 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 		- [x] tecnica usar ✅ 2026-05-22
 - [x] Optimizar las propiedades de personaje, porque es un desastre. ✅ 2026-05-22
 ### Comandos✅
-- [x] db item crear (interactivo y con nuevas propiedades) ✅ 2026-05-26
-- [x] db item editar ✅ 2026-05-26
-- [x] db item borrar ✅ 2026-05-26
+- [x] manager item crear (interactivo y con nuevas propiedades) ✅ 2026-05-26
+- [x] manager item editar ✅ 2026-05-26
+- [x] manager item borrar ✅ 2026-05-26
 
 ## Módulo II: Silencioso
 
@@ -191,7 +191,7 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 - [x] dineroPJ ✅ 2026-06-10
 - [x] Crear una función "manejarItem" ya que aunque en entidades no puede haber 2 con el mismo nombre, si puede haber en el inventario, diferenciandose por la fecha y el subID ✅ 2026-06-10
 - [x] itemPJ ✅ 2026-06-10
-- [x] Corregir comandos de DB. ✅ 2026-06-11
+- [x] Corregir comandos de manager. ✅ 2026-06-11
 - [x] Corregir ✅ 2026-06-11
 	- [x] Intercambio ✅ 2026-06-11
 	- [x] Inventario ✅ 2026-06-11
@@ -199,8 +199,6 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 	- [x] Personaje ✅ 2026-06-11
 	- [x] Tecnica ✅ 2026-06-11
 	- [x] Corregir Lista ✅ 2026-06-11
-- [ ] Comandos debug
-- [ ] En vez de crearitem, crearentidad
 - [ ] Manejar estancia y hacer la cantidad excluyente con el subId
 	- [ ] dar
 	- [ ] intercambiar
@@ -229,7 +227,7 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 	- [ ] ¿Cripto?
 - [ ] Brokers (Pensaba que en vez de comandos, se maneje con brokers. Y bueno, tal vez se cree un hilo privado tuyo, con todos tus movimientos.)
 ### Comandos
-- [x] db ✅ 2026-05-26
+- [x] manager ✅ 2026-05-26
 	- [x] personaje ✅ 2026-05-26
 		- [x] dardinero ✅ 2026-05-26
 		- [x] quitardinero ✅ 2026-05-26
