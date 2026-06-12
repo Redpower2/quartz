@@ -192,10 +192,18 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 - [x] Crear una función "manejarItem" ya que aunque en entidades no puede haber 2 con el mismo nombre, si puede haber en el inventario, diferenciandose por la fecha y el subID ✅ 2026-06-10
 - [x] itemPJ ✅ 2026-06-10
 - [x] Corregir comandos de DB. ✅ 2026-06-11
-- [ ] Corregir Intercambio, Inventario, Item, Personaje y Tecnica
+- [ ] Corregir
+	- [ ] Intercambio
+	- [ ] Inventario
+	- [ ] Item 
+	- [ ] Personaje 
+	- [x] Tecnica ✅ 2026-06-11
 - [ ] Corregir Lista
 - [ ] Comandos debug
 - [ ] En vez de crearitem, crearentidad
+- [ ] Manejar estancia en 
+	- [ ] dar
+	- [ ] intercambiar
 ## Módulo III: Comercio [[#Módulo II Monedas|(REQUIERE MÓDULO II)]]
 ### Estructura interna del bot 
 - [ ] Instituciones
