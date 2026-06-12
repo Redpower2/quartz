@@ -192,13 +192,13 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 - [x] Crear una función "manejarItem" ya que aunque en entidades no puede haber 2 con el mismo nombre, si puede haber en el inventario, diferenciandose por la fecha y el subID ✅ 2026-06-10
 - [x] itemPJ ✅ 2026-06-10
 - [x] Corregir comandos de DB. ✅ 2026-06-11
-- [ ] Corregir
-	- [ ] Intercambio
+- [x] Corregir ✅ 2026-06-11
+	- [x] Intercambio ✅ 2026-06-11
 	- [x] Inventario ✅ 2026-06-11
 	- [x] Item ✅ 2026-06-11
 	- [x] Personaje ✅ 2026-06-11
 	- [x] Tecnica ✅ 2026-06-11
-- [ ] Corregir Lista
+	- [x] Corregir Lista ✅ 2026-06-11
 - [ ] Comandos debug
 - [ ] En vez de crearitem, crearentidad
 - [ ] Manejar estancia y hacer la cantidad excluyente con el subId
