@@ -201,7 +201,7 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 - [ ] Corregir Lista
 - [ ] Comandos debug
 - [ ] En vez de crearitem, crearentidad
-- [ ] Manejar estancia en 
+- [ ] Manejar estancia y hacer la cantidad excluyente con el subId
 	- [ ] dar
 	- [ ] intercambiar
 ## Módulo III: Comercio [[#Módulo II Monedas|(REQUIERE MÓDULO II)]]
