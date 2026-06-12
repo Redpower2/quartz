@@ -194,9 +194,9 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 - [x] Corregir comandos de DB. ✅ 2026-06-11
 - [ ] Corregir
 	- [ ] Intercambio
-	- [ ] Inventario
-	- [ ] Item 
-	- [ ] Personaje 
+	- [x] Inventario ✅ 2026-06-11
+	- [x] Item ✅ 2026-06-11
+	- [x] Personaje ✅ 2026-06-11
 	- [x] Tecnica ✅ 2026-06-11
 - [ ] Corregir Lista
 - [ ] Comandos debug
