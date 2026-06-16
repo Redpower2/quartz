@@ -199,6 +199,16 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 	- [x] Personaje ✅ 2026-06-11
 	- [x] Tecnica ✅ 2026-06-11
 	- [x] Corregir Lista ✅ 2026-06-11
+- [ ] manager
+	- [ ] ~~item~~ entidad
+		- [ ] crear
+		- [ ] editar
+		- [ ] borrar
+	- [ ] personaje
+		- [ ] dartecnica
+		- [ ] quitartecnica
+- [ ] lista
+	- [ ] monedas
 - [ ] Manejar estancia y hacer la cantidad excluyente con el subId
 	- [ ] dar
 	- [ ] intercambiar
