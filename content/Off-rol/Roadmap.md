@@ -207,12 +207,12 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 	- [x] personaje ✅ 2026-06-17
 		- [x] dartecnica ✅ 2026-06-17
 		- [x] quitartecnica ✅ 2026-06-17
-- [ ] lista
-	- [ ] monedas
 - [ ] Manejar estancia y hacer la cantidad excluyente con el subId
-	- [ ] dar
+	- [x] dar ✅ 2026-06-17
 	- [ ] intercambiar
 ## Módulo III: Comercio [[#Módulo II Monedas|(REQUIERE MÓDULO II)]]
+### Diagrama (Siren)
+
 ### Estructura interna del bot 
 - [ ] Instituciones
 	- [ ] Banco central
@@ -231,6 +231,7 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 	- [ ] Préstamos 
 	- [ ] Tasas de interés 
 - [ ] Inflación por consumo
+- [ ] Variación random pero controlada de las monedas extranjeras, eeuu tendria un piso de 80 y 120
 - [ ] Mercado de valores
 	- [ ] Bonos (pueden ser emitidos por el estado, por empresas o por bancos)
 	- [ ] Acciones
@@ -251,6 +252,7 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 - [ ] burgues (que tambien pueden usar los hidalgos) 
 	- [ ] merval
 	- [ ] tienda
+- [ ] lista monedas o algo asi
 ### Cita de concepto original
 La economía se basa en un principio: Recompensar la actividad, no el esfuerzo. 
 Mientras más rolees, más plata vas a tener. La plata se te da por cada mensaje que escribas en el rol. Pero depende de tu posición del rol y el trabajo que hayas escogido. Hay 8 estratos en el rol, y multiplican tus ingresos por mensaje.
