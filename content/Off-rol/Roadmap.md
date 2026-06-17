@@ -207,9 +207,8 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 	- [x] personaje ✅ 2026-06-17
 		- [x] dartecnica ✅ 2026-06-17
 		- [x] quitartecnica ✅ 2026-06-17
-- [ ] Manejar estancia y hacer la cantidad excluyente con el subId
+- [x] Manejar estancia y hacer la cantidad excluyente con el subId ✅ 2026-06-17
 	- [x] dar ✅ 2026-06-17
-	- [ ] intercambiar
 ## Módulo III: Comercio [[#Módulo II Monedas|(REQUIERE MÓDULO II)]]
 ### Diagrama (Siren)
 
