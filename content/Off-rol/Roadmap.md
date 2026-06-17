@@ -200,10 +200,10 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 	- [x] Tecnica ✅ 2026-06-11
 	- [x] Corregir Lista ✅ 2026-06-11
 - [ ] manager
-	- [ ] ~~item~~ entidad
-		- [ ] crear
-		- [ ] editar
-		- [ ] borrar
+	- [x] ~~item~~ entidad ✅ 2026-06-17
+		- [x] crear ✅ 2026-06-17
+		- [x] editar ✅ 2026-06-17
+		- [x] borrar ✅ 2026-06-17
 	- [ ] personaje
 		- [ ] dartecnica
 		- [ ] quitartecnica
