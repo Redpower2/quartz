@@ -220,38 +220,39 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 	- [x] ver ✅ 2026-05-26
 	- [x] dar ✅ 2026-05-26
 	- [x] cambiar ✅ 2026-05-26
-- [ ] lista monedas o algo asi
+- [ ] merval
+	- [ ] monedas
 #### Mecánicas
 - [ ] Inflación por consumo
 - [ ] Variación random pero controlada de las monedas extranjeras, eeuu tendria un piso de 80 y 120
-### Instituciones
-#### Tipos
-- [ ] Banco central
-- [ ] Principado de Nueva Castilla (Gobierno)
-- [ ] Casas nobles
-- [ ] Empresas 
-- [ ] Bancos
-- [ ] Merval
-	- [ ] Acciones
-	- [ ] Bonos
-- [ ] Propiedades 
-	- [ ] Viviendas
-	- [ ] Negocios
-- [ ] Bancos 
-	- [ ] Préstamos 
-	- [ ] Tasas de interés 
+### Bancos
+Banco central, bancos comerciales
+categoria financiera (donde estarán los brokers) y podes seleccionar los bancos
+depositar
+sacar
+- [ ] Préstamos 
+- [ ] Tasas de interés 
+### Empresas / Nobleza
+
+Casas nobles
+Empresas 
 - [ ] Mercado de valores
 	- [ ] Bonos (pueden ser emitidos por el estado, por empresas o por bancos)
 	- [ ] Acciones
 	- [ ] ¿Cripto?
-- [ ] Brokers (Pensaba que en vez de comandos, se maneje con brokers. Y bueno, tal vez se cree un hilo privado tuyo, con todos tus movimientos.)
-#### Comandos
+- [ ] Propiedades 
+	- [ ] Viviendas
+	- [ ] Negocios
+
+- [ ] Brokers (Pensaba que en vez de comandos, se maneje con brokers. Y bueno, tal vez se cree un hilo privado tuyo, con todos tus movimientos. ¿En categoria financiera?)
 - [ ] noble
 	- [ ] impuesto
 - [ ] burgues (que tambien pueden usar los hidalgos) 
 	- [ ] merval
 	- [ ] tienda
 - [ ] [[tienda]]
+### Gobierno
+Principado de Nueva Castilla (Gobierno)
 ### Estructura interna del bot 
 
 ### Cita de concepto original
