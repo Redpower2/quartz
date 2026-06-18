@@ -141,8 +141,6 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 # Fase 2: Refinado
 > [!faq] Nota
 > Todavía los conceptos de esta etapa están muy verdes. Obviamente cosas de la fase 1 se refinarán también, pero no sé bien como estructurar ese módulo. Por ejemplo, el añadir técnicas, items. Un tema que veo del comando juego tambien es que son muy circunstanciales los juegos de casino, así que capaz lo haga con embeds con botones que respondan. Veré una forma de eso. Por ejemplo, los tragaperras podrían ser así como digo. Pero el rasca y gana desde el anterior bot que lo quiero hacer así
-> > [!note] Aún así
-> > Acá si tengo dirección. Por ejemplo, monedas tendrá no solo la inflación dinámica de la moneda local, si no muchas cosas, como el cambio de divisas. Habrá un pulido sobre los items, tipo mi idea es que haya degradación de las armas y esas cosas. El concepto de autoridad narrativa
 ## Módulo I: La gran reforma✅
 ### Estructura interna del bot✅
 - [x] Refactorizar subcomandos ✅ 2026-05-20
@@ -211,6 +209,7 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 	- [x] dar ✅ 2026-06-17
 ## Módulo III: Comercio [[#Módulo II Monedas|(REQUIERE MÓDULO II)]]
 ### Monedas
+La moneda puede sufrir por inflación, y los precios se pueden ver distorsionados por los impuestos que meta el noble vigente.
 #### Comandos
 - [x] manager ✅ 2026-05-26
 	- [x] personaje ✅ 2026-05-26
@@ -233,7 +232,8 @@ sacar
 - [ ] Préstamos 
 - [ ] Tasas de interés 
 ### Empresas / Nobleza
-
+Los estratos se tienen que reworkear. Como burgués tiene su sistema, puede no tener salario. Y falta el clero, los siervos. Osea, está medio para la mierda la verdad.
+Si llegas a ocupar cupo de Burgués, podés cotizar en bolsa como uno más. Ya que podes invertir en la bolsa
 Casas nobles
 Empresas 
 - [ ] Mercado de valores
@@ -253,28 +253,9 @@ Empresas
 - [ ] [[tienda]]
 ### Gobierno
 Principado de Nueva Castilla (Gobierno)
-### Estructura interna del bot 
-
-### Cita de concepto original
-La economía se basa en un principio: Recompensar la actividad, no el esfuerzo. 
-Mientras más rolees, más plata vas a tener. La plata se te da por cada mensaje que escribas en el rol. Pero depende de tu posición del rol y el trabajo que hayas escogido. Hay 8 estratos en el rol, y multiplican tus ingresos por mensaje.
-《👑》Noble: x25
-《⚜️》Hidalgo: x20
-《💰》Burgués: x10 ahh pero yo pensaba hacer que el burgués dependa del mercado. Bueno no importa, lo veré
-《⚕️》Profesional: x3
-《💼》Asalariadox2,5 
-《♟️》Trabajadorx1,8
-《🍽️》Pobrex1
-《💀》Indigente: x0
-
-Por eso es conveniente elegir un trabajo para tu personaje porque es todo beneficios y no tenés que trabajar. Es automático, no tenés que hacer ningún trámite. Sin embargo, podés tener algunos ingresos extras con Contratos y Juegos y Apuestas
-
-La moneda puede sufrir por inflación, y los precios se pueden ver distorsionados por los impuestos que meta el noble vigente.
-Si llegas a ocupar cupo de Burgués, podés cotizar en bolsa como uno más. Ya que podes invertir en la bolsa
-Después puede haber un canal de eventos de trabajo personal, tipo [Te despiden por x]
-
 ## Módulo IV: Ludopatía
 Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no sean comandos, si no que embeds en hilos o en publicaciones de foros. Podría ser que /juego invoque un hilo o algo así, y después lo borre o ni idea
+
 ### Comandos
 
 - [ ] [[juego]]
@@ -283,9 +264,13 @@ Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no 
     - [ ] craps
     - [ ] blackjack
     - [ ] [[truco]]
+
 ### Items
 - [ ] Rasca y gana (con su uso)
-
+## Módulo V: Para usuarios
+Contratos tipo misiones
+Después puede haber un canal de eventos de trabajo personal, tipo [Te despiden por x]
+LA AUTORIDAD NARRATIVA COMO REGLA O SISTEMA
 # Fase 3: Extras
 > [!abstract] Extras
 > Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
