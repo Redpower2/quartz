@@ -210,33 +210,8 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 - [x] Manejar estancia y hacer la cantidad excluyente con el subId ✅ 2026-06-17
 	- [x] dar ✅ 2026-06-17
 ## Módulo III: Comercio [[#Módulo II Monedas|(REQUIERE MÓDULO II)]]
-### Diagrama (Siren)
-
-### Estructura interna del bot 
-- [ ] Instituciones
-	- [ ] Banco central
-	- [ ] Principado de Nueva Castilla (Gobierno)
-	- [ ] Casas nobles
-	- [ ] Empresas 
-	- [ ] Bancos
-- [ ] Merval
-	- [ ] Acciones
-	- [ ] Bonos
-- [ ] Propiedades 
-	- [ ] Viviendas
-	- [ ] Negocios
-### Mecánicas 
-- [ ] Bancos 
-	- [ ] Préstamos 
-	- [ ] Tasas de interés 
-- [ ] Inflación por consumo
-- [ ] Variación random pero controlada de las monedas extranjeras, eeuu tendria un piso de 80 y 120
-- [ ] Mercado de valores
-	- [ ] Bonos (pueden ser emitidos por el estado, por empresas o por bancos)
-	- [ ] Acciones
-	- [ ] ¿Cripto?
-- [ ] Brokers (Pensaba que en vez de comandos, se maneje con brokers. Y bueno, tal vez se cree un hilo privado tuyo, con todos tus movimientos.)
-### Comandos
+### Monedas
+#### Comandos
 - [x] manager ✅ 2026-05-26
 	- [x] personaje ✅ 2026-05-26
 		- [x] dardinero ✅ 2026-05-26
@@ -245,13 +220,40 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 	- [x] ver ✅ 2026-05-26
 	- [x] dar ✅ 2026-05-26
 	- [x] cambiar ✅ 2026-05-26
-- [ ] [[tienda]]
+- [ ] lista monedas o algo asi
+#### Mecánicas
+- [ ] Inflación por consumo
+- [ ] Variación random pero controlada de las monedas extranjeras, eeuu tendria un piso de 80 y 120
+### Instituciones
+#### Tipos
+- [ ] Banco central
+- [ ] Principado de Nueva Castilla (Gobierno)
+- [ ] Casas nobles
+- [ ] Empresas 
+- [ ] Bancos
+- [ ] Merval
+	- [ ] Acciones
+	- [ ] Bonos
+- [ ] Propiedades 
+	- [ ] Viviendas
+	- [ ] Negocios
+- [ ] Bancos 
+	- [ ] Préstamos 
+	- [ ] Tasas de interés 
+- [ ] Mercado de valores
+	- [ ] Bonos (pueden ser emitidos por el estado, por empresas o por bancos)
+	- [ ] Acciones
+	- [ ] ¿Cripto?
+- [ ] Brokers (Pensaba que en vez de comandos, se maneje con brokers. Y bueno, tal vez se cree un hilo privado tuyo, con todos tus movimientos.)
+#### Comandos
 - [ ] noble
 	- [ ] impuesto
 - [ ] burgues (que tambien pueden usar los hidalgos) 
 	- [ ] merval
 	- [ ] tienda
-- [ ] lista monedas o algo asi
+- [ ] [[tienda]]
+### Estructura interna del bot 
+
 ### Cita de concepto original
 La economía se basa en un principio: Recompensar la actividad, no el esfuerzo. 
 Mientras más rolees, más plata vas a tener. La plata se te da por cada mensaje que escribas en el rol. Pero depende de tu posición del rol y el trabajo que hayas escogido. Hay 8 estratos en el rol, y multiplican tus ingresos por mensaje.
