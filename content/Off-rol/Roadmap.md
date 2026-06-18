@@ -208,6 +208,8 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 - [x] Manejar estancia y hacer la cantidad excluyente con el subId ✅ 2026-06-17
 	- [x] dar ✅ 2026-06-17
 ## Módulo III: Comercio [[#Módulo II Monedas|(REQUIERE MÓDULO II)]]
+### Estratos
+
 ### Monedas
 La moneda puede sufrir por inflación, y los precios se pueden ver distorsionados por los impuestos que meta el noble vigente.
 #### Comandos
@@ -221,6 +223,7 @@ La moneda puede sufrir por inflación, y los precios se pueden ver distorsionado
 	- [x] cambiar ✅ 2026-05-26
 - [ ] merval
 	- [ ] monedas
+#### Discord
 #### Mecánicas
 - [ ] Inflación por consumo
 - [ ] Variación random pero controlada de las monedas extranjeras, eeuu tendria un piso de 80 y 120
@@ -239,7 +242,6 @@ Empresas
 - [ ] Mercado de valores
 	- [ ] Bonos (pueden ser emitidos por el estado, por empresas o por bancos)
 	- [ ] Acciones
-	- [ ] ¿Cripto?
 - [ ] Propiedades 
 	- [ ] Viviendas
 	- [ ] Negocios
