@@ -2,6 +2,7 @@
 > Acá iría toda la basura que no quiero que se pierda porque son cosas importantes pero temporales, es decir, no quiero saturar el roadmap de basura ni mis mds ni nada. Así que las ideas que se me ocurren, capturas o lo que sea, van acá. Y después cuando el bot se termine, esto se borra O NO. no sé. Capaz queda como archivo
 
 # 19-06-2026
+## Armas y munición
 ![[Pasted image 20260619122719.png]]
 Siento que el sistema de arma sin recargar está incompleto. Es más, no voy a hacer que tengas que recargar arma en el momento, si no la idea es, disparas, si te quedaste sin balas en el cargador recargás si tenés balas pero gastás tu turno. En cambio el botón verde es por si antes del combate querés recargar.
 
@@ -25,3 +26,9 @@ He decidido de que, si lo meto, no lo voy a meter hoy. Lo meteré en una update 
 ![[Pasted image 20260619132923.png]]
 
 Podría pedirle a Roy que me haga emojis para el servidor y lo meto en los creditos, todo
+## Items y gasto
+Tengo que ver como manejar los items unicos 
+Como dijimos anteriormente, los items son liquidos. Se gastan, se compran. Por ende, la pileta de cosas que comprar en el rol se achica.
+Por hoy, tenemos armas de fuego y munición. Pero debe haber algo más
+Servicios médicos también, si no pagas y te hirieron, más vale que tengas a un curador o algo así porque te vas a morir. No existen los botiquines acá ni los stimpaks (aún), osea si existen pero no te vas a curar por agarrar un botiquin me explico? Y las vendas son pura narrativa realmente. No hace la diferencia.
+Drogas puede ser sinceramente, para los que no tienen estilos podrían ser sus tecnicas y que tengan efectos raros, tratar de traducirlo a discord. Con riesgo de sobredosis, y peor porque si querés usar la tecnica tenes que tomar otra dosis. Después tiene efecto resaca, es decir, tiene efecto narrativo de que andas re duro por un tiempo hasta que se te pasa
