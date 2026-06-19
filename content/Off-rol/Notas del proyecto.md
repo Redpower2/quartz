@@ -11,3 +11,11 @@ Los atascos en este sistema hipotético tendrían 2 factores:
 La fecha en la que fue comprado
 La cantidad de disparos que hiciste alguna vez, que estará trackeado en una propiedad custom
 Y no la vas a poder reparar negro, perdón, pero no es así el rol. Se te queda jodida y la usas a tu riesgo o te compras una nueva
+
+Las armas melee no van a estar atrapadas en este sistema, tipo, da igual. Es imposible trackear el desgaste y es más molestia que otra cosa.
+
+Y las armaduras un poco se parece el problema pero yo puedo hacer otra cosa: Que vos cuando se te rompa, tengas que poner el comando de usar el item como una forma de hacer como que se te rompió y sacartelo del inventario. Es medio cutre pero no tengo muchas alternativas ni se me ocurre nada
+
+Pensé incluso en un sistema VATS en las armas, es decir, podes elegir que parte del cuerpo disparar y podes errar. Porque en un sistema narrativo el riesgo es que todos disparen a la cabeza y en la realidad apuntar a la cabeza es más difícil realmente. No estoy seguro si lo voy a meter igual, capaz. No me convence del todo porque es otra barrera más pero puede solucionar un problema real y darle personalidad. Tambien con esto podria meter estilos distintos, especializacion de armas y solo podes ser uno, no podes ser sniper y vaquero a la vez ponele
+
+El principio es que los items son líquidos y las técnicas sólidas. O bueno, no sólidas, pero se quedan. Solo 1 tipo de técnica en el inventario, sin estancias y con sus propias propiedades falopa.
