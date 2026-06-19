@@ -19,3 +19,7 @@ Y las armaduras un poco se parece el problema pero yo puedo hacer otra cosa: Que
 Pensé incluso en un sistema VATS en las armas, es decir, podes elegir que parte del cuerpo disparar y podes errar. Porque en un sistema narrativo el riesgo es que todos disparen a la cabeza y en la realidad apuntar a la cabeza es más difícil realmente. No estoy seguro si lo voy a meter igual, capaz. No me convence del todo porque es otra barrera más pero puede solucionar un problema real y darle personalidad. Tambien con esto podria meter estilos distintos, especializacion de armas y solo podes ser uno, no podes ser sniper y vaquero a la vez ponele
 
 El principio es que los items son líquidos y las técnicas sólidas. O bueno, no sólidas, pero se quedan. Solo 1 tipo de técnica en el inventario, sin estancias y con sus propias propiedades falopa.
+
+He decidido de que, si lo meto, no lo voy a meter hoy. Lo meteré en una update y queda en la nota
+
+![[Pasted image 20260619132923.png]]
