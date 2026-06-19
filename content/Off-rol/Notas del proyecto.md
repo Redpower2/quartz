@@ -23,3 +23,5 @@ El principio es que los items son líquidos y las técnicas sólidas. O bueno, n
 He decidido de que, si lo meto, no lo voy a meter hoy. Lo meteré en una update y queda en la nota
 
 ![[Pasted image 20260619132923.png]]
+
+Podría pedirle a Roy que me haga emojis para el servidor y lo meto en los creditos, todo
