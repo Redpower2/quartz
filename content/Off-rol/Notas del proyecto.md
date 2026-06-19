@@ -26,6 +26,8 @@ He decidido de que, si lo meto, no lo voy a meter hoy. Lo meteré en una update 
 ![[Pasted image 20260619132923.png]]
 
 Podría pedirle a Roy que me haga emojis para el servidor y lo meto en los creditos, todo
+
+¿Explosivos? Capaz
 ## Items y gasto
 Tengo que ver como manejar los items unicos 
 Como dijimos anteriormente, los items son liquidos. Se gastan, se compran. Por ende, la pileta de cosas que comprar en el rol se achica.
