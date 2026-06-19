@@ -10,4 +10,4 @@ Ah, y gastas una caja de munición entera, no existe eso de cargar 1 bala sola, 
 Los atascos en este sistema hipotético tendrían 2 factores: 
 La fecha en la que fue comprado
 La cantidad de disparos que hiciste alguna vez, que estará trackeado en una propiedad custom
-Y no la vas a poder reparar negro, perdón, pero no es así el rol
+Y no la vas a poder reparar negro, perdón, pero no es así el rol. Se te queda jodida y la usas a tu riesgo o te compras una nueva
