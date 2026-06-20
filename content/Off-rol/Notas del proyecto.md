@@ -38,6 +38,7 @@ Drogas puede ser sinceramente, para los que no tienen estilos podrían ser sus t
 - Gastos:
 	- Servicios medicos
 	- Suscripciones para entrar a canales de forma legal
+	- Hoteles y moteles
 	- Armas
 		- de fuego
 		- incendiarias
@@ -51,3 +52,15 @@ Drogas puede ser sinceramente, para los que no tienen estilos podrían ser sus t
 	- Contratos individuales
 - Inversiones:
 	- Cambio de divisas
+	- Merval
+	- Negocios
+
+NADA de viviendas. Nadie va a tener un canal a su nombre a menos de que sea alguien importante o estén en un evento. Las casas son implícitas como comer, trabajar y bañarse. Al final decidí que no hay mucha ganancia en tenerlas
+
+Las colecciones serán 
+
+- Empresas
+- Gobierno (y el banco central)
+- Negocios
+- Bancos 
+Hasta negocios dudo si no ponerlo en empresas dentro de un array, pero bueno, tiene su propia complejidad, anda a saber si me entra. El primero que voy a hacer es el del gobierno porque tiene que ver con lo que estoy haciendo de lo de la moneda.
