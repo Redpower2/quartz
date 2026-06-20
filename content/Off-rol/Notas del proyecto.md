@@ -34,3 +34,20 @@ Como dijimos anteriormente, los items son liquidos. Se gastan, se compran. Por e
 Por hoy, tenemos armas de fuego y munición. Pero debe haber algo más
 Servicios médicos también, si no pagas y te hirieron, más vale que tengas a un curador o algo así porque te vas a morir. No existen los botiquines acá ni los stimpaks (aún), osea si existen pero no te vas a curar por agarrar un botiquin me explico? Y las vendas son pura narrativa realmente. No hace la diferencia.
 Drogas puede ser sinceramente, para los que no tienen estilos podrían ser sus tecnicas y que tengan efectos raros, tratar de traducirlo a discord. Con riesgo de sobredosis, y peor porque si querés usar la tecnica tenes que tomar otra dosis. Después tiene efecto resaca, es decir, tiene efecto narrativo de que andas re duro por un tiempo hasta que se te pasa. Te afecta como disparas también puede ser
+
+- Gastos:
+	- Servicios medicos
+	- Suscripciones para entrar a canales de forma legal
+	- Armas
+		- de fuego
+		- incendiarias
+		- explosivas
+	- Munición
+	- Armaduras
+	- Drogas
+- Ingresos:
+	- Salario
+	- Misiones globales
+	- Contratos individuales
+- Inversiones:
+	- Cambio de divisas
