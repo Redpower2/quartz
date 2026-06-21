@@ -209,12 +209,19 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 		- [x] quitartecnica ✅ 2026-06-17
 - [x] Manejar estancia y hacer la cantidad excluyente con el subId ✅ 2026-06-17
 	- [x] dar ✅ 2026-06-17
-## Módulo III: Comercio [[#Módulo II Monedas|(REQUIERE MÓDULO II)]]
-### Estratos
-
-### Monedas
+## Módulo III: Transacciones
 La moneda puede sufrir por inflación, y los precios se pueden ver distorsionados por los impuestos que meta el noble vigente.
-#### Comandos
+Banco central, bancos comerciales
+categoria financiera (donde estarán los brokers) y podes seleccionar los bancos
+depositar
+sacar
+- [ ] Préstamos 
+- [ ] Tasas de interés 
+- [ ] Inflación por consumo
+- [ ] Variación random pero controlada de las monedas extranjeras, eeuu tendria un piso de 80 y 120
+Principado de Nueva Castilla y banco central (Gobierno)
+
+### Comandos
 - [x] manager ✅ 2026-05-26
 	- [x] personaje ✅ 2026-05-26
 		- [x] dardinero ✅ 2026-05-26
@@ -225,18 +232,8 @@ La moneda puede sufrir por inflación, y los precios se pueden ver distorsionado
 	- [x] cambiar ✅ 2026-05-26
 - [ ] merval
 	- [ ] monedas
-#### Discord
-#### Mecánicas
-- [ ] Inflación por consumo
-- [ ] Variación random pero controlada de las monedas extranjeras, eeuu tendria un piso de 80 y 120
-### Bancos
-Banco central, bancos comerciales
-categoria financiera (donde estarán los brokers) y podes seleccionar los bancos
-depositar
-sacar
-- [ ] Préstamos 
-- [ ] Tasas de interés 
-### Empresas / Nobleza
+
+## Módulo IV: Empresas
 Los estratos se tienen que reworkear. Como burgués tiene su sistema, puede no tener salario. Y falta el clero, los siervos. Osea, está medio para la mierda la verdad.
 Si llegas a ocupar cupo de Burgués, podés cotizar en bolsa como uno más. Ya que podes invertir en la bolsa
 Casas nobles
@@ -255,9 +252,8 @@ Empresas
 	- [ ] merval
 	- [ ] tienda
 - [ ] [[tienda]]
-### Gobierno
-Principado de Nueva Castilla (Gobierno)
-## Módulo IV: Ludopatía
+
+## Módulo V: Ludopatía
 Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no sean comandos, si no que embeds en hilos o en publicaciones de foros. Podría ser que /juego invoque un hilo o algo así, y después lo borre o ni idea
 
 ### Comandos
