@@ -210,16 +210,22 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 - [x] Manejar estancia y hacer la cantidad excluyente con el subId ✅ 2026-06-17
 	- [x] dar ✅ 2026-06-17
 ## Módulo III: Transacciones
-La moneda puede sufrir por inflación, y los precios se pueden ver distorsionados por los impuestos que meta el noble vigente.
-Banco central, bancos comerciales
-categoria financiera (donde estarán los brokers) y podes seleccionar los bancos
-depositar
-sacar
-- [ ] Préstamos 
-- [ ] Tasas de interés 
+> [!todo] Tarea
+> La moneda puede sufrir inflación y los precios pueden verse distorsionados por los impuestos del noble vigente. El sistema bancario tendrá dos capas: el banco central (Gobierno/Principado) y los bancos comerciales, accesibles desde una categoría financiera donde también estarán los brokers.
+
+## Estructura interna del bot
+- [ ] Types
+	- [ ] Banco
+	- [ ] Gobierno
+- [ ] Collection
+	- [ ] Bancos
+	- [ ] Gobierno
+
+### Mecanicas
+- [ ] Préstamos
+- [ ] Tasas de interés
 - [ ] Inflación por consumo
-- [ ] Variación random pero controlada de las monedas extranjeras, eeuu tendria un piso de 80 y 120
-Principado de Nueva Castilla y banco central (Gobierno)
+- [ ] Variación controlada de monedas extranjeras (EEUU: piso 80, techo 120)
 
 ### Comandos
 - [x] manager ✅ 2026-05-26
@@ -233,22 +239,33 @@ Principado de Nueva Castilla y banco central (Gobierno)
 - [ ] merval
 	- [ ] monedas
 
+
 ## Módulo IV: Empresas
-Los estratos se tienen que reworkear. Como burgués tiene su sistema, puede no tener salario. Y falta el clero, los siervos. Osea, está medio para la mierda la verdad.
-Si llegas a ocupar cupo de Burgués, podés cotizar en bolsa como uno más. Ya que podes invertir en la bolsa
-Casas nobles
-Empresas 
+> [!todo] Tarea
+> Los estratos necesitan rework. El burgués tiene su propio sistema y puede no tener salario. Faltan también el clero y los siervos. Hay que replantear la estructura antes de implementar.
+## Estructura interna del bot
+- [ ] Types
+	- [ ] Negocio
+	- [ ] Empresa
+- [ ] Collection
+	- [ ] Negocios
+	- [ ] Empresas
+### Mecanicas
+- [ ] Rework de estratos (clero, siervos, burgués sin salario)
+- [ ] Casas nobles
+- [ ] Empresas
 - [ ] Mercado de valores
-	- [ ] Bonos (pueden ser emitidos por el estado, por empresas o por bancos)
+	- [ ] Bonos (estado, empresas, bancos)
 	- [ ] Acciones
-- [ ] Propiedades 
+- [ ] Propiedades
 	- [ ] Viviendas
 	- [ ] Negocios
+- [ ] Brokers con hilo privado por usuario (categoría financiera?)
 
-- [ ] Brokers (Pensaba que en vez de comandos, se maneje con brokers. Y bueno, tal vez se cree un hilo privado tuyo, con todos tus movimientos. ¿En categoria financiera?)
+### Comandos
 - [ ] noble
 	- [ ] impuesto
-- [ ] burgues (que tambien pueden usar los hidalgos) 
+- [ ] burgues
 	- [ ] merval
 	- [ ] tienda
 - [ ] [[tienda]]
