@@ -214,6 +214,7 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 > La moneda puede sufrir inflación y los precios pueden verse distorsionados por los impuestos del noble vigente. El sistema bancario tendrá dos capas: el banco central (Gobierno/Principado) y los bancos comerciales, accesibles desde una categoría financiera donde también estarán los brokers.
 
 ## Estructura interna del bot
+- [ ] Cambiar Estratos
 - [ ] Types
 	- [ ] Banco
 	- [ ] Gobierno
@@ -232,6 +233,7 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 	- [x] personaje ✅ 2026-05-26
 		- [x] dardinero ✅ 2026-05-26
 		- [x] quitardinero ✅ 2026-05-26
+	- [ ] borrar
 - [x] dinero ✅ 2026-05-26
 	- [x] ver ✅ 2026-05-26
 	- [x] dar ✅ 2026-05-26
