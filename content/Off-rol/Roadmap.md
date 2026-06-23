@@ -214,13 +214,15 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 > La moneda puede sufrir inflación y los precios pueden verse distorsionados por los impuestos del noble vigente. El sistema bancario tendrá dos capas: el banco central (Gobierno/Principado) y los bancos comerciales, accesibles desde una categoría financiera donde también estarán los brokers.
 
 ## Estructura interna del bot
-- [ ] Cambiar Estratos
-- [ ] Types
-	- [ ] Banco
-	- [ ] Gobierno
-- [ ] Collection
-	- [ ] Bancos
-	- [ ] Gobierno
+- [x] Cambiar Estratos ✅ 2026-06-22
+- [x] Types ✅ 2026-06-23
+	- [x] Gobierno ✅ 2026-06-23
+	- [x] Modificar Personaje ✅ 2026-06-23
+- [x] Collection ✅ 2026-06-23
+	- [x] Gobierno ✅ 2026-06-23
+	- [x] Modificar Personajes ✅ 2026-06-23
+	- [x] Modificar Monedas ✅ 2026-06-23
+	- [x] Modificar Estratos ✅ 2026-06-23
 
 ### Mecanicas
 - [ ] Préstamos
@@ -233,12 +235,17 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 	- [x] personaje ✅ 2026-05-26
 		- [x] dardinero ✅ 2026-05-26
 		- [x] quitardinero ✅ 2026-05-26
-	- [ ] borrar
+	- [x] borrar ✅ 2026-06-23
 - [x] dinero ✅ 2026-05-26
 	- [x] ver ✅ 2026-05-26
 	- [x] dar ✅ 2026-05-26
 	- [x] cambiar ✅ 2026-05-26
-- [ ] merval
+- [ ] banco
+	- [ ] depositar
+	- [ ] retirar
+	- [ ] pedirdinero
+	- [ ] pagardeuda
+- [ ] lista
 	- [ ] monedas
 
 
@@ -253,7 +260,6 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 	- [ ] Negocios
 	- [ ] Empresas
 ### Mecanicas
-- [ ] Rework de estratos (clero, siervos, burgués sin salario)
 - [ ] Casas nobles
 - [ ] Empresas
 - [ ] Mercado de valores
