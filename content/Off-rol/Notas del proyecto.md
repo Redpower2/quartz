@@ -63,4 +63,8 @@ Las colecciones serán
 - Gobierno (y el banco central)
 - Negocios
 - Bancos 
+
 Hasta negocios dudo si no ponerlo en empresas dentro de un array, pero bueno, tiene su propia complejidad, anda a saber si me entra. El primero que voy a hacer es el del gobierno porque tiene que ver con lo que estoy haciendo de lo de la moneda.
+
+# 23-06-2026
+Estos días fueron bastante pesaditos porque no sabía bien que carajo hacer aunque creo que ya tengo una dirección. Al final los bancos no existirán porque es complejidad al pedo y no veo demasiados beneficios ni para mí ni para el usuario
