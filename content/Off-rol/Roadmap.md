@@ -218,6 +218,13 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 - [ ] Inflación
 - [ ] Variación de monedas extranjeras
 ## Comandos
+- [ ] manager
+	- [ ] tienda
+		- [ ] crear
+		- [ ] editar
+		- [ ] borrar
+		- [ ] añadiritem
+		- [ ] borraritem
 - [ ] tienda
 - [ ] dinero
 	- [ ] cambiar (meter impuesto)
