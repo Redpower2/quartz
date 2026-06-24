@@ -209,78 +209,12 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 		- [x] quitartecnica ✅ 2026-06-17
 - [x] Manejar estancia y hacer la cantidad excluyente con el subId ✅ 2026-06-17
 	- [x] dar ✅ 2026-06-17
-
-## Módulo III: Empresas
-> [!todo] Tarea
-> Los estratos necesitan rework. El burgués tiene su propio sistema y puede no tener salario. Faltan también el clero y los siervos. Hay que replantear la estructura antes de implementar.
-## Estructura interna del bot
-- [ ] Types
-	- [ ] Negocio
-	- [ ] Empresa
-- [ ] Collection
-	- [ ] Negocios
-	- [ ] Empresas
-### Mecanicas
-- [ ] Casas nobles
-- [ ] Empresas
-- [ ] Mercado de valores
-	- [ ] Bonos (estado, empresas, bancos)
-	- [ ] Acciones
-- [ ] Propiedades
-	- [ ] Viviendas
-	- [ ] Negocios
-- [ ] Brokers con hilo privado por usuario (categoría financiera?)
-
-### Comandos
-- [ ] noble
-	- [ ] impuesto
-- [ ] burgues
-	- [ ] merval
-	- [ ] tienda
-- [ ] [[tienda]]
-
-
-## Módulo IV: Transacciones
-> [!todo] Tarea
-> La moneda puede sufrir inflación y los precios pueden verse distorsionados por los impuestos del noble vigente. El sistema bancario tendrá dos capas: el banco central (Gobierno/Principado) y los bancos comerciales, accesibles desde una categoría financiera donde también estarán los brokers.
-
-## Estructura interna del bot
-- [x] Cambiar Estratos ✅ 2026-06-22
-- [x] Types ✅ 2026-06-23
-	- [x] Gobierno ✅ 2026-06-23
-	- [x] Modificar Personaje ✅ 2026-06-23
-- [x] Collection ✅ 2026-06-23
-	- [x] Gobierno ✅ 2026-06-23
-	- [x] Modificar Personajes ✅ 2026-06-23
-	- [x] Modificar Monedas ✅ 2026-06-23
-	- [x] Modificar Estratos ✅ 2026-06-23
-
-### Mecanicas
-- [ ] Préstamos
-- [ ] Tasas de interés
-- [ ] Inflación por consumo
-- [ ] Variación controlada de monedas extranjeras (EEUU: piso 80, techo 120)
-
-### Comandos
-- [x] manager ✅ 2026-05-26
-	- [x] personaje ✅ 2026-05-26
-		- [x] dardinero ✅ 2026-05-26
-		- [x] quitardinero ✅ 2026-05-26
-	- [x] borrar ✅ 2026-06-23
-- [x] dinero ✅ 2026-05-26
-	- [x] ver ✅ 2026-05-26
-	- [x] dar ✅ 2026-05-26
-	- [x] cambiar ✅ 2026-05-26
-- [ ] banco
-	- [ ] depositar
-	- [ ] retirar
-	- [ ] pedirdinero
-	- [ ] pagardeuda
-- [ ] lista
-	- [ ] monedas
-
-
-## Módulo V: Ludopatía
+## Módulo III: Comercio básico
+> [!note] Cambio de planes
+> Al cambiar de opinión con respecto a los bancos y tal, prefiero enfocarme en la inflación de la moneda local y la volatilidad de las monedas extranjeras junto a la tienda. Así por lo menos la gente tiene un ahorro y se mueve la guita, hay roleo.
+> > [!faq] Pensamiento
+> > Tal vez hasta podrian haber impuestos al cambio de divisa, y bueno, podes intercambiar ilegalmente, como en argentina con el dolar blue
+## Módulo IV: Ludopatía
 Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no sean comandos, si no que embeds en hilos o en publicaciones de foros. Podría ser que /juego invoque un hilo o algo así, y después lo borre o ni idea
 
 ### Comandos
@@ -295,9 +229,11 @@ Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no 
 ### Items
 - [ ] Rasca y gana (con su uso)
 ## Módulo V: Para usuarios
-Contratos tipo misiones
+> [!note] Nota con paja
+> Contratos tipo misiones
 Después puede haber un canal de eventos de trabajo personal, tipo [Te despiden por x]
 LA AUTORIDAD NARRATIVA COMO REGLA O SISTEMA
+
 # Fase 3: Extras
 > [!abstract] Extras
 > Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
@@ -368,3 +304,71 @@ Con los metahumanos existiendo, no solo cambiará el día a día si no que habr�
 > Acá es dónde el servidor se tendría que consolidar. Primero existirían las alianzas, claramente. Pero el objetivo es que para la temporada 2 no las necesitemos más gracias a las recompensas (como bonos) y al sistema de partners mensual
 ## Eventos
 ## Actualizaciones
+# Fase ???: Sin asignar
+## Módulo I: Empresas
+## Estructura interna del bot
+- [ ] Types
+	- [ ] Empresa
+	- [ ] Negocio
+- [ ] Collection
+	- [ ] Empresas
+	- [ ] Negocios
+### Mecanicas
+- [ ] Casas nobles
+- [ ] Empresas
+- [ ] Mercado de valores
+	- [ ] Bonos (estado, empresas, bancos)
+	- [ ] Acciones
+- [ ] Propiedades
+	- [ ] Viviendas
+	- [ ] Negocios
+- [ ] Brokers con hilo privado por usuario (categoría financiera?)
+
+### Comandos
+- [ ] noble
+	- [ ] impuesto
+- [ ] burgues
+	- [ ] merval
+	- [ ] tienda
+- [ ] [[tienda]]
+
+
+## Módulo II: Transacciones
+> [!todo] Tarea
+> La moneda puede sufrir inflación y los precios pueden verse distorsionados por los impuestos del noble vigente. El sistema bancario tendrá dos capas: el banco central (Gobierno/Principado) y los bancos comerciales, accesibles desde una categoría financiera donde también estarán los brokers.
+
+## Estructura interna del bot
+- [x] Cambiar Estratos ✅ 2026-06-22
+- [x] Types ✅ 2026-06-23
+	- [x] Gobierno ✅ 2026-06-23
+	- [x] Modificar Personaje ✅ 2026-06-23
+- [x] Collection ✅ 2026-06-23
+	- [x] Gobierno ✅ 2026-06-23
+	- [x] Modificar Personajes ✅ 2026-06-23
+	- [x] Modificar Monedas ✅ 2026-06-23
+	- [x] Modificar Estratos ✅ 2026-06-23
+
+### Mecanicas
+- [ ] Préstamos
+- [ ] Tasas de interés
+- [ ] Inflación por consumo
+- [ ] Variación controlada de monedas extranjeras (EEUU: piso 80, techo 120)
+
+### Comandos
+- [x] manager ✅ 2026-05-26
+	- [x] personaje ✅ 2026-05-26
+		- [x] dardinero ✅ 2026-05-26
+		- [x] quitardinero ✅ 2026-05-26
+	- [x] borrar ✅ 2026-06-23
+- [x] dinero ✅ 2026-05-26
+	- [x] ver ✅ 2026-05-26
+	- [x] dar ✅ 2026-05-26
+	- [x] cambiar ✅ 2026-05-26
+- [ ] banco
+	- [ ] depositar
+	- [ ] retirar
+	- [ ] pedirdinero
+	- [ ] pagardeuda
+- [ ] lista
+	- [ ] monedas
+

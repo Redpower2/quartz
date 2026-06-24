@@ -68,3 +68,5 @@ Hasta negocios dudo si no ponerlo en empresas dentro de un array, pero bueno, ti
 
 # 23-06-2026
 Estos días fueron bastante pesaditos porque no sabía bien que carajo hacer aunque creo que ya tengo una dirección. Al final los bancos no existirán porque es complejidad al pedo y no veo demasiados beneficios ni para mí ni para el usuario
+# 24-06-2026 
+Después de vueltas y vueltas decidí posponer el sistema bancario y el sistema empresarial con todo lo que significa a algun momento, cuando? Ni idea. No sé si lo haré siquiera, supongo que sí, no sé si con merval, pero el server tiene que salir lo más pronto y estoy perdiendo tiempo con algo que no me entusiasma en lo más minimo
