@@ -224,7 +224,8 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 		- [ ] editar
 		- [ ] borrar
 		- [ ] añadiritem
-		- [ ] borraritem
+		- [ ] editaritem
+		- [ ] quitaritem
 - [ ] tienda
 - [ ] dinero
 	- [ ] cambiar (meter impuesto)
