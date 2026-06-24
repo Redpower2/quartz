@@ -15,20 +15,12 @@ PJ[("Personajes")]
 
 Users[("Usuarios")]
 
+Gob[("Gobierno")]
+
 Mon[("Monedas")]
 	Tael["Tael (nacional)"]
 	Bor["Borbón (local)"]
 	Mint["Monedas internacionales"]
-
-Inst[("Instituciones")]
-	Prin[/ "Principado" /]
-	Ban[/ "Bancos" /]
-		BanCe["Banco central"]
-	Emp[/ "Empresas" /]
-
-Prop[("Propiedades")]
-	Viv[/ "Viviendas" /]
-	Neg[/ "Negocios" /]
 
 
 Ent --> It
@@ -50,15 +42,7 @@ Mon --> Bor
 	Bor -.-> Bil
 Mon --> Mint
 	Mint -.-> Bil
-
-Inst --> Prin
-Inst --> Ban
-	Ban --> BanCe
-		BanCe -.-> Bor
-Inst --> Emp
-
-Prop --> Viv
-Prop --> Neg
-	Emp --> Neg
+	
+Gob -.-> Bor
 ```
 

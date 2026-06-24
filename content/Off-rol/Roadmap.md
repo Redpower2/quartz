@@ -214,6 +214,14 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 > Al cambiar de opinión con respecto a los bancos y tal, prefiero enfocarme en la inflación de la moneda local y la volatilidad de las monedas extranjeras junto a la tienda. Así por lo menos la gente tiene un ahorro y se mueve la guita, hay roleo.
 > > [!faq] Pensamiento
 > > Tal vez hasta podrian haber impuestos al cambio de divisa, y bueno, podes intercambiar ilegalmente, como en argentina con el dolar blue
+## Eventos
+- [ ] Inflación
+- [ ] Variación de monedas extranjeras
+## Comandos
+- [ ] tienda
+- [ ] dinero
+	- [ ] cambiar (meter impuesto)
+- [ ] intercambio (meter un stringmenu de monedas y en lo posible reescribir el codigo porque es super caótico)
 ## Módulo IV: Ludopatía
 Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no sean comandos, si no que embeds en hilos o en publicaciones de foros. Podría ser que /juego invoque un hilo o algo así, y después lo borre o ni idea
 
@@ -228,11 +236,13 @@ Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no 
 
 ### Items
 - [ ] Rasca y gana (con su uso)
-## Módulo V: Para usuarios
+## Módulo V: Discord
 > [!note] Nota con paja
 > Contratos tipo misiones
 Después puede haber un canal de eventos de trabajo personal, tipo [Te despiden por x]
 LA AUTORIDAD NARRATIVA COMO REGLA O SISTEMA
+### Canales
+- [ ] 
 
 # Fase 3: Extras
 > [!abstract] Extras
