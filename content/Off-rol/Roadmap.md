@@ -209,7 +209,38 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 		- [x] quitartecnica ✅ 2026-06-17
 - [x] Manejar estancia y hacer la cantidad excluyente con el subId ✅ 2026-06-17
 	- [x] dar ✅ 2026-06-17
-## Módulo III: Transacciones
+
+## Módulo III: Empresas
+> [!todo] Tarea
+> Los estratos necesitan rework. El burgués tiene su propio sistema y puede no tener salario. Faltan también el clero y los siervos. Hay que replantear la estructura antes de implementar.
+## Estructura interna del bot
+- [ ] Types
+	- [ ] Negocio
+	- [ ] Empresa
+- [ ] Collection
+	- [ ] Negocios
+	- [ ] Empresas
+### Mecanicas
+- [ ] Casas nobles
+- [ ] Empresas
+- [ ] Mercado de valores
+	- [ ] Bonos (estado, empresas, bancos)
+	- [ ] Acciones
+- [ ] Propiedades
+	- [ ] Viviendas
+	- [ ] Negocios
+- [ ] Brokers con hilo privado por usuario (categoría financiera?)
+
+### Comandos
+- [ ] noble
+	- [ ] impuesto
+- [ ] burgues
+	- [ ] merval
+	- [ ] tienda
+- [ ] [[tienda]]
+
+
+## Módulo IV: Transacciones
 > [!todo] Tarea
 > La moneda puede sufrir inflación y los precios pueden verse distorsionados por los impuestos del noble vigente. El sistema bancario tendrá dos capas: el banco central (Gobierno/Principado) y los bancos comerciales, accesibles desde una categoría financiera donde también estarán los brokers.
 
@@ -248,35 +279,6 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 - [ ] lista
 	- [ ] monedas
 
-
-## Módulo IV: Empresas
-> [!todo] Tarea
-> Los estratos necesitan rework. El burgués tiene su propio sistema y puede no tener salario. Faltan también el clero y los siervos. Hay que replantear la estructura antes de implementar.
-## Estructura interna del bot
-- [ ] Types
-	- [ ] Negocio
-	- [ ] Empresa
-- [ ] Collection
-	- [ ] Negocios
-	- [ ] Empresas
-### Mecanicas
-- [ ] Casas nobles
-- [ ] Empresas
-- [ ] Mercado de valores
-	- [ ] Bonos (estado, empresas, bancos)
-	- [ ] Acciones
-- [ ] Propiedades
-	- [ ] Viviendas
-	- [ ] Negocios
-- [ ] Brokers con hilo privado por usuario (categoría financiera?)
-
-### Comandos
-- [ ] noble
-	- [ ] impuesto
-- [ ] burgues
-	- [ ] merval
-	- [ ] tienda
-- [ ] [[tienda]]
 
 ## Módulo V: Ludopatía
 Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no sean comandos, si no que embeds en hilos o en publicaciones de foros. Podría ser que /juego invoque un hilo o algo así, y después lo borre o ni idea
