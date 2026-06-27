@@ -220,9 +220,9 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 ## Comandos
 - [ ] manager
 	- [ ] tienda
-		- [ ] crear
-		- [ ] editar
-		- [ ] borrar
+		- [x] crear ✅ 2026-06-27
+		- [x] editar ✅ 2026-06-27
+		- [x] borrar ✅ 2026-06-27
 		- [ ] añadiritem
 		- [ ] editaritem
 		- [ ] quitaritem
