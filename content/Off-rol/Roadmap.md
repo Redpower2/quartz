@@ -209,15 +209,15 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 		- [x] quitartecnica ✅ 2026-06-17
 - [x] Manejar estancia y hacer la cantidad excluyente con el subId ✅ 2026-06-17
 	- [x] dar ✅ 2026-06-17
-## Módulo III: Comercio básico
+## Módulo III: Comercio básico✅
 > [!note] Cambio de planes
 > Al cambiar de opinión con respecto a los bancos y tal, prefiero enfocarme en la inflación de la moneda local y la volatilidad de las monedas extranjeras junto a la tienda. Así por lo menos la gente tiene un ahorro y se mueve la guita, hay roleo.
 > > [!faq] Pensamiento
 > > Tal vez hasta podrian haber impuestos al cambio de divisa, y bueno, podes intercambiar ilegalmente, como en argentina con el dolar blue
-## Eventos
+## Eventos✅
 - [x] Variación de monedas extranjeras ✅ 2026-07-03
 - [x] Inflación ✅ 2026-07-03
-## Comandos
+## Comandos✅
 - [x] manager ✅ 2026-07-01
 	- [x] tienda ✅ 2026-07-01
 		- [x] crear ✅ 2026-06-27
@@ -228,22 +228,7 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 		- [x] monedainter ✅ 2026-07-03
 		- [x] monedalocal ✅ 2026-07-03
 - [x] tienda ✅ 2026-07-02
-- [ ] intercambio (meter un stringmenu de monedas y en lo posible reescribir el codigo porque es super caótico)
-## Módulo IV: Ludopatía
-Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no sean comandos, si no que embeds en hilos o en publicaciones de foros. Podría ser que /juego invoque un hilo o algo así, y después lo borre o ni idea
-
-### Comandos
-
-- [ ] [[juego]]
-    - [ ] ruleta
-    - [ ] tragaperras
-    - [ ] craps
-    - [ ] blackjack
-    - [ ] [[truco]]
-
-### Items
-- [ ] Rasca y gana (con su uso)
-## Módulo V: Discord
+## Módulo IV: Discord
 > [!note] Nota con paja
 > Contratos tipo misiones
 Después puede haber un canal de eventos de trabajo personal, tipo [Te despiden por x]
@@ -278,6 +263,22 @@ LA AUTORIDAD NARRATIVA COMO REGLA O SISTEMA
 	- [ ] banear
 	- [ ] info
 
+## Módulo ?: Ludopatía
+Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no sean comandos, si no que embeds en hilos o en publicaciones de foros. Podría ser que /juego invoque un hilo o algo así, y después lo borre o ni idea
+
+SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si no porque no tiene sentido el hacerlo si no hay canales de rol. Esto iría más bien en eventos
+
+### Eventos
+
+- [ ] [[juego]]
+    - [ ] ruleta
+    - [ ] tragaperras
+    - [ ] craps
+    - [ ] blackjack
+    - [ ] [[truco]]
+
+### Items
+- [ ] Rasca y gana (con su uso)
 # Interludio: Tiempo muerto
 > [!faq] Nota
 > Luego de terminar las 3 fases, se vendría una etapa rara. Me dedicaré a escribir lore y a hacer mantenimiento básico, pulir estética si es necesario, revisar si hay bugs. Esto también es para retrasar el lanzamiento un poco y no volver a Discord de un tirón
