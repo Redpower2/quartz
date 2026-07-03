@@ -218,15 +218,13 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 - [ ] Inflación
 - [ ] Variación de monedas extranjeras
 ## Comandos
-- [ ] manager
-	- [ ] tienda
+- [x] manager ✅ 2026-07-01
+	- [x] tienda ✅ 2026-07-01
 		- [x] crear ✅ 2026-06-27
 		- [x] editar ✅ 2026-06-27
 		- [x] borrar ✅ 2026-06-27
-		- [ ] añadiritem
-		- [ ] editaritem
-		- [ ] quitaritem
-- [ ] tienda
+		- [x] items ✅ 2026-07-01
+- [x] tienda ✅ 2026-07-02
 - [ ] dinero
 	- [ ] cambiar (meter impuesto)
 - [ ] intercambio (meter un stringmenu de monedas y en lo posible reescribir el codigo porque es super caótico)
