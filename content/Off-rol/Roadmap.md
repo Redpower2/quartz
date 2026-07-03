@@ -273,7 +273,11 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [ ] [[juego]]
     - [ ] ruleta
     - [ ] tragaperras
-    - [ ] craps
+
+
+### Comandos
+
+- [ ] juego
     - [ ] blackjack
     - [ ] [[truco]]
 
