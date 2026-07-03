@@ -215,8 +215,8 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 > > [!faq] Pensamiento
 > > Tal vez hasta podrian haber impuestos al cambio de divisa, y bueno, podes intercambiar ilegalmente, como en argentina con el dolar blue
 ## Eventos
+- [x] Variación de monedas extranjeras ✅ 2026-07-03
 - [ ] Inflación
-- [ ] Variación de monedas extranjeras
 ## Comandos
 - [x] manager ✅ 2026-07-01
 	- [x] tienda ✅ 2026-07-01
@@ -224,6 +224,8 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 		- [x] editar ✅ 2026-06-27
 		- [x] borrar ✅ 2026-06-27
 		- [x] items ✅ 2026-07-01
+	- [ ] debug
+		- [ ] moneda
 - [x] tienda ✅ 2026-07-02
 - [ ] intercambio (meter un stringmenu de monedas y en lo posible reescribir el codigo porque es super caótico)
 ## Módulo IV: Ludopatía
