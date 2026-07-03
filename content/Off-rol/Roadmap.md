@@ -225,8 +225,6 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 		- [x] borrar ✅ 2026-06-27
 		- [x] items ✅ 2026-07-01
 - [x] tienda ✅ 2026-07-02
-- [ ] dinero
-	- [ ] cambiar (meter impuesto)
 - [ ] intercambio (meter un stringmenu de monedas y en lo posible reescribir el codigo porque es super caótico)
 ## Módulo IV: Ludopatía
 Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no sean comandos, si no que embeds en hilos o en publicaciones de foros. Podría ser que /juego invoque un hilo o algo así, y después lo borre o ni idea
