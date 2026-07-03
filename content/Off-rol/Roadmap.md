@@ -224,9 +224,9 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 		- [x] editar ✅ 2026-06-27
 		- [x] borrar ✅ 2026-06-27
 		- [x] items ✅ 2026-07-01
-	- [ ] debug
-		- [ ] monedaint
-		- [ ] monedalocal
+	- [x] debug ✅ 2026-07-03
+		- [x] monedainter ✅ 2026-07-03
+		- [x] monedalocal ✅ 2026-07-03
 - [x] tienda ✅ 2026-07-02
 - [ ] intercambio (meter un stringmenu de monedas y en lo posible reescribir el codigo porque es super caótico)
 ## Módulo IV: Ludopatía
