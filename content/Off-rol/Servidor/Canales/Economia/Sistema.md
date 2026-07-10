@@ -9,12 +9,21 @@ La implicitud, también referido como lo que no se cuenta, es la cualidad princi
 
 ### Si no roleo el que gano dinero, ¿Entonces como lo gano?
 
+Por cada acción que hagas dentro del rol, se te da una cierta cantidad de dinero, determinada por 2 factores
 
+- El estrato social al que pertenezca tu personaje (determinado por su ocupación en la ficha)
+- La cantidad de caracteres de tu mensaje
+
+Siendo más importante el primero, ya que el ultimo si bien es un bonus que puede ayudarte a apalancar dinero, el estrato es TODO. Si sos indigente, no ganarás nada y tendrás que recurrir exclusivamente a los ingresos secundarios.
 
 > [!warning] Footer
 > Claramente, al depender de tus acciones en el rol, tienes que tener un respeto por el ritmo del rol. Como dicta la norma 5, está prohibido el mandar mensajes en ráfaga de mala fe o mandar mensajes sin sentido para incrementar tu dinero. En caso de incurrir en estas faltas, tus personajes serán borrados, no solamente el personaje infractor.
 
 
 ## Ingresos secundarios
+Recados circunstanciales
+Contratos individuales
+Misiones generales
+Eventos globales
 
 ## Comandos
