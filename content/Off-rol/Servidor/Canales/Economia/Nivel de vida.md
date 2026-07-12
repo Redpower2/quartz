@@ -1,5 +1,7 @@
 Bueno me gustaría en realidad que si afecten como te tratan los NPCs, la gente en general, tus oportunidades. Voy a meter una mecanica de patrimonio, es decir, podés avanzar hasta asalariado si aumentás tu patrimonio. Si tu patrimonio semanal está dentro de un rango, bajás o subís de nivel de vida. Patrimonio no es la palabra, porque en realidad sería la capacidad de ganar guita. Si vos entre tanto salario y misiones secundarias lográs tener ese margen de ganancia, eso significa que no está muy justificado que sigas siendo paria o palurdo. Porque vivís como rico. Lo podría manejar con el balance, cuanto ganas y cuando perdés esa semana. Solamente podés subir hasta ilustre
 
+Tenés un canal sobre tu nivel de vida, el que se menciona en el callout
+
 1. **Paria:** Acá se encuentran los indigentes, criminales y siervos de primera generación, generalmente aquellos que por sus deudas tuvieron que servir.
 2. **Palurdo:** Son aquellos que son denigrados por hacer trabajos mal pagos o en condiciones desagradables, como los basureros.
 3. **Labrador:** Aquellos que tienen un trabajo y viviendas estables, calidad de vida decente. Pero son el eslabón más gris y que son el promedio de la población.
