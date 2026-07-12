@@ -21,9 +21,13 @@ Siendo más importante el primero, ya que el ultimo si bien es un bonus que pued
 
 
 ## Ingresos secundarios
+
+ 
+Hay 5 formas de obtener ingresos fuera del salario
 Recados circunstanciales
 Contratos individuales
 Misiones generales
 Eventos globales
+Narrativos (como la limosna)
 
 ## Comandos

@@ -50,7 +50,7 @@
         
     - [Capital](Capital.md) 
         
-    - [Estratos](Estratos.md)
+    - [Nivel de vida](Nivel%20de%20vida.md)
         
 - Combate
     

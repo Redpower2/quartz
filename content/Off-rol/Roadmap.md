@@ -128,7 +128,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [/] Economía
 	- [x] [[Off-rol/Servidor/Canales/Economia/Sistema|Sistema]] ✅ 2026-03-18
 	- [/] [[Consumo]] // Fase 2
-	- [x] [[Estratos]] ✅ 2026-04-14
+	- [x] [[Nivel de vida]] ✅ 2026-04-14
 - [/] Combate
 	- [x] [[Off-rol/Servidor/Canales/Combate/Sistema|Sistema]] ✅ 2026-03-15
 	- [x] [[Rangos]] ✅ 2026-03-15
@@ -234,7 +234,7 @@ LA AUTORIDAD NARRATIVA COMO REGLA O SISTEMA
 - [ ] Economia
 	- [ ] [[Off-rol/Servidor/Canales/Economia/Sistema|Sistema]]
 	- [ ] [[Consumo]]
-	- [ ] [[Estratos]]
+	- [ ] [[Nivel de vida]]
 	- [ ] [[Off-rol/Servidor/Canales/Economia/Politica|Politica]]
 
 - [ ] Combate

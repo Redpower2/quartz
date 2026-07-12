@@ -72,3 +72,6 @@ Estos días fueron bastante pesaditos porque no sabía bien que carajo hacer aun
 Después de vueltas y vueltas decidí posponer el sistema bancario y el sistema empresarial con todo lo que significa a algun momento, cuando? Ni idea. No sé si lo haré siquiera, supongo que sí, no sé si con merval, pero el server tiene que salir lo más pronto y estoy perdiendo tiempo con algo que no me entusiasma en lo más minimo
 
 En algun momento quizás meteré el tablero que propuso Steppenwolf, pero primero quiero ver como sienta a la gente el combate actual
+# 12-07-2026
+
+Finalmente he decidido cambiar el nombre de los estratos a "nivel de vida", porque me parece que es un concepto que los jugadores van a entender más.
