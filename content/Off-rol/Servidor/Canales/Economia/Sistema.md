@@ -21,13 +21,19 @@ Siendo más importante el primero, ya que el ultimo si bien es un bonus que pued
 
 
 ## Ingresos secundarios
+La mayor parte del tiempo, vas a estar ganando dinero con tu salario a través de tus acciones del rol. Pero no siempre alcanza. Más si sos un paria, así que no te preocupes, siempre hay otra forma. 5 formas, de hecho.
 
- 
-Hay 5 formas de obtener ingresos fuera del salario
-Recados circunstanciales
-Contratos individuales
-Misiones generales
-Eventos globales
-Narrativos (como la limosna)
+### Recados circunstanciales
+No siempre hay cosas épicas para hacer, hay cosas aburridas como el simple hecho de lavarle el auto a un señor o cortarle el pasto a una familia que puedes hacer para ganar dinero. No tienen ningún tipo de organización y esperáte cobrar en negro
 
-## Comandos
+### Contratos individuales
+Estos contratos se pueden encontrar desde 2 formas, la red profunda o en puntos de encuentro, tal como el bar de manolo dónde hablarás directamente con los contratantes. Podrás operar como cazarrecompensas, como héroe, o como alguien muy curioso en busqueda de un poco de dinero. Generalmente tienen una estructura y una ficha específica para cada contrato, esperando a ser cazado por cualquiera que esté dispuesto.
+
+### Misiones generales
+Son misiones que son reveladas a los jugadores por el gobierno, o por alguna organización que llame la atención de estos. Si bien no cumplen necesariamente con los requisitos para ser un evento, y hasta se podrían considerar descartables, tienen un esfuerzo coordinado atrás y yacen dormidos hasta que alguien las tome. Además, a diferencia de los contratos, estas misiones pueden requerir más de 1 persona.
+
+### Eventos globales
+Estos acontecimientos cambian las circunstancias del rol, y son planeados por el staff con mucho tiempo de antelación, contemplados en el roadmap con sus temporadas. Pueden ser pequeños, o grandes, y son los que más ganancias dan al participar en estos activamente.
+
+### Narrativa
+Estos 4 mencionados no son la única forma de ganar dinero, así que no tendrás que limitarte tampoco. Puedes ingeniártelas en el rol para poder ganar un poco de dinero, si eres indigente puedes pedir limosna, puedes robarle a otros, pero **recuerda.** Toda acción que comprometa a tu economía debe estar avalada por el staff, porque además ellos son lo que te darían el dinero correspondiente.

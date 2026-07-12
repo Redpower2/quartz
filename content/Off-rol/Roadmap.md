@@ -232,7 +232,7 @@ Después puede haber un canal de eventos de trabajo personal, tipo [Te despiden 
 LA AUTORIDAD NARRATIVA COMO REGLA O SISTEMA
 ### Canales
 - [ ] Economia
-	- [ ] [[Off-rol/Servidor/Canales/Economia/Sistema|Sistema]]
+	- [x] [[Off-rol/Servidor/Canales/Economia/Sistema|Sistema]] ✅ 2026-07-12
 	- [ ] [[Consumo]]
 	- [ ] [[Nivel de vida]]
 	- [ ] [[Off-rol/Servidor/Canales/Economia/Politica|Politica]]
