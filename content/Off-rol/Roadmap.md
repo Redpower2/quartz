@@ -235,11 +235,13 @@ LA AUTORIDAD NARRATIVA COMO REGLA O SISTEMA
 	- [x] [[Off-rol/Servidor/Canales/Economia/Sistema|Sistema]] ✅ 2026-07-12
 	- [ ] [[Consumo]]
 	- [ ] [[Nivel de vida]]
-	- [ ] [[Off-rol/Servidor/Canales/Economia/Politica|Politica]]
+	- [ ] [[Moneda|Moneda]]
 
 - [ ] Combate
 	- [ ] [[Off-rol/Servidor/Canales/Combate/Sistema|Sistema]]
 
+## Eventos
+- [ ] Sistema de flujo semanal 
 # Fase 3: Extras
 > [!abstract] Extras
 > Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
