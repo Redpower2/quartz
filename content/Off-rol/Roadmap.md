@@ -234,7 +234,7 @@ LA AUTORIDAD NARRATIVA COMO REGLA O SISTEMA
 - [ ] Economia
 	- [x] [[Off-rol/Servidor/Canales/Economia/Sistema|Sistema]] ✅ 2026-07-12
 	- [x] [[Consumo]] ✅ 2026-07-12
-	- [ ] [[Nivel de vida]]
+	- [x] [[Nivel de vida]] ✅ 2026-07-13
 	- [ ] [[Moneda|Moneda]]
 
 - [ ] Combate
