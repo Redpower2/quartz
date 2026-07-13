@@ -241,7 +241,14 @@ LA AUTORIDAD NARRATIVA COMO REGLA O SISTEMA
 	- [ ] [[Off-rol/Servidor/Canales/Combate/Sistema|Sistema]]
 
 ## Eventos
-- [ ] Sistema de flujo semanal 
+- [ ] Sistema de flujo semanal (De pobre a ilustre)
+
+## Comandos
+- [ ] manager
+	- [ ] personaje
+		- [ ] subirnivel
+		- [ ] bajarnivel
+		- [ ] fijarnivel
 # Fase 3: Extras
 > [!abstract] Extras
 > Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
