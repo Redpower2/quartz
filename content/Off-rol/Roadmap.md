@@ -234,7 +234,7 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 	- [x] [[Off-rol/Servidor/Canales/Economia/Politica|Moneda]] ✅ 2026-07-13
 
 - [ ] Combate
-	- [ ] [[Arte Marcial]]
+	- [ ] [[Arte Marcial]]: Arreglar las referencias a los comandos que no existen y poner otras imagenes que las que tenia se rompieron
 
 ## Eventos
 - [ ] Sistema de flujo semanal (De pobre a ilustre)
