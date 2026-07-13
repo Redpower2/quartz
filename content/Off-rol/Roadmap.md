@@ -211,7 +211,7 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 > Al cambiar de opinión con respecto a los bancos y tal, prefiero enfocarme en la inflación de la moneda local y la volatilidad de las monedas extranjeras junto a la tienda. Así por lo menos la gente tiene un ahorro y se mueve la guita, hay roleo.
 > > [!faq] Pensamiento
 > > Tal vez hasta podrian haber impuestos al cambio de divisa, y bueno, podes intercambiar ilegalmente, como en argentina con el dolar blue
-## Eventos✅
+### Eventos✅
 - [x] Variación de monedas extranjeras ✅ 2026-07-03
 - [x] Inflación ✅ 2026-07-03
 ## Comandos✅
@@ -233,18 +233,23 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 	- [x] [[Nivel de vida]] ✅ 2026-07-13
 	- [x] [[Off-rol/Servidor/Canales/Economia/Politica|Moneda]] ✅ 2026-07-13
 
-- [ ] Combate
-	- [ ] [[Arte Marcial]]: Arreglar las referencias a los comandos que no existen y poner otras imagenes que las que tenia se rompieron
+- [x] Combate ✅ 2026-07-13
+	- [x] [[Arte Marcial]]: Arreglar las referencias a los comandos que no existen y poner otras imagenes que las que tenia se rompieron ✅ 2026-07-13
 
-## Eventos
+### Eventos
 - [ ] Sistema de flujo semanal (De pobre a ilustre)
 
-## Comandos
+### Comandos
+- [x] espiritu: Mostrar las tecnicas que tiene el usuario. ✅ 2026-07-13
 - [ ] manager
 	- [ ] personaje
 		- [ ] subirnivel
 		- [ ] bajarnivel
 		- [ ] fijarnivel
+- [ ] tienda: Poner una propiedad opcional de moneda, que será la moneda que se usa exclusivamente en esa tienda.
+
+### General
+- [ ] Cambiar todos los emojis de moneda por su respectivo simbolo
 # Fase 3: Extras
 > [!abstract] Extras
 > Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
