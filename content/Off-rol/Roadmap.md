@@ -226,19 +226,15 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 		- [x] monedalocal ✅ 2026-07-03
 - [x] tienda ✅ 2026-07-02
 ## Módulo IV: Discord
-> [!note] Nota con paja
-> Contratos tipo misiones
-Después puede haber un canal de eventos de trabajo personal, tipo [Te despiden por x]
-LA AUTORIDAD NARRATIVA COMO REGLA O SISTEMA
 ### Canales
-- [ ] Economia
+- [x] Economia ✅ 2026-07-13
 	- [x] [[Off-rol/Servidor/Canales/Economia/Sistema|Sistema]] ✅ 2026-07-12
 	- [x] [[Consumo]] ✅ 2026-07-12
 	- [x] [[Nivel de vida]] ✅ 2026-07-13
-	- [ ] [[Moneda|Moneda]]
+	- [x] [[Off-rol/Servidor/Canales/Economia/Politica|Moneda]] ✅ 2026-07-13
 
 - [ ] Combate
-	- [ ] [[Off-rol/Servidor/Canales/Combate/Sistema|Sistema]]
+	- [ ] [[Arte Marcial]]
 
 ## Eventos
 - [ ] Sistema de flujo semanal (De pobre a ilustre)
