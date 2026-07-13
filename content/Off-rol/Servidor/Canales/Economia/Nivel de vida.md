@@ -22,11 +22,29 @@ Tenés un canal sobre tu nivel de vida, el que se menciona en el callout
 
 ![[Laburante.webp]]
 
-![[Indigente.webp]]
-
 ![[IMG-20260414-WA0009.webp]]
 ![[Pasted image 20260712024929.png]]
 
 
 Primero, se explica de qué se trata el nivel de vida. Como se determina (ocupación y flujo semanal) y como afecta a tu personaje. Luego se divide entre la escoria (1-2), la plebe (3-5), los hombres de honor (6-7), los burgueses y los hidalgos con su respectiva entrada, y los santos (10-11)
 ## Nivel de vida
+El nivel de vida en la sociedad neocastellana es lo que determina tu valor como persona. Herencia directa del sistema de castas imperial, pasado por el filtro del enfoque piadoso de la iglesia florencista, tu valor no es sujeto solamente al dinero, si no a tu historia.
+
+Tu nivel de vida se determina principalmente por tu flujo semanal, es decir, cuanta plata ganás de manera sostenida en una semana. El ancla del flujo semanal suele ser el trabajo de la ficha, el salario es lo que hace que no bajes hasta paria. Pero gastar demasiado tiene sus consecuencias. Tal como ganar demasiado dinero en ingresos secundarios, ¡Puede hacer que subas de nivel de vida! Pero recuerda, la fluctuación de nivel de vida **solo aplica para la plebe.** Los que están arriba de ellos, por más de que ganen o no dinero, nunca se moverán, porque están ya cimentados en la sociedad. La plebe, en cambio, es volátil. Solo hay una excepción: **Los burgueses**. No aplican al sistema convencional de flujo, pero si su empresa quiebra, se vuelven plebe.
+![[Indigente.webp]]
+
+### Eventos de Personaje
+Acá es dónde la línea entre lo implícito y lo explícito se borra. Pues, es cierto de que vos no necesariamente tenés que rolear nada de eso, pero el staff, tiene como deber que ese entorno implícito no se quede incólume a tus acciones. Si te volvés muy rico, tu entorno lo notará. Si te volvés problemático, te echan del trabajo y te volvés un paria. Te puede rebotar el alquiler y quedarte en la calle. Todo eso, son eventos narrados de manera unilateral por el staff en <#1526040272054652998>, y vos como usuario tenés la obligación de que tu personaje responda a esto. Estos eventos pueden llevar a narraciones más complejas, como hablar con el jefe dentro del rol, pero no necesariamente. Si no te gusta o consideras que el staff no tiene justificación narrativa para hacerlo, sos libre de quejarte.
+
+### Escalones sociales
+A partir de acá, es dónde se van a enumerar los escalones sociales en los que se divide la sociedad y sus respectivos niveles de vida. 
+
+//Se usa thumbnails en vez de imagenes completas a partir de acá
+
+### 1- La escoria
+
+### 2- La plebe
+### 3- Los honrados
+### 4- Los burgueses
+### 5- Los hidalgos
+### 6- Los santos
