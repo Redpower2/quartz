@@ -237,7 +237,7 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 	- [x] [[Arte Marcial]]: Arreglar las referencias a los comandos que no existen y poner otras imagenes que las que tenia se rompieron ✅ 2026-07-13
 
 ### Eventos
-- [ ] Sistema de flujo semanal (De pobre a ilustre)
+- [x] Sistema de flujo semanal (De pobre a ilustre) ✅ 2026-07-13
 
 ### Comandos
 - [x] espiritu: Mostrar las tecnicas que tiene el usuario. ✅ 2026-07-13
