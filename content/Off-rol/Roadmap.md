@@ -139,7 +139,7 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 	- [/] [[Contexto]]
 	- [/] [[Historia]]
 
-# Fase 2: Refinado
+# Fase 2: Refinado✅
 ## Módulo I: La gran reforma✅
 ### Estructura interna del bot✅
 - [x] Refactorizar subcomandos ✅ 2026-05-20
@@ -225,10 +225,10 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 		- [x] monedainter ✅ 2026-07-03
 		- [x] monedalocal ✅ 2026-07-03
 - [x] tienda ✅ 2026-07-02
-## Módulo IV: Discord
+## Módulo IV: Discord✅
 > [!warning] Role remove y estratos
 > Veo un posible bug con respecto a sacarle el rol anterior a un usuario. No necesariamente lo tiene que tener, osea, normalmente sí, pero algun admin podria no darselo o sacarselo sin querer, y eso solo en el sub13 no es tanto problema, pero si lo es en el evento de flujo porque rompe todo por un usuario que no esté con sus roles correspondientes. Repito, es un posible bug, capaz no pasa nada, pero mejor prevenir que curar. Debería hacer una busqueda para ver si tiene alguno de estos roles.
-### Canales
+### Canales✅
 - [x] Economia ✅ 2026-07-13
 	- [x] [[Off-rol/Servidor/Canales/Economia/Sistema|Sistema]] ✅ 2026-07-12
 	- [x] [[Consumo]] ✅ 2026-07-12
@@ -241,18 +241,18 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 ### Eventos
 - [x] Sistema de flujo semanal (De pobre a ilustre) ✅ 2026-07-13
 
-### Comandos
+### Comandos✅
 - [x] espiritu: Mostrar las tecnicas que tiene el usuario. ✅ 2026-07-13
 - [x] manager ✅ 2026-07-14
 	- [x] personaje ✅ 2026-07-14
 		- [x] subirnivel ✅ 2026-07-14
 		- [x] bajarnivel ✅ 2026-07-14
 		- [x] fijarnivel ✅ 2026-07-14
-- [ ] tienda: Poner una propiedad opcional de moneda, que será la moneda que se usa exclusivamente en esa tienda. La propiedad de moneda de tienda es opcional, si no lo pones entonces es siempre "XBO"
+- [x] tienda: Poner una propiedad opcional de moneda, que será la moneda que se usa exclusivamente en esa tienda. La propiedad de moneda de tienda es opcional, si no lo pones entonces es siempre "XBO" ✅ 2026-07-14
 
-### General
+### General✅
 - [x] Estratos no tiene sentido de que sea una colección. Tengo que reworkearlo pero ya ✅ 2026-07-13
-- [ ] Cambiar todos los emojis de moneda por su respectivo simbolo (Después de lo de la tienda)
+- [x] Cambiar todos los emojis de moneda por su respectivo simbolo (Después de lo de la tienda) ✅ 2026-07-14
 # Fase 3: Extras
 > [!abstract] Extras
 > Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
