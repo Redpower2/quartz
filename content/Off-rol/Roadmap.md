@@ -339,6 +339,7 @@ Con los metahumanos existiendo, no solo cambiará el día a día si no que habr�
  - [ ] Añadir canales de rol
  - [ ] Laburar en el obsidian porque hay muchas cosas a la mitad
  - [ ] Cuestión emojis (invertir la daga, el pie, idk)
+ - [ ] Cuestión precios y salarios
 # Temporada 0: La simulación (2026)
 ## Subeventos
 # Temporada 1: El auge del emperador (2038)
