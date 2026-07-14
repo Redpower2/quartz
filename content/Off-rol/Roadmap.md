@@ -246,10 +246,11 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 		- [ ] subirnivel
 		- [ ] bajarnivel
 		- [ ] fijarnivel
-- [ ] tienda: Poner una propiedad opcional de moneda, que será la moneda que se usa exclusivamente en esa tienda.
+- [ ] tienda: Poner una propiedad opcional de moneda, que será la moneda que se usa exclusivamente en esa tienda. La propiedad de moneda de tienda es opcional, si no lo pones entonces es siempre "XBO"
 
 ### General
 - [ ] Cambiar todos los emojis de moneda por su respectivo simbolo
+- [ ] Estratos no tiene sentido de que sea una colección. Tengo que reworkearlo pero ya
 # Fase 3: Extras
 > [!abstract] Extras
 > Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
