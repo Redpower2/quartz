@@ -337,6 +337,7 @@ Con los metahumanos existiendo, no solo cambiará el día a día si no que habr�
 - [ ] Añadir instituciones
  - [ ] Configurar permisos del off-rol
  - [ ] Añadir canales de rol
+ - [ ] Laburar en el obsidian porque hay muchas cosas a la mitad
 # Temporada 0: La simulación (2026)
 ## Subeventos
 # Temporada 1: El auge del emperador (2038)
