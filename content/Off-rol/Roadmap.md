@@ -226,6 +226,8 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 		- [x] monedalocal ✅ 2026-07-03
 - [x] tienda ✅ 2026-07-02
 ## Módulo IV: Discord
+> [!warning] Role remove y estratos
+> Veo un posible bug con respecto a sacarle el rol anterior a un usuario. No necesariamente lo tiene que tener, osea, normalmente sí, pero algun admin podria no darselo o sacarselo sin querer, y eso solo en el sub13 no es tanto problema, pero si lo es en el evento de flujo porque rompe todo por un usuario que no esté con sus roles correspondientes. Repito, es un posible bug, capaz no pasa nada, pero mejor prevenir que curar. Debería hacer una busqueda para ver si tiene alguno de estos roles.
 ### Canales
 - [x] Economia ✅ 2026-07-13
 	- [x] [[Off-rol/Servidor/Canales/Economia/Sistema|Sistema]] ✅ 2026-07-12
@@ -249,8 +251,8 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 - [ ] tienda: Poner una propiedad opcional de moneda, que será la moneda que se usa exclusivamente en esa tienda. La propiedad de moneda de tienda es opcional, si no lo pones entonces es siempre "XBO"
 
 ### General
-- [ ] Cambiar todos los emojis de moneda por su respectivo simbolo
-- [ ] Estratos no tiene sentido de que sea una colección. Tengo que reworkearlo pero ya
+- [x] Estratos no tiene sentido de que sea una colección. Tengo que reworkearlo pero ya ✅ 2026-07-13
+- [ ] Cambiar todos los emojis de moneda por su respectivo simbolo (Después de lo de la tienda)
 # Fase 3: Extras
 > [!abstract] Extras
 > Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
