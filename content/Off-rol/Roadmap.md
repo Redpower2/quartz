@@ -243,11 +243,11 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 
 ### Comandos
 - [x] espiritu: Mostrar las tecnicas que tiene el usuario. ✅ 2026-07-13
-- [ ] manager
-	- [ ] personaje
-		- [ ] subirnivel
-		- [ ] bajarnivel
-		- [ ] fijarnivel
+- [x] manager ✅ 2026-07-14
+	- [x] personaje ✅ 2026-07-14
+		- [x] subirnivel ✅ 2026-07-14
+		- [x] bajarnivel ✅ 2026-07-14
+		- [x] fijarnivel ✅ 2026-07-14
 - [ ] tienda: Poner una propiedad opcional de moneda, que será la moneda que se usa exclusivamente en esa tienda. La propiedad de moneda de tienda es opcional, si no lo pones entonces es siempre "XBO"
 
 ### General
