@@ -259,7 +259,7 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
    Programas de radio tal vez
    ¿Contenedores? El tablero. Mecánica de celular, llamadas y mensajes. Resolver el eterno dilema del icono del servidor, si será una bandera, si será un escudo, si será cuadrado. Testeo intensivo de todos los comandos. Logs, ya que podrían servir como logs del estado. Los ítems del inventario, realmente necesitan el nombre? Es decir, casi siempre se va a comprobar que existe, se puede usar ese nombre directamente.  
 
-Buscar rol
+## Módulo I: Discord II
 ## Comandos
 - [ ] [[staff]]
 	- [ ] canal
@@ -280,7 +280,8 @@ Buscar rol
 	- [ ] kickear
 	- [ ] banear
 	- [ ] info
-
+### Canales
+- [ ] [[Buscar Rol]]
 ## Módulo ?: Ludopatía
 Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no sean comandos, si no que embeds en hilos o en publicaciones de foros. Podría ser que /juego invoque un hilo o algo así, y después lo borre o ni idea
 
