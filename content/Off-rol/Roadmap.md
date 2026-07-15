@@ -257,10 +257,6 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 - [x] Estratos no tiene sentido de que sea una colección. Tengo que reworkearlo pero ya ✅ 2026-07-13
 - [x] Cambiar todos los emojis de moneda por su respectivo simbolo (Después de lo de la tienda) ✅ 2026-07-14
 # Fase 3: Extras
-> [!abstract] Extras
-> Acá irían cosas como los minijuegos de trabajos (La idea de tener maquinitas de arcade y tal tendría que verla), rankings, pelotudeces
-   Programas de radio tal vez
-   ¿Contenedores? El tablero. Mecánica de celular, llamadas y mensajes. Resolver el eterno dilema del icono del servidor, si será una bandera, si será un escudo, si será cuadrado. Testeo intensivo de todos los comandos. Logs, ya que podrían servir como logs del estado. Los ítems del inventario, realmente necesitan el nombre? Es decir, casi siempre se va a comprobar que existe, se puede usar ese nombre directamente.  
 
 ## Módulo I: Discord II
 ## Comandos
@@ -309,6 +305,8 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 ## Módulo III: Checklist
 >[!tip] Técnicas interactivas
 >En una nota aparte, quizás haga tecnicas interactivas, estaría bueno. Algo así como que tengas que presionar 3 botones en un orden o que el otro te lo pueda responder si es rápido. No lo sé, el components v2 deja espacio a ideas locas
+
+¿Mecánica de celular, llamadas y mensajes?
 
 - [ ] Configurar permisos del off-rol
 - [ ] Añadir canales de rol

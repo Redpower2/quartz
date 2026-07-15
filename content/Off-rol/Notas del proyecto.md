@@ -150,3 +150,5 @@ Videos de Youtube, deepfake? Found footage, notas. IDK
 	- [ ] monedas
 
 ```
+
+El tablero lo pateo hasta después del desarrollo básico la verdad.
