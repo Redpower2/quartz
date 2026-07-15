@@ -307,7 +307,6 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 >[!tip] Técnicas interactivas
 >En una nota aparte, quizás haga tecnicas interactivas, estaría bueno. Algo así como que tengas que presionar 3 botones en un orden o que el otro te lo pueda responder si es rápido. No lo sé, el components v2 deja espacio a ideas locas
 
-- [ ] Laburar en el obsidian porque hay muchas cosas a la mitad
 - [ ] Configurar permisos del off-rol
 - [ ] Añadir canales de rol
 - [ ] Cuestión precios y salarios
@@ -316,6 +315,8 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [ ] Cuestión emojis (invertir la daga, el pie, idk)
 - [ ] Lore básico
 - [ ] Testear intensivamente y arreglar bugs pendientes
+- [ ] Cerrar invitaciones por ahora
+- [ ] Icono del servidor
 
  
 # Temporada 0: La simulación (2026)
@@ -343,6 +344,10 @@ Con los metahumanos existiendo, no solo cambiará el día a día si no que habr�
 	- [ ] Siglo XIX
 	- [ ] Guerra fría
 	- [ ] Actualidad
+## Checklist
+- [ ] Laburar en el obsidian porque hay muchas cosas a la mitad
+- [ ] Arreglar los [[Bugs|bugs]]
+- [ ] Echar a todos para cuando sea la hora
 # Temporada 1: El auge del emperador (2038)
 > [!info] En qué consistirá
 > Acá es dónde el servidor se tendría que consolidar. Primero existirían las alianzas, claramente. Pero el objetivo es que para la temporada 2 no las necesitemos más gracias a las recompensas (como bonos) y al sistema de partners mensual
