@@ -210,10 +210,6 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 - [x] Manejar estancia y hacer la cantidad excluyente con el subId ✅ 2026-06-17
 	- [x] dar ✅ 2026-06-17
 ## Módulo III: Comercio básico✅
-> [!note] Cambio de planes
-> Al cambiar de opinión con respecto a los bancos y tal, prefiero enfocarme en la inflación de la moneda local y la volatilidad de las monedas extranjeras junto a la tienda. Así por lo menos la gente tiene un ahorro y se mueve la guita, hay roleo.
-> > [!faq] Pensamiento
-> > Tal vez hasta podrian haber impuestos al cambio de divisa, y bueno, podes intercambiar ilegalmente, como en argentina con el dolar blue
 ### Eventos✅
 - [x] Variación de monedas extranjeras ✅ 2026-07-03
 - [x] Inflación ✅ 2026-07-03
