@@ -282,32 +282,47 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 	- [ ] info
 ### Canales
 - [ ] [[Buscar Rol]]
-## Módulo ?: Ludopatía
+## Módulo II: Ludopatía
 Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no sean comandos, si no que embeds en hilos o en publicaciones de foros. Podría ser que /juego invoque un hilo o algo así, y después lo borre o ni idea
 
 SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si no porque no tiene sentido el hacerlo si no hay canales de rol. Esto iría más bien en eventos
 
-### Eventos
-
-- [ ] [[juego]]
-    - [ ] ruleta
-    - [ ] tragaperras
-
-
 ### Comandos
-
 - [ ] juego
     - [ ] blackjack
     - [ ] [[truco]]
 
+### Eventos
+- [ ] [[juego]]
+    - [ ] ruleta
+    - [ ] tragaperras
+
 ### Items
 - [ ] Rasca y gana (con su uso)
-# Interludio: Tiempo muerto
-> [!faq] Nota
-> Luego de terminar las 3 fases, se vendría una etapa rara. Me dedicaré a escribir lore y a hacer mantenimiento básico, pulir estética si es necesario, revisar si hay bugs. Esto también es para retrasar el lanzamiento un poco y no volver a Discord de un tirón
-## Religiones
-Con los metahumanos existiendo, no solo cambiará el día a día si no que habrán cultos y esas cosas. Btw esto se tendrá que explicar en la geopolítica alternativa también, al menos una explicación vaga de lo que se cree que es su origen
+
+## MongoDB
+- [ ] Leaderboards
+
+## Módulo III: Checklist
+>[!tip] Técnicas interactivas
+>En una nota aparte, quizás haga tecnicas interactivas, estaría bueno. Algo así como que tengas que presionar 3 botones en un orden o que el otro te lo pueda responder si es rápido. No lo sé, el components v2 deja espacio a ideas locas
+
+- [ ] Laburar en el obsidian porque hay muchas cosas a la mitad
+- [ ] Configurar permisos del off-rol
+- [ ] Añadir canales de rol
+- [ ] Cuestión precios y salarios
+- [ ] Añadir items
+- [ ] Añadir tecnicas
+- [ ] Cuestión emojis (invertir la daga, el pie, idk)
+- [ ] Lore básico
+- [ ] Testear intensivamente y arreglar bugs pendientes
+
+ 
+# Temporada 0: La simulación (2026)
+> [!info] Beta cerrada
+> Acá empezaría la beta cerrada con los pibes y eso, pero en paralelo estaría escribiendo el lore
 ## Lore
+Con los metahumanos existiendo, no solo cambiará el día a día si no que habrán cultos y esas cosas. Btw esto se tendrá que explicar en la geopolítica alternativa también, al menos una explicación vaga de lo que se cree que es su origen
 - [ ] Islas Manya
 	- [ ] Mitos tribales | Poesía
 	- [ ] Crónicas Jar-Tec | Prosa de narrador poco fiable
@@ -328,93 +343,8 @@ Con los metahumanos existiendo, no solo cambiará el día a día si no que habr�
 	- [ ] Siglo XIX
 	- [ ] Guerra fría
 	- [ ] Actualidad
-## Mantenimiento
->[!tip] Técnicas interactivas
->En una nota aparte, quizás haga tecnicas interactivas, estaría bueno. Algo así como que tengas que presionar 3 botones en un orden o que el otro te lo pueda responder si es rápido. No lo sé, el components v2 deja espacio a ideas locas
- 
-- [ ] Añadir items
-- [ ] Añadir tecnicas
-- [ ] Añadir NPCs a personajes
-- [ ] Añadir instituciones
- - [ ] Configurar permisos del off-rol
- - [ ] Añadir canales de rol
- - [ ] Laburar en el obsidian porque hay muchas cosas a la mitad
- - [ ] Cuestión emojis (invertir la daga, el pie, idk)
- - [ ] Cuestión precios y salarios
-# Temporada 0: La simulación (2026)
-## Subeventos
 # Temporada 1: El auge del emperador (2038)
 > [!info] En qué consistirá
 > Acá es dónde el servidor se tendría que consolidar. Primero existirían las alianzas, claramente. Pero el objetivo es que para la temporada 2 no las necesitemos más gracias a las recompensas (como bonos) y al sistema de partners mensual
 ## Eventos
 ## Actualizaciones
-# Fase ???: Sin asignar
-Radio
-Videos de Youtube, deepfake? Found footage, notas. IDK
-## Módulo I: Empresas
-## Estructura interna del bot
-- [ ] Types
-	- [ ] Empresa
-	- [ ] Negocio
-- [ ] Collection
-	- [ ] Empresas
-	- [ ] Negocios
-### Mecanicas
-- [ ] Casas nobles
-- [ ] Empresas
-- [ ] Mercado de valores
-	- [ ] Bonos (estado, empresas, bancos)
-	- [ ] Acciones
-- [ ] Propiedades
-	- [ ] Viviendas
-	- [ ] Negocios
-- [ ] Brokers con hilo privado por usuario (categoría financiera?)
-
-### Comandos
-- [ ] noble
-	- [ ] impuesto
-- [ ] burgues
-	- [ ] merval
-	- [ ] tienda
-- [ ] [[tienda]]
-
-
-## Módulo II: Transacciones
-> [!todo] Tarea
-> La moneda puede sufrir inflación y los precios pueden verse distorsionados por los impuestos del noble vigente. El sistema bancario tendrá dos capas: el banco central (Gobierno/Principado) y los bancos comerciales, accesibles desde una categoría financiera donde también estarán los brokers.
-
-## Estructura interna del bot
-- [x] Cambiar Estratos ✅ 2026-06-22
-- [x] Types ✅ 2026-06-23
-	- [x] Gobierno ✅ 2026-06-23
-	- [x] Modificar Personaje ✅ 2026-06-23
-- [x] Collection ✅ 2026-06-23
-	- [x] Gobierno ✅ 2026-06-23
-	- [x] Modificar Personajes ✅ 2026-06-23
-	- [x] Modificar Monedas ✅ 2026-06-23
-	- [x] Modificar Estratos ✅ 2026-06-23
-
-### Mecanicas
-- [ ] Préstamos
-- [ ] Tasas de interés
-- [ ] Inflación por consumo
-- [ ] Variación controlada de monedas extranjeras (EEUU: piso 80, techo 120)
-
-### Comandos
-- [x] manager ✅ 2026-05-26
-	- [x] personaje ✅ 2026-05-26
-		- [x] dardinero ✅ 2026-05-26
-		- [x] quitardinero ✅ 2026-05-26
-	- [x] borrar ✅ 2026-06-23
-- [x] dinero ✅ 2026-05-26
-	- [x] ver ✅ 2026-05-26
-	- [x] dar ✅ 2026-05-26
-	- [x] cambiar ✅ 2026-05-26
-- [ ] banco
-	- [ ] depositar
-	- [ ] retirar
-	- [ ] pedirdinero
-	- [ ] pagardeuda
-- [ ] lista
-	- [ ] monedas
-

@@ -75,3 +75,78 @@ En algun momento quizás meteré el tablero que propuso Steppenwolf, pero primer
 # 12-07-2026
 
 Finalmente he decidido cambiar el nombre de los estratos a "nivel de vida", porque me parece que es un concepto que los jugadores van a entender más.
+
+# 15-07-2026
+Acá dejo el modulo sin usar hasta que lo recoja para que no estorbe en el roadmap
+```
+# Fase ???: Sin asignar
+Radio
+Videos de Youtube, deepfake? Found footage, notas. IDK
+## Módulo I: Empresas
+### Estructura interna del bot
+- [ ] Types
+	- [ ] Empresa
+	- [ ] Negocio
+- [ ] Collection
+	- [ ] Empresas
+	- [ ] Negocios
+### Mecanicas
+- [ ] Casas nobles
+- [ ] Empresas
+- [ ] Mercado de valores
+	- [ ] Bonos (estado, empresas, bancos)
+	- [ ] Acciones
+- [ ] Propiedades
+	- [ ] Viviendas
+	- [ ] Negocios
+- [ ] Brokers con hilo privado por usuario (categoría financiera?)
+
+### Comandos
+- [ ] noble
+	- [ ] impuesto
+- [ ] burgues
+	- [ ] merval
+	- [ ] tienda
+- [ ] [[tienda]]
+
+
+## Módulo II: Transacciones
+> [!todo] Tarea
+> La moneda puede sufrir inflación y los precios pueden verse distorsionados por los impuestos del noble vigente. El sistema bancario tendrá dos capas: el banco central (Gobierno/Principado) y los bancos comerciales, accesibles desde una categoría financiera donde también estarán los brokers.
+
+### Estructura interna del bot
+- [x] Cambiar Estratos ✅ 2026-06-22
+- [x] Types ✅ 2026-06-23
+	- [x] Gobierno ✅ 2026-06-23
+	- [x] Modificar Personaje ✅ 2026-06-23
+- [x] Collection ✅ 2026-06-23
+	- [x] Gobierno ✅ 2026-06-23
+	- [x] Modificar Personajes ✅ 2026-06-23
+	- [x] Modificar Monedas ✅ 2026-06-23
+	- [x] Modificar Estratos ✅ 2026-06-23
+
+### Mecanicas
+- [ ] Préstamos
+- [ ] Tasas de interés
+- [ ] Inflación por consumo
+- [ ] Variación controlada de monedas extranjeras (EEUU: piso 80, techo 120)
+
+### Comandos
+- [x] manager ✅ 2026-05-26
+	- [x] personaje ✅ 2026-05-26
+		- [x] dardinero ✅ 2026-05-26
+		- [x] quitardinero ✅ 2026-05-26
+	- [x] borrar ✅ 2026-06-23
+- [x] dinero ✅ 2026-05-26
+	- [x] ver ✅ 2026-05-26
+	- [x] dar ✅ 2026-05-26
+	- [x] cambiar ✅ 2026-05-26
+- [ ] banco
+	- [ ] depositar
+	- [ ] retirar
+	- [ ] pedirdinero
+	- [ ] pagardeuda
+- [ ] lista
+	- [ ] monedas
+
+```
