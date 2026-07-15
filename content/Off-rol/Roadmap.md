@@ -257,24 +257,11 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 ## Módulo I: Discord II
 ## Comandos
 - [ ] [[staff]]
-	- [ ] canal
-		- [ ] crear
-		- [ ] borrar
-	- [ ] categoria
-		- [ ] crear
-		- [ ] borrar
+	- [ ] verificar
+	- [ ] desverificar
 	- [ ] limpiar
 		- [ ] mensajes
 		- [ ] off-rol
-	- [ ] rol
-		- [ ] dar
-		- [ ] quitar
-		- [ ] crear
-	- [ ] verificar
-	- [ ] desverificar
-	- [ ] kickear
-	- [ ] banear
-	- [ ] info
 ### Canales
 - [ ] [[Buscar Rol]]
 ## Módulo II: Ludopatía
