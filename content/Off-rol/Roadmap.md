@@ -1,3 +1,6 @@
+- Fecha estimada de beta cerrada: 1ra quincena de Agosto
+- Fecha de apertura: No sé
+
 [[Notas del proyecto|> Notas del proyecto <]]
 
 Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, pero porque le doy un uso más personal que para subirlo público. Aunque se digan cosas como "Lore" y eventos, en realidad no se debería explicitar nada de eso y solamente actuar como checklist o mostrar las premisas como máximo
