@@ -1,2 +1,5 @@
-> [!info] Vacío
-> Esta página está vacía, ya que no la necesité durante el desarrollo. Puede que haya algo en el futuro
+Hay 2 formas que pensaba de como manejar el canal de buscar rol
+
+- Matchmaking: Suena raro para un rol de texto de Discord, ya sé... Pero pasa que nadie le da mucha bola al canal de buscar rol. Entonces, se me ocurrió que podría hacer que el canal de buscar rol sea un canal de un embed unico con un boton que sea "Buscar rol". Eso te añade a una lista de usuarios y una pequeña descripción de que buscas. Después otro usuario puede clickear el botón al lado de tu propuesta y unirse al hilo. El hilo del canal consiste en otro embed con los participantes, un boton que sea cancelar y otro confirmar. Los botones los puede tocar nada más que el que pidió rol y el staff
+
+- Un evento que capture los pings de buscar rol, si vos tenes una busqueda de rol cercana temporalmente, entonces te dice che este tambien quiere rol. Porque pasa mucho de que hay gente que pide rol pero atrás justo hay uno que pidió rol y nadie se contesta, todos piden pero nadie contesta.
