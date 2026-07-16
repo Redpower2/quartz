@@ -255,7 +255,7 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 # Fase 3: Extras
 
 ## Módulo I: Discord II
-## Comandos
+## Comandos✅
 - [x] [[staff]] ✅ 2026-07-16
 	- [x] verificar ✅ 2026-07-16
 	- [x] desverificar ✅ 2026-07-16
