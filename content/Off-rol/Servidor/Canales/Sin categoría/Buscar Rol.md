@@ -4,6 +4,8 @@
 ![[Pasted image 20260716150333.png]]
 ![[Pasted image 20260716151213.png]]
 
+Después en el hilo el bot te dice che coso está interesado en unirse al rol!!
+
 
 Creo que se necesita una colección de Match
 
