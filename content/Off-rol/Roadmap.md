@@ -1,4 +1,4 @@
-- Fecha estimada de beta cerrada: 1ra quincena de Agosto
+- Fecha estimada de beta cerrada: 2da quincena de Agosto
 - Fecha de apertura: No sé
 
 [[Notas del proyecto|> Notas del proyecto <]]
@@ -256,12 +256,12 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 
 ## Módulo I: Discord II
 ## Comandos
-- [ ] [[staff]]
-	- [ ] verificar
-	- [ ] desverificar
-	- [ ] limpiar
-		- [ ] mensajes
-		- [ ] off-rol
+- [x] [[staff]] ✅ 2026-07-16
+	- [x] verificar ✅ 2026-07-16
+	- [x] desverificar ✅ 2026-07-16
+	- [x] limpiar ✅ 2026-07-16
+		- [x] mensajes ✅ 2026-07-16
+		- [x] offrol ✅ 2026-07-16
 ### Canales
 - [ ] [[Buscar Rol]]
 ## Módulo II: Ludopatía
@@ -291,6 +291,8 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 
 ¿Mecánica de celular, llamadas y mensajes?
 
+
+- [x] Que las tecnicas tengan el mismo tratamiento que los estratos en el personaje de MongoDB ✅ 2026-07-16
 - [ ] Configurar permisos del off-rol
 - [ ] Añadir canales de rol
 - [ ] Cuestión precios y salarios
