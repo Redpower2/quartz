@@ -152,3 +152,6 @@ Videos de Youtube, deepfake? Found footage, notas. IDK
 ```
 
 El tablero lo pateo hasta después del desarrollo básico la verdad.
+
+# 17-07-2026
+Pensaba meter un comando llamado /staff mensaje que iba a ser para que el staff pudiese mandar mensajes. Pero era increiblemente complejo, me iba a freír la cabeza, prefiero usar un comando burner y que los otros se ocupen con discohook
