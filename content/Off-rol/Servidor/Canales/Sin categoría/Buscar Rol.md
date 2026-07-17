@@ -4,7 +4,7 @@
 ![[Pasted image 20260716150333.png]]
 ![[Pasted image 20260716151213.png]]
 
-Después en el hilo el bot te dice che coso está interesado en unirse al rol!!
+Después en el hilo el bot te dice che coso está interesado en unirse al rol!! Pingea al otro para meterlo en el hilo y a vos para que te enteres
 
 
 Creo que se necesita una colección de Match
