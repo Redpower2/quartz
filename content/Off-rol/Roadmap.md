@@ -272,8 +272,8 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 
 ### Comandos
 - [ ] [[Off-rol/Comandos/juego|juego]]
-    - [ ] blackjack
-    - [ ] [[truco]]
+    - [ ] hostia
+    - [ ] truco
 
 ### Eventos
 - [ ] [[Off-rol/Events/juego||juego]]
@@ -282,9 +282,6 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 
 ### Items
 - [ ] Rasca y gana (con su uso)
-
-## MongoDB
-- [ ] Leaderboards
 
 ## Módulo III: Checklist
 >[!tip] Técnicas interactivas

@@ -1,7 +1,13 @@
-## Blackjack
+## Hostia
+Es como el blackjack, pero no realmente.
 1 vale 1 o 11
 los 2-10 valen lo mismo
 El objetivo es llegar a 21, pero si estás más cerca que el otro (o si el otro se pasó) ganaste
+
+Empezás con 2 cartas random, al igual que tu adversario. Podés pedir una carta o plantarte con lo que tenés. Es por turnos. 
+
+En empate se devuelve la guita, y cuando uno gana, se lleva la guita del otro. No es tan difícil
+
 ## Truco
 La variante argentina, pero además con 2 adiciones
 
