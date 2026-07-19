@@ -271,12 +271,12 @@ Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no 
 SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si no porque no tiene sentido el hacerlo si no hay canales de rol. Esto iría más bien en eventos
 
 ### Comandos
-- [ ] juego
+- [ ] [[Off-rol/Comandos/juego|juego]]
     - [ ] blackjack
     - [ ] [[truco]]
 
 ### Eventos
-- [ ] [[juego]]
+- [ ] [[Off-rol/Events/juego||juego]]
     - [ ] ruleta
     - [ ] tragaperras
 

@@ -12,7 +12,7 @@
 - [[intercambio]]
 - [[inventario]]
 - [[item]]
-- [[juego]]
+- [[Off-rol/Comandos/juego]]
 - [[personaje]]
 - [[tecnica]]
 - [[tienda]]
