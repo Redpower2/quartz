@@ -254,7 +254,7 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 - [x] Cambiar todos los emojis de moneda por su respectivo simbolo (Después de lo de la tienda) ✅ 2026-07-14
 # Fase 3: Extras
 
-## Módulo I: Discord II
+## Módulo I: Discord II✅
 ## Comandos✅
 - [x] [[staff]] ✅ 2026-07-16
 	- [x] verificar ✅ 2026-07-16
@@ -263,8 +263,8 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 		- [x] mensajes ✅ 2026-07-16
 		- [x] offrol ✅ 2026-07-16
 	- [x] burner ✅ 2026-07-17
-### Canales
-- [ ] [[Buscar Rol]]
+### Canales✅
+- [x] [[Buscar Rol]] ✅ 2026-07-19
 ## Módulo II: Ludopatía
 Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no sean comandos, si no que embeds en hilos o en publicaciones de foros. Podría ser que /juego invoque un hilo o algo así, y después lo borre o ni idea
 
