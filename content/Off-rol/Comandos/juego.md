@@ -7,6 +7,7 @@ El objetivo es llegar a 21, pero si estás más cerca que el otro (o si el otro 
 Empezás con 2 cartas random, al igual que tu adversario. Podés pedir una carta o plantarte con lo que tenés. Es por turnos. 
 
 En empate se devuelve la guita, y cuando uno gana, se lleva la guita del otro. No es tan difícil
+![[Pasted image 20260721012421.png]]
 
 ## Truco
 La variante argentina, pero además con 2 adiciones
@@ -17,3 +18,5 @@ La variante argentina, pero además con 2 adiciones
 Y claro, podes desactivar cosas, podes elegir jugar sin flor por ejemplo, sin paraguaya.
  Yo capaz haga al truco invertido excluyente con la flor y paraguaya. Tipo, como sabes que tenes 3 de un tipo si no podes ver tus cartas. O como sabes que tenes paraguaya por ejemplo
  El envido no entra porque vos cantás los puntos que tiene el otro, no los tuyos
+ Este era el diseño que tenia pensado, pero ahora incluso si quiero puedo dividirlo en 2 containers, está muy bueno
+ ![[IMG-20260721-WA0003.jpg]]
