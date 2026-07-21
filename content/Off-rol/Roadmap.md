@@ -276,7 +276,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
     - [ ] truco
 
 ### Eventos
-- [ ] [[Off-rol/Events/juego||juego]]
+- [ ] [[Off-rol/Events/juego|juego]]
     - [ ] ruleta
     - [ ] tragaperras
 
