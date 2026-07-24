@@ -279,6 +279,8 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [ ] [[Off-rol/Events/juego|juego]]
     - [ ] ruleta
     - [ ] tragaperras
+    - [ ] pachinko
+- [ ] [[Carreras de caballos]]
 
 ### Items
 - [ ] Rasca y gana (con su uso)
@@ -304,7 +306,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [ ] Hostear bot
 
  
-# Temporada 0: La simulación (2026)
+# Introducción: La simulación (2026)
 > [!info] Beta cerrada
 > Acá empezaría la beta cerrada con los pibes y eso, pero en paralelo estaría escribiendo el lore
 ## Lore
@@ -333,7 +335,7 @@ Con los metahumanos existiendo, no solo cambiará el día a día si no que habr�
 - [ ] Laburar en el obsidian porque hay muchas cosas a la mitad
 - [ ] Arreglar los [[Bugs|bugs]]
 - [ ] Echar a todos para cuando sea la hora
-# Temporada 1: El auge del emperador (2038)
+# Capítulo 1: El auge del emperador (2038)
 > [!info] En qué consistirá
 > Acá es dónde el servidor se tendría que consolidar. Primero existirían las alianzas, claramente. Pero el objetivo es que para la temporada 2 no las necesitemos más gracias a las recompensas (como bonos) y al sistema de partners mensual
 ## Eventos
