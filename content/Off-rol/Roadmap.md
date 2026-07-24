@@ -272,7 +272,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 
 ### Comandos
 - [ ] [[Off-rol/Comandos/juego|juego]]
-    - [ ] hostia
+    - [x] hostia ✅ 2026-07-23
     - [ ] truco
 
 ### Eventos
