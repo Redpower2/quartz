@@ -293,6 +293,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 
 
 - [x] Que las tecnicas tengan el mismo tratamiento que los estratos en el personaje de MongoDB ✅ 2026-07-16
+- [ ] Cambiar returns ambiguos de errores para tirar null y manejarlo desde ahí
 - [ ] Configurar permisos del off-rol
 - [ ] Añadir canales de rol
 - [ ] Cuestión precios y salarios
