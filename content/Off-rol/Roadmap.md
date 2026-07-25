@@ -270,16 +270,19 @@ Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no 
 
 SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si no porque no tiene sentido el hacerlo si no hay canales de rol. Esto iría más bien en eventos
 
-### Comandos
-- [ ] [[Off-rol/Comandos/juego|juego]]
+### Comandos✅
+> [!info] Truco
+> El truco estaba planeado para salir antes de la beta, pero se recortó del contenido inicial del servidor por una cuestión de tiempo y practicidad. El truco es un juego difícil de implementar, es difícil de jugar. Tendría que enseñar a mis testers como jugar y eso me robaría tiempo que realmente no tengo. Me voy a enfocar en las otras que son mucho más fáciles. Además me estoy chocando con paredes, como la de no tener los emojis que a mí me gustaría tener de las cartas y tal
+
+- [x] [[Off-rol/Comandos/juego|juego]] ✅ 2026-07-24
     - [x] hostia ✅ 2026-07-23
-    - [ ] truco
 
 ### Eventos
 - [ ] [[Off-rol/Events/juego|juego]]
     - [ ] ruleta
     - [ ] tragaperras
     - [ ] pachinko
+
 - [ ] [[Carreras de caballos]]
 
 ### Items
