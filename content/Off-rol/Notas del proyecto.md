@@ -159,3 +159,5 @@ Pensaba meter un comando llamado /staff mensaje que iba a ser para que el staff 
 # 19-07-2026
 ## MongoDB
 - [ ] Leaderboards
+# 24-07-2026
+En algun momento, cuando la economia se descubra a sí misma, creo que podré hacer el juego de la garra y meter coleccionables o algo así. Vendría junto al juego del conserje y otras cosas parecidas. Hacen falta los leaderboards

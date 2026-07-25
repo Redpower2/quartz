@@ -281,7 +281,6 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [ ] [[Off-rol/Events/juego|juego]]
     - [ ] ruleta
     - [ ] tragaperras
-    - [ ] pachinko
 
 - [ ] [[Carreras de caballos]]
 
