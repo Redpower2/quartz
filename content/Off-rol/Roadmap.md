@@ -255,7 +255,7 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 # Fase 3: Extras
 
 ## Módulo I: Discord II✅
-## Comandos✅
+### Comandos✅
 - [x] [[staff]] ✅ 2026-07-16
 	- [x] verificar ✅ 2026-07-16
 	- [x] desverificar ✅ 2026-07-16
@@ -278,9 +278,9 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
     - [x] hostia ✅ 2026-07-23
 
 ### Eventos
-- [ ] [[Off-rol/Events/juego|juego]]
-    - [ ] ruleta
-    - [ ] tragaperras
+- [x] [[Off-rol/Events/juego|juego]] ✅ 2026-07-27
+    - [x] ruleta ✅ 2026-07-26
+    - [x] tragaperras ✅ 2026-07-27
 
 - [ ] [[Carreras de caballos]]
 

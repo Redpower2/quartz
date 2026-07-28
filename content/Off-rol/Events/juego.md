@@ -8,6 +8,7 @@ Negro
 13 - 24
 25 - 36
 Hash (elegir un numero)
-### Embed 2: Juego
+![[Pasted image 20260725223736.png]]
 
 ## Tragaperras
+![[Pasted image 20260727135302.png]]
