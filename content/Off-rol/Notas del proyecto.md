@@ -161,3 +161,6 @@ Pensaba meter un comando llamado /staff mensaje que iba a ser para que el staff 
 - [ ] Leaderboards
 # 24-07-2026
 En algun momento, cuando la economia se descubra a sí misma, creo que podré hacer el juego de la garra y meter coleccionables o algo así. Vendría junto al juego del conserje y otras cosas parecidas. Hacen falta los leaderboards
+# 28-07-2026
+He pensado con la colección del caballo y todo eso de la moral que como en el new star soccer puedas tener tu propio caballo de carreras
+Esto se sumaría al sistema de granja que había pensado en los sistemas que no tienen un nombre pero son asincrónicos, el de granja sería como un farmville/cookie clicker y el de caballos sería como el de new star soccer
