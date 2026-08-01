@@ -277,12 +277,12 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] [[Off-rol/Comandos/juego|juego]] ✅ 2026-07-24
     - [x] hostia ✅ 2026-07-23
 
-### Eventos
+### Eventos✅
 - [x] [[Off-rol/Events/juego|juego]] ✅ 2026-07-27
     - [x] ruleta ✅ 2026-07-26
     - [x] tragaperras ✅ 2026-07-27
 
-- [ ] [[Carreras de caballos]]
+- [x] [[Carreras de Caballos]] ✅ 2026-07-31
 
 ### Items
 - [ ] Rasca y gana (con su uso)
