@@ -265,7 +265,7 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 	- [x] burner ✅ 2026-07-17
 ### Canales✅
 - [x] [[Buscar Rol]] ✅ 2026-07-19
-## Módulo II: Ludopatía
+## Módulo II: Ludopatía✅
 Tal vez podría hacer que los juegos de tragaperras y cosas más "tangibles" no sean comandos, si no que embeds en hilos o en publicaciones de foros. Podría ser que /juego invoque un hilo o algo así, y después lo borre o ni idea
 
 SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si no porque no tiene sentido el hacerlo si no hay canales de rol. Esto iría más bien en eventos
@@ -284,8 +284,8 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 
 - [x] [[Carreras de Caballos]] ✅ 2026-07-31
 
-### Entidades
-- [ ] [[Rasca y gana]] (con su uso)
+### Entidades✅
+- [x] [[Rasca y gana]] (con su uso) ✅ 2026-08-01
 
 ## Módulo III: Checklist
 >[!tip] Técnicas interactivas
@@ -301,6 +301,8 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [ ] Añadir canales de rol
 - [ ] Cuestión precios y salarios
 - [ ] Añadir items
+- [ ] Meter estilo "Mutante"
+	- Aquellos que tengan poderes aplicables a este estilo, lo conseguirán. Los de este estilo NO pueden aprender técnicas, pues las técnicas son para regular alguno de los poderes que yo vea OP, otorgandoles un cooldown o lo que sea. Pero además, si tenés un poder que puede ser visualmente impresionante, tipo, retroceder en el tiempo, el bot hará que se borren los mensajes literalmente.
 - [ ] Añadir tecnicas
 - [ ] Cuestión emojis (invertir la daga, el pie, idk)
 - [ ] Lore básico
