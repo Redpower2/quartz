@@ -284,8 +284,8 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 
 - [x] [[Carreras de Caballos]] ✅ 2026-07-31
 
-### Items
-- [ ] Rasca y gana (con su uso)
+### Entidades
+- [ ] [[Rasca y gana]] (con su uso)
 
 ## Módulo III: Checklist
 >[!tip] Técnicas interactivas
