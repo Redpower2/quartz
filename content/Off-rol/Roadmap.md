@@ -307,7 +307,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [ ] Testear intensivamente y arreglar bugs pendientes
 - [ ] Cerrar invitaciones por ahora
 - [ ] Icono del servidor
-- [ ] Probar el deploy
+- [ ] Probar el build
 - [ ] Hostear bot
 
  
