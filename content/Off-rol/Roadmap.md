@@ -300,7 +300,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [x] itemPJ y sus archivos ✅ 2026-08-01
 	- [x] manejarPersonaje y sus archivos ✅ 2026-08-01
 - [x] Manejar numeros con coma y reducirlos a 2 ✅ 2026-08-01
-- [ ] Configurar permisos del off-rol
+- [x] Configurar permisos del off-rol ✅ 2026-08-01
 - [ ] Añadir canales de rol
 - [ ] Cuestión precios y salarios
 - [ ] Añadir items
