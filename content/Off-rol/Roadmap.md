@@ -303,6 +303,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] Configurar permisos del off-rol ✅ 2026-08-01
 - [x] Meter estilo "Mutante" ✅ 2026-08-01
 	- Aquellos que tengan poderes aplicables a este estilo, lo conseguirán. Los de este estilo NO pueden aprender técnicas, pues las técnicas son para regular alguno de los poderes que yo vea OP, otorgandoles un cooldown o lo que sea. Pero además, si tenés un poder que puede ser visualmente impresionante, tipo, retroceder en el tiempo, el bot hará que se borren los mensajes literalmente.
+- [x] Cerrar invitaciones por ahora ✅ 2026-08-01
 - [ ] Añadir canales de rol
 - [ ] Cuestión precios y salarios
 - [ ] Añadir items
@@ -310,7 +311,6 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [ ] Cuestión emojis (invertir la daga, el pie, idk)
 - [ ] Lore básico
 - [ ] Testear intensivamente y arreglar bugs pendientes
-- [ ] Cerrar invitaciones por ahora
 - [ ] Icono del servidor
 - [ ] Probar el build
 - [ ] Hostear bot
