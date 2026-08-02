@@ -295,8 +295,11 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 
 
 - [x] Que las tecnicas tengan el mismo tratamiento que los estratos en el personaje de MongoDB ✅ 2026-07-16
-- [ ] Cambiar returns ambiguos de errores para poner un objeto error directamente y que sea universal
-- [ ] Manejar numeros con coma y reducirlos a 2
+- [x] Cambiar returns ambiguos de errores para poner un objeto error directamente y que sea universal ✅ 2026-08-01
+	- [x] dineroPJ y sus archivos ✅ 2026-08-01
+	- [x] itemPJ y sus archivos ✅ 2026-08-01
+	- [x] manejarPersonaje y sus archivos ✅ 2026-08-01
+- [x] Manejar numeros con coma y reducirlos a 2 ✅ 2026-08-01
 - [ ] Configurar permisos del off-rol
 - [ ] Añadir canales de rol
 - [ ] Cuestión precios y salarios
