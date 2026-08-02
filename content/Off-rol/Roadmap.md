@@ -295,7 +295,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 
 
 - [x] Que las tecnicas tengan el mismo tratamiento que los estratos en el personaje de MongoDB ✅ 2026-07-16
-- [ ] Cambiar returns ambiguos de errores para tirar null y manejarlo desde ahí
+- [ ] Cambiar returns ambiguos de errores para poner un objeto error directamente y que sea universal
 - [ ] Manejar numeros con coma y reducirlos a 2
 - [ ] Configurar permisos del off-rol
 - [ ] Añadir canales de rol
