@@ -64,8 +64,8 @@
         
 - Biblioteca
     
-    - [Cultura](Off-rol/Servidor/Canales/Biblioteca/Cultura.md)
+    - [Religion](Off-rol/Servidor/Canales/Ambientación/Religion.md)
         
     - [Contexto](Contexto.md)
         
-    - [Historia](Historia.md)
+    - [Trasfondo](Trasfondo.md)

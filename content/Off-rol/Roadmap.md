@@ -138,9 +138,9 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 	- [/] [[Arte Marcial]] //Fase intermedia
 	- [x] [[Consensos]] ✅ 2026-05-20
 - [/] Biblioteca // Fase intermedia
-	- [/] [[Off-rol/Servidor/Canales/Biblioteca/Cultura|Cultura]]
+	- [/] [[Off-rol/Servidor/Canales/Ambientación/Religion|Religion]]
 	- [/] [[Contexto]]
-	- [/] [[Historia]]
+	- [/] [[Trasfondo]]
 
 # Fase 2: Refinado✅
 ## Módulo I: La gran reforma✅
@@ -304,7 +304,11 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] Meter estilo "Mutante" ✅ 2026-08-01
 	- Aquellos que tengan poderes aplicables a este estilo, lo conseguirán. Los de este estilo NO pueden aprender técnicas, pues las técnicas son para regular alguno de los poderes que yo vea OP, otorgandoles un cooldown o lo que sea. Pero además, si tenés un poder que puede ser visualmente impresionante, tipo, retroceder en el tiempo, el bot hará que se borren los mensajes literalmente.
 - [x] Cerrar invitaciones por ahora ✅ 2026-08-01
-- [ ] Lore básico
+- [ ] Canales de Ambientación 
+	- [ ] [[Contexto]]
+	- [ ] [[Religion]]
+	- [ ] [[Trasfondo]]
+	- [ ] [[Tiempo]]
 - [ ] Icono del servidor
 - [ ] Añadir canales de rol
 - [ ] Cuestión precios y salarios
