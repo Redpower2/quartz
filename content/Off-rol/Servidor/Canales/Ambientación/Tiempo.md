@@ -1,1 +1,0 @@
-Las semanas son como meses pero en realidad no, tipo, el tiempo transcurre de forma normal, nada más que por temporada se skipea 1 año
