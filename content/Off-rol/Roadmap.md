@@ -304,10 +304,10 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] Meter estilo "Mutante" ✅ 2026-08-01
 	- Aquellos que tengan poderes aplicables a este estilo, lo conseguirán. Los de este estilo NO pueden aprender técnicas, pues las técnicas son para regular alguno de los poderes que yo vea OP, otorgandoles un cooldown o lo que sea. Pero además, si tenés un poder que puede ser visualmente impresionante, tipo, retroceder en el tiempo, el bot hará que se borren los mensajes literalmente.
 - [x] Cerrar invitaciones por ahora ✅ 2026-08-01
-- [ ] Canales de Ambientación 
+- [x] Canales de Ambientación ✅ 2026-08-06
 	- [x] [[Contexto]] ✅ 2026-08-03
 	- [x] [[Idiosincracia]] ✅ 2026-08-04
-	- [ ] [[Instituciones]]
+	- [x] [[Instituciones]] ✅ 2026-08-06
 	
 - [ ] Icono del servidor
 - [ ] Añadir canales de rol

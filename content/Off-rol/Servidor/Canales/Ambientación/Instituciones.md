@@ -1,10 +1,20 @@
-# Las instituciones
-# La nobleza
-Emperador
-Principe
-# El clero
-Gran Maestro
-Sacerdote
-Predicador
-# El sector privado
-Comercio, el banco central y el capitalismo
+# Las Instituciones
+Las instituciones son los grupos de poder concentrado en Nueva Castilla que definen lo que está bien, y lo que está mal. Definen como vivís. Sin instituciones no hay nada. No hay realidad. Pues nuestra realidad la han construido las instituciones y no al revés. Por eso está en el interés general preservarlas. Sin ellas, volveríamos a la edad de piedra. En esta época oscura, con el descubrimiento de que hay seres extraños entre nosotros, las instituciones son el único colchón que evita que la sociedad se destruya entre sí por la paranoia. Después de todo, las convenciones que respetas si te traen el pan a la mesa
+# Los Santificados
+No todos valen lo mismo. Tal como el Señor es Hijo de Abraham e Hijo de David, el Príncipe también es Hijo de. Existen criaturas que fueron creadas para servir, y otras para que les sirvan. Pero todos servimos al Rey de los Cielos, no hay nadie fuera de él. Y Él sabe muy bien que somos criaturas caóticas y llenas de pasión. Nunca nadie le ha visto, pero pudimos escucharlo a través de sus ungidos, como el Tianshi, al igual que otros, tiene su tarea guiarnos al Camino Grande y domar nuestra pasión por el trabajo que asigna.
+
+A día de hoy es imprescindible el dirigirnos a nuestros soberanos que nos cuidan del mal y nos llevan hacía la gloria 
+
+**Nuestro Señor Jesúcristo, Rey de Reyes, Hijo de Dios**: Conmemoramos tu muerte, señor, confesamos tu resurrección y aguardamos tu segunda venida.
+
+**Nuestro Tianshi, Emperador Shi, Señor de Manya e Hijo del Cielo, Xuanye Shi**: Porque tú, a estas islas llenas de violencia y supersticiones, has traído paz y riqueza para el pueblo.
+
+**Nuestro Príncipe y Patriarca, Jorge II**: Que tú has intercedido e intercederás por nosotros, los neocastellanos, ante el Único y Gran Rey y Emperador de los Cielos
+
+**Nuestros serviciales barones, escudo y espada de los neocastellanos**: Que nos mantienen en la línea del deber y nos alejan de la avaricia con su exhaustiva labor.
+
+**Nuestros sacerdotes y predicadores**: Sin sangre sagrada, pero portadores del espíritu, que nos educan en el Camino Grande y nos mantienen rectos sobre cualquier tropiezo moral. Y que nos dan las herramientas que necesitamos para construir ladrillo por ladrillo a la Nueva Creación, una obra perfecta y sin maldad o aflicción posible, donde podamos descansar y seguir asombrándonos ante la obra del Arquitecto
+
+Que el Cielo los tenga en su Gloria y que el Gran Rey los mantenga en la obligación de no ceder ante la acedia que inunda nuestros tiempos. 
+# Usureros y usurados
+No podemos no hablar de los burgueses, pobres aquellos que, en búsqueda de nimiedades terrenales, venden su alma al maligno. Meten la mano en el bolsillo de los hombres, y beben de su sangre buscando no construir el Reino del Dios, si no el suyo propio. Son como una olla de víboras. Por eso es que, en Nueva Castilla, no se permite la diversificación de bancos, centralizando todas las transacciones en el Banco Central que emite el borbón con el que pagas tus facturas. La usura es un delito y un pecado muy grave, pero, por otro lado, nos guste o no, el burgués provee. Es el justificativo que la corte del Príncipe ha puesto para que esta gente pueda operar con total libertad en nuestro territorio. Sabemos bien que, la guerra civil ha devastado al imperio en su totalidad, y también sabemos que han tratado de apretarnos con tributos exagerados para compensar. Estos demonios son, desgraciadamente, nuestros mejores aliados ante nuestros hermanos que en necesidad le quitan el plato de comida al otro para comer ellos. ¿No han escuchado a nuestro Señor, que nos ordenó amarnos los unos a los otros, compartir el pan con el hambriento y no cerrar las entrañas ante la aflicción del prójimo? Abre las puertas al que da de comer, y ciérralas al que come. Por esto mismo es que podemos permitir que nos inunden con sus productos capitalistas, porque sabemos que la carne es débil, pero el espíritu está dispuesto.
