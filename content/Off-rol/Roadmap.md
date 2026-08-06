@@ -309,7 +309,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [x] [[Idiosincracia]] ✅ 2026-08-04
 	- [x] [[Instituciones]] ✅ 2026-08-06
 	
-- [ ] Icono del servidor
+- [x] Icono del servidor ✅ 2026-08-06
 - [ ] [[Como es el rol]]
 - [ ] Añadir canales de rol
 - [ ] Cuestión precios y salarios
