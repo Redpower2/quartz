@@ -310,6 +310,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [x] [[Instituciones]] ✅ 2026-08-06
 	
 - [ ] Icono del servidor
+- [ ] [[Como es el rol]]
 - [ ] Añadir canales de rol
 - [ ] Cuestión precios y salarios
 - [ ] Añadir items
@@ -323,31 +324,9 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 # Introducción: La simulación (2026)
 > [!info] Beta cerrada
 > Acá empezaría la beta cerrada con los pibes y eso, pero en paralelo estaría escribiendo el lore
-## Lore
-Con los metahumanos existiendo, no solo cambiará el día a día si no que habrán cultos y esas cosas. Btw esto se tendrá que explicar en la geopolítica alternativa también, al menos una explicación vaga de lo que se cree que es su origen
-- [ ] Islas Manya
-	- [ ] Mitos tribales | Poesía
-	- [ ] Crónicas Jar-Tec | Prosa de narrador poco fiable
-	- [ ] Escrituras de la Época oscura
-	- [ ] Cantos
-	- [ ] Genealogías
-- [ ] Dinastía Shi
-	- [ ] Crónicas chinas de la casa Shi (de su fundación hasta la llegada a Manya)
-	- [ ] Historia oficial
-	- [ ] Testimonios apócrifos
-- [ ] Nueva Castilla
-    - [ ] Testimonio español
-    - [ ] Testimonio holandés 
-    - [ ] Historia oficial
-- [ ] Geopolítica Alternativa
-	- [ ] Primeras apariciones documentadas de los metahumanos.
-	- [ ] Ambiente en China con la casa Shi hasta 1644
-	- [ ] Siglo XIX
-	- [ ] Guerra fría
-	- [ ] Actualidad
+
 ## Checklist
 - [ ] Laburar en el obsidian porque hay muchas cosas a la mitad
-- [ ] Arreglar los [[Bugs|bugs]]
 - [ ] Echar a todos para cuando sea la hora
 # Capítulo 1: El auge del emperador (2038)
 > [!info] En qué consistirá
