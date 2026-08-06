@@ -306,8 +306,8 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] Cerrar invitaciones por ahora ✅ 2026-08-01
 - [ ] Canales de Ambientación 
 	- [x] [[Contexto]] ✅ 2026-08-03
-	- [ ] [[Idiosincracia]]
-	- [ ] [[Trasfondo]]
+	- [x] [[Idiosincracia]] ✅ 2026-08-04
+	- [ ] [[Instituciones]]
 	
 - [ ] Icono del servidor
 - [ ] Añadir canales de rol
