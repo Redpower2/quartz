@@ -20,3 +20,5 @@ La realidad es que en superdanova entrabas y estabas solo muchas veces, tenías 
 - Reino Cristal
 
 - Machtness:
+
+- Fuyuki City:
