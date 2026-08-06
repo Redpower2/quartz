@@ -20,3 +20,7 @@ La realidad es que en superdanova entrabas y estabas solo muchas veces, tenías 
 - Machtness:
 
 - Fuyuki City:
+
+
+
+¿Y entonces? ¿Cuál es la conclusión? Que hacer un servidor libre es muy difícil. No sé cuál es mi conclusión sinceramente, porque realmente mi idea con Nueva Castilla no era que fuese libre, lo contrario, quería que fuese un rol de "pa-pa", es decir, secuencial de alguna forma. Pero con lo que he construido, y con lo que estoy satisfecho de hecho, me he acercado mucho a un servidor libre. Yo quiero creer que es un servidor consecuencial, es decir, cada consecuencia moldea al mundo. Pero eso solo funciona si hay usuarios roleando. En mi enfoque tengo que ver una forma de que los usuarios se sientan lo suficientemente libres como para querer rolear por su cuenta y armar cosas pero también tengo que ponerle suficiente voluntad yo para que se mueva. 
