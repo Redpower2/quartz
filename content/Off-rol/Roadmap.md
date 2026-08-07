@@ -310,7 +310,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [x] [[Instituciones]] ✅ 2026-08-06
 	
 - [x] Icono del servidor ✅ 2026-08-06
-- [ ] [[Como es el rol]]
+- [x] [[Como es el rol]] ✅ 2026-08-06
 - [ ] Añadir canales de rol
 - [ ] Cuestión precios y salarios
 - [ ] Añadir items
@@ -319,6 +319,8 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [ ] Testear intensivamente y arreglar bugs pendientes
 - [ ] Probar el build
 - [ ] Hostear bot
+- [ ] Probar por segunda vez algunas cosas
+- [ ] Chequear canales de información a ver si está todo bien, si faltan imágenes o se rompieron algunas 
 
  
 # Introducción: La simulación (2026)
