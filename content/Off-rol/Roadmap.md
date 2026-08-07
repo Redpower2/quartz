@@ -1,4 +1,4 @@
-- Fecha estimada de beta cerrada: 2da quincena de Agosto
+- Fecha estimada de beta cerrada: 22 de Agosto de 2026
 - Fecha de apertura: No sé
 
 [[Notas del proyecto|> Notas del proyecto <]]
