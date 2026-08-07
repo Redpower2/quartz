@@ -48,4 +48,4 @@ Las propiedades NO se pueden comprar, tenés propiedad o no tenés propiedad. Lo
 
 Los caballeros vivirían en monasterios, osea, estarían en contacto con la religión de forma directa, o en casas de sus mecenas
 
-Ok, eso es algo genial sinceramente, tener eso cubierto y saber como operar, pero falta algo. ¿Qué me garantiza a mí que la gente le dé pelota al lore del servidor? ¿Cuál es mi garantía, así como Machtness tenía a GTA?
+Ok, eso es algo genial sinceramente, tener eso cubierto y saber como operar, pero falta algo. ¿Qué me garantiza a mí que la gente le dé pelota al lore del servidor? ¿Cuál es mi garantía, así como Machtness tenía a GTA? Necesita un ancla. Una dirección a la que puedan seguir, una pertenencia. 
