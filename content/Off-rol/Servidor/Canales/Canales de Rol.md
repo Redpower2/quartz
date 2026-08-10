@@ -2,14 +2,13 @@ Aún con lo de [[Como es el rol]], no nos basta con la teoría, tenemos que pens
 
 Y claramente hay que pensar en los espacios.
 
-Primeros espacios ya dijimos que va a haber, siendo:
-
--
--
--
-
+Primeros espacios ya dijimos que va a haber
 Segundos espacios la verdad no sé porque en realidad acá no se labura on-rol ni se va a la escuela. Osea, es innecesario el hacer un canal de fábricas ponele
 
 Terceros espacios la mayor parte del rol
 
 Y falta un espacio, que son los cuartos espacios, aquellos de consumo y tal como podrían ser las tiendas
+
+Estas van a ser las categorías
+
+	#

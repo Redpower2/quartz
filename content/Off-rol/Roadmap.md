@@ -321,6 +321,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [ ] Hostear bot
 - [ ] Probar por segunda vez algunas cosas
 - [ ] Chequear canales de información a ver si está todo bien, si faltan imágenes o se rompieron algunas 
+- [ ] ¿Bot de backup?
 
  
 # Introducción: La simulación (2026)
