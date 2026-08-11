@@ -311,7 +311,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	
 - [x] Icono del servidor ✅ 2026-08-06
 - [x] [[Como es el rol]] ✅ 2026-08-06
-- [ ] Añadir [[Canales de Rol]]
+- [ ] Añadir Canales de Rol
 - [ ] Cuestión precios y salarios
 - [ ] Añadir items
 - [ ] Añadir tecnicas
