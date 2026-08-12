@@ -288,9 +288,6 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] [[Rasca y gana]] (con su uso) ✅ 2026-08-01
 
 ## Módulo III: Checklist
->[!tip] Técnicas interactivas
->En una nota aparte, quizás haga tecnicas interactivas, estaría bueno. Algo así como que tengas que presionar 3 botones en un orden o que el otro te lo pueda responder si es rápido. No lo sé, el components v2 deja espacio a ideas locas
-
 ¿Mecánica de celular, llamadas y mensajes?
 
 
@@ -312,11 +309,14 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] Icono del servidor ✅ 2026-08-06
 - [x] [[Como es el rol]] ✅ 2026-08-06
 - [x] Añadir Canales de Rol ✅ 2026-08-11
-- [ ] Cuestión precios y salarios
+- [ ] Testear intensivamente y arreglar bugs pendientes
+	- [ ] arreglar intercambio
+	- [ ] Revisar si hay bug al subir/bajar de estratos y no tener el rol
+	- [ ] Paginado en tienda, inventario, lista
 - [ ] Añadir items
 - [ ] Añadir tecnicas
+- [ ] Tiendas
 - [ ] Cuestión emojis (invertir la daga, el pie, idk)
-- [ ] Testear intensivamente y arreglar bugs pendientes
 - [ ] Probar el build
 - [ ] Hostear bot
 - [ ] Probar por segunda vez algunas cosas
