@@ -1,0 +1,42 @@
+El camino de desarrollo de Beloc, el hermano de Tiandi. Como va a ser un campo de experimentos y más a petición que por voluntad mía, va a ser mucho más corto y con menos hiatus. Ya es más fácil hacerlo con el camino hecho desde Nueva Castilla
+
+# 1. Checklist primaria
+
+- [ ] Colecciones y tipos
+	- [ ] Usuario
+	- [ ] Personaje
+	- [ ] Items
+	- [ ] Tienda
+- [ ] Comandos
+	- [ ] manager setup
+	- [ ] manager personaje crear
+	- [ ] manager personaje borrar
+	- [ ] lista personajes
+	- [ ] dinero ver
+	- [ ] manager personaje dardinero
+	- [ ] manager personaje quitardinero
+	- [ ] manager personaje fijardinero
+	- [ ] manager personaje darbanco
+	- [ ] manager personaje quitarbanco
+	- [ ] manager personaje fijarbanco
+	- [ ] dinero dar
+	- [ ] baltop
+	- [ ] trabajar
+	- [ ] robar
+	- [ ] salario ver
+	- [ ] salario recolectar
+	- [ ] manager item crear
+	- [ ] manager item editar
+	- [ ] manager item borrar
+	- [ ] manager personaje daritem
+	- [ ] manager personaje quitaritem
+	- [ ] manager personaje limpiarinv
+	- [ ] lista items
+	- [ ] item info
+	- [ ] item dar
+	- [ ] manager tienda crear
+	- [ ] manager tienda editar
+	- [ ] manager tienda borrar
+	- [ ] manager tienda items
+	- [ ] tienda
+	- [ ] lista tiendas

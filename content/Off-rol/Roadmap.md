@@ -1,4 +1,4 @@
-- Fecha estimada de beta cerrada: 22 de Agosto de 2026
+- Fecha estimada de beta cerrada: Postergado
 - Fecha de apertura: No sé
 
 [[Notas del proyecto|> Notas del proyecto <]]
@@ -309,10 +309,11 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] Icono del servidor ✅ 2026-08-06
 - [x] [[Como es el rol]] ✅ 2026-08-06
 - [x] Añadir Canales de Rol ✅ 2026-08-11
-- [ ] Testear intensivamente y arreglar bugs pendientes
+- [ ] Arreglar cosas
+	- [ ] Paginado en tienda, inventario, lista
 	- [ ] arreglar intercambio
 	- [ ] Revisar si hay bug al subir/bajar de estratos y no tener el rol
-	- [ ] Paginado en tienda, inventario, lista
+- [ ] Testear todos los comandos y que funcionen bien
 - [ ] Añadir items
 - [ ] Añadir tecnicas
 - [ ] Tiendas
