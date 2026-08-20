@@ -1,4 +1,4 @@
-El camino de desarrollo de Beloc, el hermano de Tiandi. Como va a ser un campo de experimentos y más a petición que por voluntad mía, va a ser mucho más corto y con menos hiatus. Ya es más fácil hacerlo con el camino hecho desde Nueva Castilla
+El camino de desarrollo de Beloc, el hermano bastardo de Tiandi. Como va a ser un campo de experimentos y más a petición que por voluntad mía, va a ser mucho más corto y con menos hiatus. Ya es más fácil hacerlo con el camino hecho desde Nueva Castilla
 
 # 1. Checklist primaria
 
