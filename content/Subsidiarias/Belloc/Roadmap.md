@@ -5,7 +5,6 @@ El camino de desarrollo de Beloc, el hermano de Tiandi. Como va a ser un campo d
 - [ ] Colecciones y tipos
 	- [ ] Usuario
 	- [ ] Items
-	- [ ] Tienda
 - [ ] Comandos
 	- [ ] manager setup
 	- [ ] manager usuario crear
@@ -23,6 +22,7 @@ El camino de desarrollo de Beloc, el hermano de Tiandi. Como va a ser un campo d
 	- [ ] trabajar
 	- [ ] salario ver
 	- [ ] salario recolectar
+	- [ ] inventario
 	- [ ] manager item crear
 	- [ ] manager item editar
 	- [ ] manager item borrar
@@ -32,9 +32,6 @@ El camino de desarrollo de Beloc, el hermano de Tiandi. Como va a ser un campo d
 	- [ ] lista items
 	- [ ] item info
 	- [ ] item dar
-	- [ ] manager tienda crear
-	- [ ] manager tienda editar
-	- [ ] manager tienda borrar
-	- [ ] manager tienda items
+	- [ ] manager tienda item
 	- [ ] tienda
 	- [ ] lista tiendas
