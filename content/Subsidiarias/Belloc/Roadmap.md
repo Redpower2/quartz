@@ -4,33 +4,31 @@ El camino de desarrollo de Beloc, el hermano de Tiandi. Como va a ser un campo d
 
 - [ ] Colecciones y tipos
 	- [ ] Usuario
-	- [ ] Personaje
 	- [ ] Items
 	- [ ] Tienda
 - [ ] Comandos
 	- [ ] manager setup
-	- [ ] manager personaje crear
-	- [ ] manager personaje borrar
-	- [ ] lista personajes
+	- [ ] manager usuario crear
+	- [ ] manager usuario borrar
+	- [ ] lista usuarios
 	- [ ] dinero ver
-	- [ ] manager personaje dardinero
-	- [ ] manager personaje quitardinero
-	- [ ] manager personaje fijardinero
-	- [ ] manager personaje darbanco
-	- [ ] manager personaje quitarbanco
-	- [ ] manager personaje fijarbanco
+	- [ ] manager usuario dardinero
+	- [ ] manager usuario quitardinero
+	- [ ] manager usuario fijardinero
+	- [ ] manager usuario darbanco
+	- [ ] manager usuario quitarbanco
+	- [ ] manager usuario fijarbanco
 	- [ ] dinero dar
 	- [ ] baltop
 	- [ ] trabajar
-	- [ ] robar
 	- [ ] salario ver
 	- [ ] salario recolectar
 	- [ ] manager item crear
 	- [ ] manager item editar
 	- [ ] manager item borrar
-	- [ ] manager personaje daritem
-	- [ ] manager personaje quitaritem
-	- [ ] manager personaje limpiarinv
+	- [ ] manager usuario daritem
+	- [ ] manager usuario quitaritem
+	- [ ] manager usuario limpiarinv
 	- [ ] lista items
 	- [ ] item info
 	- [ ] item dar
