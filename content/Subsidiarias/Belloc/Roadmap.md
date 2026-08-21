@@ -4,7 +4,7 @@ El camino de desarrollo de Beloc, el hermano bastardo de Tiandi. Como va a ser u
 
 - [ ] Colecciones y tipos
 	- [x] Usuario ✅ 2026-08-21
-	- [x] Trabajo ✅ 2026-08-21
+	- [ ] Trabajo
 	- [ ] Item
 - [ ] Comandos
 	- [ ] manager setup
