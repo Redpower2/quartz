@@ -3,8 +3,9 @@ El camino de desarrollo de Beloc, el hermano bastardo de Tiandi. Como va a ser u
 # 1. Checklist primaria
 
 - [ ] Colecciones y tipos
-	- [ ] Usuario
-	- [ ] Items
+	- [x] Usuario ✅ 2026-08-21
+	- [x] Trabajo ✅ 2026-08-21
+	- [ ] Item
 - [ ] Comandos
 	- [ ] manager setup
 	- [ ] manager usuario crear
