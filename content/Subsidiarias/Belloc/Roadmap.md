@@ -9,6 +9,10 @@ Sinergías y bonus especificos
 	- [x] Combate ✅ 2026-08-22
 	- [x] Trabajo ✅ 2026-08-22
 	- [x] Item ✅ 2026-08-22
+- [ ] Constantes
+	- [ ] Razas
+	- [ ] Trabajos
+	- [ ] Estados
 - [ ] Comandos
 	- [ ] manager setup
 	- [ ] manager usuario crear
