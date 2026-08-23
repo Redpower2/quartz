@@ -12,8 +12,6 @@ Sinergías y bonus especificos
 - [x] test ✅ 2026-08-21
 - [x] decir ✅ 2026-08-21
 - [ ] manager setup
-- [ ] manager usuario crear
-- [ ] manager usuario borrar
 - [ ] lista usuarios
 - [ ] dinero ver
 - [ ] manager usuario dardinero
@@ -22,11 +20,13 @@ Sinergías y bonus especificos
 - [ ] manager usuario darbanco
 - [ ] manager usuario quitarbanco
 - [ ] manager usuario fijarbanco
+- [ ] manager usuario borrar 
 - [ ] dinero dar
 - [ ] baltop
 - [ ] dado (será transformado en el comando de combate)
-	- [ ] 
 # Módulo II: Segunda capa
+## Constantes
+- [ ] Trabajos
 ## Comandos
 - [ ] trabajar
 - [ ] salario ver
@@ -48,10 +48,11 @@ Sinergías y bonus especificos
 
 # Módulo III: Complejidad
 > [!info] Crudo
-> Este es el módulo más crudo porque es el que menos idea tengo que hacer. Incluso si a Snake le parece bien así, entonces solo meteré los trabajos. Pero mi idea es meter todos los sistemas, bah, no todos los de hoy, si no los que queden porque hay muchos sistemas al pedo
+> Este es el módulo más crudo porque es el que menos idea tengo que hacer. Incluso si a Snake le parece bien así, entonces solo meteré los trabajos y no meteré un sistema más de lo que sería un bot de economia básico. Pero mi idea es meter todos los sistemas, bah, no todos los de hoy, si no los que queden porque hay muchos sistemas al pedo
 ## Constantes
 - [ ] Razas
-- [ ] Trabajos
 - [ ] Estados
 ## Comandos
-- [ ] Combate
+- [ ] manager personaje crear
+- [ ] manager personaje borrar
+- [ ] combate
