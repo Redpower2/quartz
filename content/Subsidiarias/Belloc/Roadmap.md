@@ -11,19 +11,18 @@ Sinergías y bonus especificos
 ## Comandos
 - [x] test ✅ 2026-08-21
 - [x] decir ✅ 2026-08-21
-- [ ] manager setup
-- [ ] lista usuarios
-- [ ] dinero ver
-- [ ] manager usuario dardinero
-- [ ] manager usuario quitardinero
-- [ ] manager usuario fijardinero
-- [ ] manager usuario darbanco
-- [ ] manager usuario quitarbanco
-- [ ] manager usuario fijarbanco
-- [ ] manager usuario borrar 
-- [ ] dinero dar
-- [ ] baltop
-- [ ] dado (será transformado en el comando de combate)
+- [x] manager setup ✅ 2026-08-25
+- [x] dinero ver ✅ 2026-08-25
+- [x] manager usuario dardinero ✅ 2026-08-25
+- [x] manager usuario quitardinero ✅ 2026-08-25
+- [x] manager usuario fijardinero ✅ 2026-08-25
+- [x] manager usuario darbanco ✅ 2026-08-25
+- [x] manager usuario quitarbanco ✅ 2026-08-25
+- [x] manager usuario fijarbanco ✅ 2026-08-25
+- [x] lista usuarios ✅ 2026-08-25
+- [x] manager usuario borrar ✅ 2026-08-25
+- [x] dinero dar ✅ 2026-08-25
+- [x] baltop ✅ 2026-08-25
 # Módulo II: Segunda capa
 ## Constantes
 - [ ] Trabajos
@@ -55,4 +54,5 @@ Sinergías y bonus especificos
 ## Comandos
 - [ ] manager personaje crear
 - [ ] manager personaje borrar
+- [ ] lista personajes
 - [ ] combate
