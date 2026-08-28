@@ -27,9 +27,9 @@ Sinergías y bonus especificos
 ## Constantes
 - [ ] Trabajos
 ## Comandos
-- [ ] manager item crear
-- [ ] manager item editar
-- [ ] manager item borrar
+- [x] manager item crear ✅ 2026-08-27
+- [x] manager item editar ✅ 2026-08-27
+- [x] manager item borrar ✅ 2026-08-27
 - [ ] inventario
 - [ ] manager usuario daritem
 - [ ] manager usuario quitaritem
@@ -38,6 +38,7 @@ Sinergías y bonus especificos
 - [ ] item info
 - [ ] item dar
 - [ ] item usar
+- [ ] item renombrar
 - [ ] manager tienda item
 - [ ] tienda
 - [ ] lista tiendas
