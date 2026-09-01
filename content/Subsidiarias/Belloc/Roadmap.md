@@ -30,15 +30,16 @@ Sinergías y bonus especificos
 - [x] manager item crear ✅ 2026-08-27
 - [x] manager item editar ✅ 2026-08-27
 - [x] manager item borrar ✅ 2026-08-27
-- [ ] inventario
-- [ ] manager usuario daritem
-- [ ] manager usuario quitaritem
-- [ ] manager usuario limpiarinv
-- [ ] lista items
-- [ ] item info
-- [ ] item dar
-- [ ] item usar
-- [ ] item renombrar
+- [x] manager usuario daritem ✅ 2026-08-29
+- [x] manager usuario quitaritem ✅ 2026-08-29
+- [x] manager usuario limpiarinv ✅ 2026-08-29
+- [x] lista items ✅ 2026-08-29
+- [x] ayuda ✅ 2026-08-29
+- [x] item usar ✅ 2026-09-01
+- [x] item info ✅ 2026-09-01
+- [x] inventario ✅ 2026-08-29 ✅ 2026-09-01
+- [x] item dar ✅ 2026-09-01
+- [x] item renombrar ✅ 2026-09-01
 - [ ] manager tienda item
 - [ ] tienda
 - [ ] lista tiendas
