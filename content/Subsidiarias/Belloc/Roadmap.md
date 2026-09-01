@@ -24,6 +24,8 @@ Sinergías y bonus especificos
 - [x] dinero dar ✅ 2026-08-25
 - [x] baltop ✅ 2026-08-25
 # Módulo II: Segunda capa
+## Schemas y Types
+- [ ] Tienda
 ## Constantes
 - [ ] Trabajos
 ## Comandos
