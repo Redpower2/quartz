@@ -25,7 +25,7 @@ Sinergías y bonus especificos
 - [x] baltop ✅ 2026-08-25
 # Módulo II: Segunda capa
 ## Schemas y Types
-- [ ] Tienda
+- [x] TiendaItem ✅ 2026-09-02
 ## Constantes
 - [ ] Trabajos
 ## Comandos
@@ -42,7 +42,7 @@ Sinergías y bonus especificos
 - [x] inventario ✅ 2026-09-01
 - [x] item dar ✅ 2026-09-01
 - [x] item renombrar ✅ 2026-09-01
-- [ ] manager tienda item
+- [ ] manager tienda items
 - [ ] tienda
 - [ ] lista tiendas
 - [ ] trabajar
