@@ -39,7 +39,7 @@ Sinergías y bonus especificos
 - [x] ayuda ✅ 2026-08-29
 - [x] item usar ✅ 2026-09-01
 - [x] item info ✅ 2026-09-01
-- [x] inventario ✅ 2026-08-29 ✅ 2026-09-01
+- [x] inventario ✅ 2026-09-01
 - [x] item dar ✅ 2026-09-01
 - [x] item renombrar ✅ 2026-09-01
 - [ ] manager tienda item
