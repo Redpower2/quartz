@@ -309,9 +309,13 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] Icono del servidor ✅ 2026-08-06
 - [x] [[Como es el rol]] ✅ 2026-08-06
 - [x] Añadir Canales de Rol ✅ 2026-08-11
+- [x] Megapack de reforma ✅ 2026-09-11
+	- [x] Reformar respuesta ✅ 2026-09-11
+	- [x] Cambiar schemas a algo fijo (insostenible el export default) ✅ 2026-09-11
+	- [x] Reformar tipos (parecido a lo que hice con los DB y tratar de poner resolvables) ✅ 2026-09-11
 - [ ] Arreglar cosas
+	- [ ] rehacer intercambio
 	- [ ] Paginado en tienda, inventario, lista
-	- [ ] arreglar intercambio
 	- [ ] Revisar si hay bug al subir/bajar de estratos y no tener el rol
 - [ ] Testear todos los comandos y que funcionen bien
 - [ ] Añadir items
