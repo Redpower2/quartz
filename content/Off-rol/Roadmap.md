@@ -309,12 +309,15 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] Icono del servidor ✅ 2026-08-06
 - [x] [[Como es el rol]] ✅ 2026-08-06
 - [x] Añadir Canales de Rol ✅ 2026-08-11
+> [!info] Hiatus
+> Después de un agotamiento mental que me hizo querer dejar un poco el bot, y trabajar en un proyecto menor inspirado en este, aprendí mucho de la programación porque me arriesgué a cosas que acá no me arriesgaba porque ya había cambiado la estructura mucha veces
 - [x] Megapack de reforma ✅ 2026-09-11
-	- [x] Reformar respuesta ✅ 2026-09-11
+	- [x] Reformar respuesta (resolvemos la interaction si es deferred o replied) ✅ 2026-09-11
+	- [x] Fusión de Gobierno e impuestos como una única colección ✅ 2026-09-11
 	- [x] Cambiar schemas a algo fijo (insostenible el export default) ✅ 2026-09-11
 	- [x] Reformar tipos (parecido a lo que hice con los DB y tratar de poner resolvables) ✅ 2026-09-11
 - [ ] Arreglar cosas
-	- [ ] rehacer intercambio
+	- [x] rehacer intercambio ✅ 2026-09-13 (hay que testearlo igual)
 	- [ ] Paginado en tienda, inventario, lista
 	- [ ] Revisar si hay bug al subir/bajar de estratos y no tener el rol
 - [ ] Testear todos los comandos y que funcionen bien
@@ -327,6 +330,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [ ] Probar por segunda vez algunas cosas
 - [ ] Chequear canales de información a ver si está todo bien, si faltan imágenes o se rompieron algunas 
 - [ ] ¿Bot de backup?
+- [ ] Meter un canal de finales de personaje, tipo, cosas para cerrar el personaje
 
  
 # Introducción: La simulación (2026)
