@@ -346,76 +346,91 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 			- [x] personaje ✅ 2026-09-15
 			- [x] tecnica ✅ 2026-09-15
 	- [x] test ✅ 2026-09-15
-
-	- [ ] baltop
-	- [ ] lista
-		- [ ] personajes
-		- [ ] items
-		- [ ] tecnicas
+	- [ ] dado
+		- [ ] general
+		- [ ] contraataque
+		- [ ] duelo
 	- [ ] manager
 		- [ ] borrar
+		- [ ] debug
+			- [ ] crearpersonajes
+		- [ ] lista
+			- [ ] personajes
+		- [ ] debug
+			- [ ] borrarpersonajes
+	- [ ] manager
 		- [ ] personaje
 			- [ ] crear
 			- [ ] borrar
+	- [ ] personaje
+		- [ ] ver
+		- [ ] seleccionar
+	- [ ] manager
+		- [ ] personaje
 			- [ ] dardinero
 			- [ ] quitardinero
 			- [ ] fijardinero
-			- [ ] daritem
-			- [ ] quitaritem
-			- [ ] dartecnica
-			- [ ] quitartecnica
-			- [ ] subirnivel
-			- [ ] bajarnivel
-			- [ ] fijarnivel
+	- [ ] dinero
+		- [ ] ver
+		- [ ] dar
+		- [ ] seleccionar
+		- [ ] cambiar
+	- [ ] baltop
+	- [ ] manager
+		- [ ] debug
+			- [ ] crearentidades
+	- [ ] lista
+		- [ ] items
+		- [ ] tecnicas
+	- [ ] manager
+		- [ ] debug
+			- [ ] borrarentidades
 		- [ ] entidad
 			- [ ] crear
 			- [ ] editar
 			- [ ] borrar
+		- [ ] personaje
+			- [ ] daritem
+			- [ ] quitaritem
+			- [ ] dartecnica
+			- [ ] quitartecnica
+	- [ ] inventario
+	- [ ] espiritu
+	- [ ] item
+		- [ ] dar
+		- [ ] info
+		- [ ] usar
+	- [ ] tecnica
+		- [ ] enseñar
+		- [ ] usar
+	- [ ] manager
 		- [ ] tienda
 			- [ ] crear
 			- [ ] editar
 			- [ ] borrar
 			- [ ] items
+	- [ ] tienda
+	- [ ] intercambio
+	- [ ] manager
+		- [ ] personaje
+			- [ ] subirnivel
+			- [ ] bajarnivel
+			- [ ] fijarnivel
 		- [ ] debug
 			- [ ] monedalocal
 			- [ ] monedainter
-			- [ ] crearpersonajes
-			- [ ] crearentidades
-			- [ ] borrarpersonajes
-			- [ ] borrarentidades
-		- [ ] staff
-			- [ ] verificar
-			- [ ] desverificar
-			- [ ] limpiar
-				- [ ] mensajes
-				- [ ] offrol
-			- [ ] burner
-		- [ ] dado
-			- [ ] general
-			- [ ] contraataque
-			- [ ] duelo
-		- [ ] dinero
-			- [ ] cambiar
-			- [ ] dar
-			- [ ] seleccionar
-			- [ ] ver
-		- [ ] espiritu
-		- [ ] intercambio
-		- [ ] inventario
-		- [ ] item
-			- [ ] dar
-			- [ ] info
-			- [ ] usar
-		- [ ] juego
-			- [ ] hostia
-			- [ ] truco
-		- [ ] personaje
-			- [ ] ver
-			- [ ] seleccionar
-		- [ ] tecnica
-			- [ ] enseñar
-			- [ ] usar
-		- [ ] tienda
+	- [ ] juego
+		- [ ] hostia
+		- [ ] truco
+	- [ ] staff
+		- [ ] verificar
+		- [ ] desverificar
+		- [ ] limpiar
+			- [ ] mensajes
+			- [ ] offrol
+		- [ ] burner
+
+
 
 - [ ] Añadir items
 - [ ] Añadir tecnicas
