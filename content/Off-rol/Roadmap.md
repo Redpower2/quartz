@@ -320,14 +320,15 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [x] debug ✅ 2026-09-15
 		- [x] crearpersonajes ✅ 2026-09-15
 		- [x] crearentidades ✅ 2026-09-15
-- [ ] Arreglar cosas
+- [x] Arreglar cosas ✅ 2026-09-15
 	- [x] rehacer intercambio ✅ 2026-09-13 (hay que testearlo igual)
 	- [x] Reestructurar utils y estructuras de economy ✅ 2026-09-13
 	- [x] Paginado en ✅ 2026-09-15
 		- [x] lista ✅ 2026-09-14
 		- [x] inventario ✅ 2026-09-15
 		- [x] tienda ✅ 2026-09-15
-	- [ ] Revisar si hay bug al subir/bajar de estratos y no tener el rol
+		- [x] manager tienda items ✅ 2026-09-15
+	- [x] Revisar si hay bug al subir/bajar de estratos y no tener el rol ✅ 2026-09-15
 - [ ] Testear todos los comandos y que funcionen bien
 - [ ] Añadir items
 - [ ] Añadir tecnicas
