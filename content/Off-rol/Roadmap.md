@@ -316,9 +316,17 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [x] Fusión de Gobierno e impuestos como una única colección ✅ 2026-09-11
 	- [x] Cambiar schemas a algo fijo (insostenible el export default) ✅ 2026-09-11
 	- [x] Reformar tipos (parecido a lo que hice con los DB y tratar de poner resolvables) ✅ 2026-09-11
+- [x] manager ✅ 2026-09-15
+	- [x] debug ✅ 2026-09-15
+		- [x] crearpersonajes ✅ 2026-09-15
+		- [x] crearentidades ✅ 2026-09-15
 - [ ] Arreglar cosas
 	- [x] rehacer intercambio ✅ 2026-09-13 (hay que testearlo igual)
-	- [ ] Paginado en tienda, inventario, lista
+	- [x] Reestructurar utils y estructuras de economy ✅ 2026-09-13
+	- [x] Paginado en ✅ 2026-09-15
+		- [x] lista ✅ 2026-09-14
+		- [x] inventario ✅ 2026-09-15
+		- [x] tienda ✅ 2026-09-15
 	- [ ] Revisar si hay bug al subir/bajar de estratos y no tener el rol
 - [ ] Testear todos los comandos y que funcionen bien
 - [ ] Añadir items
