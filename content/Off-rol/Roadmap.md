@@ -330,6 +330,22 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 		- [x] manager tienda items ✅ 2026-09-15
 	- [x] Revisar si hay bug al subir/bajar de estratos y no tener el rol ✅ 2026-09-15
 - [ ] Testear todos los comandos y que funcionen bien
+	- [x] ayuda ✅ 2026-09-15
+		- [x] staff ✅ 2026-09-15
+		- [x] general ✅ 2026-09-15
+		- [x] comando ✅ 2026-09-15
+			- [x] ayuda ✅ 2026-09-15
+			- [x] lista ✅ 2026-09-15
+			- [x] manager ✅ 2026-09-15
+			- [x] staff ✅ 2026-09-15
+			- [x] test (no tiene subs, para probar) ✅ 2026-09-15
+			- [x] dado ✅ 2026-09-15
+			- [x] dinero ✅ 2026-09-15
+			- [x] item ✅ 2026-09-15
+			- [x] juego ✅ 2026-09-15
+			- [x] personaje ✅ 2026-09-15
+			- [x] tecnica ✅ 2026-09-15
+	- [x] test ✅ 2026-09-15
 - [ ] Añadir items
 - [ ] Añadir tecnicas
 - [ ] Tiendas
