@@ -346,45 +346,43 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 			- [x] personaje ✅ 2026-09-15
 			- [x] tecnica ✅ 2026-09-15
 	- [x] test ✅ 2026-09-15
-	- [ ] dado
-		- [ ] general
-		- [ ] contraataque
-		- [ ] duelo
+	- [x] dado ✅ 2026-09-16
+		- [x] general ✅ 2026-09-15
+		- [x] contraataque ✅ 2026-09-15
+		- [x] duelo ✅ 2026-09-16
+	- [x] manager ✅ 2026-09-16
+		- [x] borrar ✅ 2026-09-16
+		- [x] debug ✅ 2026-09-16
+			- [x] crearpersonajes ✅ 2026-09-16
+		- [x] lista ✅ 2026-09-16
+			- [x] personajes ✅ 2026-09-16
+		- [x] debug ✅ 2026-09-16
+			- [x] borrarpersonajes ✅ 2026-09-16
+	- [x] manager ✅ 2026-09-16
+		- [x] personaje ✅ 2026-09-16
+			- [x] crear ✅ 2026-09-16
+			- [x] borrar ✅ 2026-09-16
+	- [x] personaje ✅ 2026-09-16
+		- [x] ver ✅ 2026-09-16
+	- [x] manager ✅ 2026-09-16
+		- [x] personaje ✅ 2026-09-16
+			- [x] dardinero ✅ 2026-09-16
+			- [x] quitardinero ✅ 2026-09-16
+			- [x] fijardinero ✅ 2026-09-16
+	- [x] dinero ✅ 2026-09-16
+		- [x] ver ✅ 2026-09-16
+		- [x] dar ✅ 2026-09-16
+		- [x] cambiar ✅ 2026-09-16
+	- [x] baltop ✅ 2026-09-16
+	- [x] manager ✅ 2026-09-16
+		- [x] debug ✅ 2026-09-16
+			- [x] crearentidades ✅ 2026-09-16
+	- [x] lista ✅ 2026-09-16
+		- [x] items ✅ 2026-09-16
+		- [x] tecnicas ✅ 2026-09-16
 	- [ ] manager
-		- [ ] borrar
-		- [ ] debug
-			- [ ] crearpersonajes
-		- [ ] lista
-			- [ ] personajes
-		- [ ] debug
-			- [ ] borrarpersonajes
-	- [ ] manager
-		- [ ] personaje
-			- [ ] crear
-			- [ ] borrar
-	- [ ] personaje
-		- [ ] ver
-		- [ ] seleccionar
-	- [ ] manager
-		- [ ] personaje
-			- [ ] dardinero
-			- [ ] quitardinero
-			- [ ] fijardinero
-	- [ ] dinero
-		- [ ] ver
-		- [ ] dar
-		- [ ] seleccionar
-		- [ ] cambiar
-	- [ ] baltop
-	- [ ] manager
-		- [ ] debug
-			- [ ] crearentidades
-	- [ ] lista
-		- [ ] items
-		- [ ] tecnicas
-	- [ ] manager
-		- [ ] debug
-			- [ ] borrarentidades
+		- [x] debug ✅ 2026-09-16
+			- [x] borrarentidades ✅ 2026-09-16
 		- [ ] entidad
 			- [ ] crear
 			- [ ] editar
@@ -396,6 +394,8 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 			- [ ] quitartecnica
 	- [ ] inventario
 	- [ ] espiritu
+	- [ ] personaje
+		- [ ] seleccionar
 	- [ ] item
 		- [ ] dar
 		- [ ] info
