@@ -329,6 +329,8 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 		- [x] tienda ✅ 2026-09-15
 		- [x] manager tienda items ✅ 2026-09-15
 	- [x] Revisar si hay bug al subir/bajar de estratos y no tener el rol ✅ 2026-09-15
+- [x] Probar el build ✅ 2026-09-17
+- [x] Hostear bot ✅ 2026-09-17
 - [ ] Testear todos los comandos y que funcionen bien
 	- [x] ayuda ✅ 2026-09-15
 		- [x] staff ✅ 2026-09-15
@@ -380,20 +382,20 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [x] lista ✅ 2026-09-16
 		- [x] items ✅ 2026-09-16
 		- [x] tecnicas ✅ 2026-09-16
-	- [ ] manager
+	- [x] manager ✅ 2026-09-18
 		- [x] debug ✅ 2026-09-16
 			- [x] borrarentidades ✅ 2026-09-16
-		- [ ] entidad
-			- [ ] crear
-			- [ ] editar
-			- [ ] borrar
-		- [ ] personaje
-			- [ ] daritem
-			- [ ] quitaritem
-			- [ ] dartecnica
-			- [ ] quitartecnica
-	- [ ] inventario
-	- [ ] espiritu
+		- [x] entidad ✅ 2026-09-18
+			- [x] crear ✅ 2026-09-18
+			- [x] editar ✅ 2026-09-18
+			- [x] borrar ✅ 2026-09-18
+		- [x] personaje ✅ 2026-09-18
+			- [x] daritem ✅ 2026-09-18
+			- [x] quitaritem ✅ 2026-09-18
+			- [x] dartecnica ✅ 2026-09-18
+			- [x] quitartecnica ✅ 2026-09-18
+	- [x] inventario ✅ 2026-09-18
+	- [x] espiritu ✅ 2026-09-18
 	- [ ] personaje
 		- [ ] seleccionar
 	- [ ] item
@@ -436,8 +438,6 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [ ] Añadir tecnicas
 - [ ] Tiendas
 - [ ] Cuestión emojis (invertir la daga, el pie, idk)
-- [ ] Probar el build
-- [ ] Hostear bot
 - [ ] Probar por segunda vez algunas cosas
 - [ ] Chequear canales de información a ver si está todo bien, si faltan imágenes o se rompieron algunas 
 - [ ] ¿Bot de backup?
