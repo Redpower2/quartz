@@ -407,9 +407,9 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 		- [x] usar ✅ 2026-09-18
 	- [ ] manager
 		- [ ] tienda
-			- [ ] crear
-			- [ ] editar
-			- [ ] borrar
+			- [x] crear ✅ 2026-09-19
+			- [x] editar ✅ 2026-09-19
+			- [x] borrar ✅ 2026-09-19
 			- [ ] items
 	- [ ] tienda
 	- [ ] intercambio
