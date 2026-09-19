@@ -396,12 +396,12 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 			- [x] quitartecnica ✅ 2026-09-18
 	- [x] inventario ✅ 2026-09-18
 	- [x] espiritu ✅ 2026-09-18
-	- [ ] personaje
-		- [ ] seleccionar
-	- [ ] item
-		- [ ] dar
-		- [ ] info
-		- [ ] usar
+	- [x] personaje ✅ 2026-09-18
+		- [x] seleccionar ✅ 2026-09-18
+	- [x] item ✅ 2026-09-18
+		- [x] info ✅ 2026-09-18
+		- [x] dar ✅ 2026-09-18
+		- [x] usar ✅ 2026-09-18
 	- [ ] tecnica
 		- [ ] enseñar
 		- [ ] usar
