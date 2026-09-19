@@ -402,9 +402,9 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 		- [x] info ✅ 2026-09-18
 		- [x] dar ✅ 2026-09-18
 		- [x] usar ✅ 2026-09-18
-	- [ ] tecnica
-		- [ ] enseñar
-		- [ ] usar
+	- [x] tecnica ✅ 2026-09-18
+		- [x] enseñar ✅ 2026-09-18
+		- [x] usar ✅ 2026-09-18
 	- [ ] manager
 		- [ ] tienda
 			- [ ] crear
