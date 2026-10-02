@@ -405,13 +405,13 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [x] tecnica ✅ 2026-09-18
 		- [x] enseñar ✅ 2026-09-18
 		- [x] usar ✅ 2026-09-18
-	- [ ] manager
-		- [ ] tienda
+	- [x] manager ✅ 2026-09-22
+		- [x] tienda ✅ 2026-09-22
 			- [x] crear ✅ 2026-09-19
 			- [x] editar ✅ 2026-09-19
 			- [x] borrar ✅ 2026-09-19
-			- [ ] items
-	- [ ] tienda
+			- [x] items ✅ 2026-09-22
+	- [x] tienda ✅ 2026-09-29
 	- [ ] intercambio
 	- [ ] manager
 		- [ ] personaje
