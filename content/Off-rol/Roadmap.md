@@ -412,18 +412,17 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 			- [x] borrar ✅ 2026-09-19
 			- [x] items ✅ 2026-09-22
 	- [x] tienda ✅ 2026-09-29
-	- [ ] intercambio
-	- [ ] manager
-		- [ ] personaje
-			- [ ] subirnivel
-			- [ ] bajarnivel
-			- [ ] fijarnivel
-		- [ ] debug
-			- [ ] monedalocal
-			- [ ] monedainter
+	- [x] intercambio ✅ 2026-10-03
+	- [x] manager ✅ 2026-10-03
+		- [x] personaje ✅ 2026-10-03
+			- [x] subirnivel ✅ 2026-10-03
+			- [x] bajarnivel ✅ 2026-10-03
+			- [x] fijarnivel ✅ 2026-10-03
+		- [x] debug ✅ 2026-10-03
+			- [x] monedalocal ✅ 2026-10-03
+			- [x] monedainter ✅ 2026-10-03
 	- [ ] juego
 		- [ ] hostia
-		- [ ] truco
 	- [ ] staff
 		- [ ] verificar
 		- [ ] desverificar
@@ -431,7 +430,8 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 			- [ ] mensajes
 			- [ ] offrol
 		- [ ] burner
-
+- [ ] Testear eventos
+	- [ ] 
 
 
 - [ ] Añadir items
