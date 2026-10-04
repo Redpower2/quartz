@@ -431,11 +431,11 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 			- [x] offrol ✅ 2026-10-04
 		- [x] burner ✅ 2026-10-04
 - [ ] Testear eventos
-	- [ ] Salario
-	- [ ] Separadores
-	- [ ] Flujo
-	- [ ] Inflacion
-	- [ ] VariacionInt
+	- [x] Salario ✅ 2026-10-04
+	- [x] Separadores ✅ 2026-10-04
+	- [x] Flujo ✅ 2026-10-04
+	- [x] Inflacion ✅ 2026-10-04
+	- [x] VariacionInt ✅ 2026-10-04
 	- [ ] Busqueda de Rol
 		- [ ] BuscarRol
 		- [ ] CancelarRol
