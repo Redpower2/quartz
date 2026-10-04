@@ -331,7 +331,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [x] Revisar si hay bug al subir/bajar de estratos y no tener el rol ✅ 2026-09-15
 - [x] Probar el build ✅ 2026-09-17
 - [x] Hostear bot ✅ 2026-09-17
-- [ ] Testear todos los comandos y que funcionen bien
+- [x] Testear todos los comandos y que funcionen bien ✅ 2026-10-04
 	- [x] ayuda ✅ 2026-09-15
 		- [x] staff ✅ 2026-09-15
 		- [x] general ✅ 2026-09-15
@@ -423,15 +423,30 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 			- [x] monedainter ✅ 2026-10-03
 	- [x] juego ✅ 2026-10-03
 		- [x] hostia ✅ 2026-10-03
-	- [ ] staff
-		- [ ] verificar
-		- [ ] desverificar
-		- [ ] limpiar
-			- [ ] mensajes
-			- [ ] offrol
-		- [ ] burner
+	- [x] staff ✅ 2026-10-04
+		- [x] verificar ✅ 2026-10-04
+		- [x] desverificar ✅ 2026-10-04
+		- [x] limpiar ✅ 2026-10-04
+			- [x] mensajes ✅ 2026-10-04
+			- [x] offrol ✅ 2026-10-04
+		- [x] burner ✅ 2026-10-04
 - [ ] Testear eventos
-	- [ ] 
+	- [ ] Salario
+	- [ ] Separadores
+	- [ ] Flujo
+	- [ ] Inflacion
+	- [ ] VariacionInt
+	- [ ] Busqueda de Rol
+		- [ ] BuscarRol
+		- [ ] CancelarRol
+		- [ ] ConfirmarRol
+		- [ ] EcharRol
+		- [ ] UnirseRol
+		- [ ] Vencimiento de Matches
+	- [ ] CarreraCaballos
+	- [ ] Ruleta
+	- [ ] Tragaperras
+
 
 
 - [ ] Añadir items
