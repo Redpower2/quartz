@@ -421,8 +421,8 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 		- [x] debug ✅ 2026-10-03
 			- [x] monedalocal ✅ 2026-10-03
 			- [x] monedainter ✅ 2026-10-03
-	- [ ] juego
-		- [ ] hostia
+	- [x] juego ✅ 2026-10-03
+		- [x] hostia ✅ 2026-10-03
 	- [ ] staff
 		- [ ] verificar
 		- [ ] desverificar
