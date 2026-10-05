@@ -430,34 +430,32 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 			- [x] mensajes ✅ 2026-10-04
 			- [x] offrol ✅ 2026-10-04
 		- [x] burner ✅ 2026-10-04
-- [ ] Testear eventos
+- [x] Testear eventos ✅ 2026-10-05
 	- [x] Salario ✅ 2026-10-04
 	- [x] Separadores ✅ 2026-10-04
 	- [x] Flujo ✅ 2026-10-04
 	- [x] Inflacion ✅ 2026-10-04
 	- [x] VariacionInt ✅ 2026-10-04
-	- [ ] Busqueda de Rol
-		- [ ] BuscarRol
-		- [ ] CancelarRol
-		- [ ] ConfirmarRol
-		- [ ] EcharRol
-		- [ ] UnirseRol
-		- [ ] Vencimiento de Matches
-	- [ ] CarreraCaballos
-	- [ ] Ruleta
-	- [ ] Tragaperras
-
-
-
+	- [x] Busqueda de Rol ✅ 2026-10-04
+		- [x] BuscarRol ✅ 2026-10-04
+		- [x] CancelarRol ✅ 2026-10-04
+		- [x] ConfirmarRol ✅ 2026-10-04
+		- [x] EcharRol ✅ 2026-10-04
+		- [x] UnirseRol ✅ 2026-10-04
+		- [x] Vencimiento de Matches ✅ 2026-10-04
+	- [x] CarreraCaballos ✅ 2026-10-04
+	- [x] Ruleta ✅ 2026-10-05
+	- [x] Tragaperras ✅ 2026-10-05
 - [ ] Añadir items
 - [ ] Añadir tecnicas
 - [ ] Tiendas
+- [ ] Tema salarios
 - [ ] Cuestión emojis (invertir la daga, el pie, idk)
-- [ ] Probar por segunda vez algunas cosas
 - [ ] Chequear canales de información a ver si está todo bien, si faltan imágenes o se rompieron algunas 
 - [ ] ¿Bot de backup?
 - [ ] Meter un canal de finales de personaje, tipo, cosas para cerrar el personaje
 
+¿Comando para backup de los canales de información?
  
 # Introducción: La simulación (2026)
 > [!info] Beta cerrada
