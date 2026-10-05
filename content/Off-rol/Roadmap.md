@@ -446,6 +446,12 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [x] CarreraCaballos ✅ 2026-10-04
 	- [x] Ruleta ✅ 2026-10-05
 	- [x] Tragaperras ✅ 2026-10-05
+- [ ] Comandos
+	- [x] manager personaje limpiarenv ✅ 2026-10-05
+	- [x] manager personaje limpiardinero ✅ 2026-10-05
+	- [ ] staff restaurar
+	- [ ] manager setup
+- [ ] Canal informario
 - [ ] Añadir items
 - [ ] Añadir tecnicas
 - [ ] Tiendas
