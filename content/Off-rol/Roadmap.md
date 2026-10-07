@@ -450,10 +450,11 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [x] manager personaje limpiarenv ✅ 2026-10-05
 	- [x] manager personaje limpiardinero ✅ 2026-10-05
 	- [x] staff restaurar ✅ 2026-10-07
-	- [ ] manager setup
+- [ ] Listener de reactions
 - [ ] Canal informario
 - [ ] Añadir items
 - [ ] Añadir tecnicas
+- [ ] Comando manager setup
 - [ ] Tiendas
 - [ ] Tema salarios
 - [ ] Cuestión emojis (invertir la daga, el pie, idk)
