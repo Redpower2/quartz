@@ -449,7 +449,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [ ] Comandos
 	- [x] manager personaje limpiarenv ✅ 2026-10-05
 	- [x] manager personaje limpiardinero ✅ 2026-10-05
-	- [ ] staff restaurar
+	- [x] staff restaurar ✅ 2026-10-07
 	- [ ] manager setup
 - [ ] Canal informario
 - [ ] Añadir items
