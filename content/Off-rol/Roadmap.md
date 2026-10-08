@@ -452,7 +452,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [x] staff restaurar ✅ 2026-10-07
 - [x] Cambiar IDs hardcodeados ✅ 2026-10-07
 - [x] Listener de reactions ✅ 2026-10-08
-- [ ] Canal informario y eventos de monedas
+- [x] Canal informario y eventos de monedas ✅ 2026-10-08
 - [ ] Añadir items
 - [ ] Añadir tecnicas
 - [ ] Comando manager setup
