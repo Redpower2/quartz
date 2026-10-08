@@ -446,12 +446,13 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [x] CarreraCaballos ✅ 2026-10-04
 	- [x] Ruleta ✅ 2026-10-05
 	- [x] Tragaperras ✅ 2026-10-05
-- [ ] Comandos
+- [x] Comandos ✅ 2026-10-07
 	- [x] manager personaje limpiarenv ✅ 2026-10-05
 	- [x] manager personaje limpiardinero ✅ 2026-10-05
 	- [x] staff restaurar ✅ 2026-10-07
+- [x] Cambiar IDs hardcodeados ✅ 2026-10-07
 - [ ] Listener de reactions
-- [ ] Canal informario
+- [ ] Canal informario y eventos de monedas
 - [ ] Añadir items
 - [ ] Añadir tecnicas
 - [ ] Comando manager setup
