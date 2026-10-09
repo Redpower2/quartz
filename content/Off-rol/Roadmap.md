@@ -6,8 +6,6 @@
 Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, pero porque le doy un uso más personal que para subirlo público. Aunque se digan cosas como "Lore" y eventos, en realidad no se debería explicitar nada de eso y solamente actuar como checklist o mostrar las premisas como máximo
 
 # Fase 1: Integridad✅
-> [!warning] Advertencia
-> Hay comandos que no escalarán bien. Hay embeds (Como el de los comandos "lista") que podrán exceder el limite de caracteres, o situaciones en las que los botones no serán la opción más práctica (Por ejemplo, en los casos de que haya que elegir un personaje con el alias), teniendo como alternativa el stringmenu
 ## Módulo I: Bases ✅
 ### Comandos ✅
 
@@ -64,8 +62,6 @@ Este es el camino de desarrollo de Nueva Castilla. Puede parecer desprolijo, per
 - [x] Manejo y chequeo congelamiento ✅ 2026-05-04
 
 ## Módulo III: Entidades ✅
-> [!warning] Intercambio
-> Remitiendose a la primera advertencia de la fase 1, intercambio puede llegar a tener problemas en el stringmenu en caso de que tengas mas de 25 items. No sé si eso sería alcanzable en el rol, pero de todas formas hay que pensarlo como algo que puede pasar
 ### Comandos ✅
 
 - [x] [[manager]] ✅ 2026-04-29 ✅ 2026-05-02 ✅ 2026-05-11
@@ -225,8 +221,6 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 		- [x] monedalocal ✅ 2026-07-03
 - [x] tienda ✅ 2026-07-02
 ## Módulo IV: Discord✅
-> [!warning] Role remove y estratos
-> Veo un posible bug con respecto a sacarle el rol anterior a un usuario. No necesariamente lo tiene que tener, osea, normalmente sí, pero algun admin podria no darselo o sacarselo sin querer, y eso solo en el sub13 no es tanto problema, pero si lo es en el evento de flujo porque rompe todo por un usuario que no esté con sus roles correspondientes. Repito, es un posible bug, capaz no pasa nada, pero mejor prevenir que curar. Debería hacer una busqueda para ver si tiene alguno de estos roles.
 ### Canales✅
 - [x] Economia ✅ 2026-07-13
 	- [x] [[Off-rol/Servidor/Canales/Economia/Sistema|Sistema]] ✅ 2026-07-12
@@ -462,7 +456,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [ ] Tema salarios
 - [ ] Cuestión emojis (invertir la daga, el pie, idk)
 - [ ] Chequear canales de información a ver si está todo bien, si faltan imágenes o se rompieron algunas 
-- [ ] ¿Bot de backup?
+- [ ] Bot de desarrollo (local, no hosteado)
 - [ ] Meter un canal de finales de personaje, tipo, cosas para cerrar el personaje
  
 # Introducción: La simulación (2026)
