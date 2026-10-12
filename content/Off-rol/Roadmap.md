@@ -449,6 +449,10 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] Canal informario y eventos de monedas ✅ 2026-10-08
 - [x] Helper de chequear direccion de config ✅ 2026-10-09
 - [x] Evento de Bienvenida ✅ 2026-10-09
+- [ ] Comando de Tablero
+- [ ] Eventos de Tablero
+	- [ ] tablerocerrar
+	- [ ] tableromover
 - [ ] Añadir items
 - [ ] Añadir tecnicas
 - [ ] Comando manager setup
