@@ -451,7 +451,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] Evento de Bienvenida ✅ 2026-10-09
 - [x] Chequear canales de información a ver si está todo bien, si faltan imágenes o se rompieron algunas ✅ 2026-10-13
 - [x] Rol de tester ✅ 2026-10-13
-- [ ] Bot de desarrollo (local, no hosteado)
+- [x] Bot de desarrollo (local, no hosteado) ✅ 2026-10-13
 - [ ] Añadir items
 - [ ] Añadir tecnicas
 - [ ] Comando manager setup
