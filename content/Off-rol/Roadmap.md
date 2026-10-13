@@ -449,20 +449,15 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] Canal informario y eventos de monedas ✅ 2026-10-08
 - [x] Helper de chequear direccion de config ✅ 2026-10-09
 - [x] Evento de Bienvenida ✅ 2026-10-09
-- [ ] Comando de Tablero
-- [ ] Eventos de Tablero
-	- [ ] tablerocerrar
-	- [ ] tableromover
+- [x] Chequear canales de información a ver si está todo bien, si faltan imágenes o se rompieron algunas ✅ 2026-10-13
+- [x] Rol de tester ✅ 2026-10-13
+- [ ] Bot de desarrollo (local, no hosteado)
 - [ ] Añadir items
 - [ ] Añadir tecnicas
 - [ ] Comando manager setup
 - [ ] Tiendas
 - [ ] Tema salarios
-- [ ] Cuestión emojis (invertir la daga, el pie, idk)
-- [ ] Chequear canales de información a ver si está todo bien, si faltan imágenes o se rompieron algunas 
-- [ ] Bot de desarrollo (local, no hosteado)
-- [ ] Meter un canal de finales de personaje, tipo, cosas para cerrar el personaje
- 
+
 # Introducción: La simulación (2026)
 > [!info] Beta cerrada
 > Acá empezaría la beta cerrada con los pibes y eso, pero en paralelo estaría escribiendo el lore
@@ -470,6 +465,12 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 ## Checklist
 - [ ] Laburar en el obsidian porque hay muchas cosas a la mitad
 - [ ] Echar a todos para cuando sea la hora
+- [ ] Comando de Tablero (con custom emojis y objetos)
+- [ ] Cuestión emojis (invertir la daga, el pie, idk)
+- [ ] Eventos de Tablero
+	- [ ] tablerocerrar
+	- [ ] tableromover
+- [ ] Comando Truco
 # Capítulo 1: El auge del emperador (2038)
 > [!info] En qué consistirá
 > Acá es dónde el servidor se tendría que consolidar. Primero existirían las alianzas, claramente. Pero el objetivo es que para la temporada 2 no las necesitemos más gracias a las recompensas (como bonos) y al sistema de partners mensual
