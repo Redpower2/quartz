@@ -455,7 +455,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [ ] Añadir items
 	Evidentemente no puedo cargar con esto sin relacionarlo con algo, así que voy a usar los canales
 	- [ ] Casino
-	- [ ] 
+		- [ ] Bar
 	- [ ] Supermercado
 	- [ ] Vestibulo
 	- [ ] Buffet
@@ -464,6 +464,10 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [ ] Autoservicio
 		- [ ] Tarjeta de Rasca y Gana
 	- [ ] Mercado negro
+		- [ ] Elijah
+			- [ ] Pistola
+		- [ ] Ching Xen
+			- [ ] Jet
 	- [ ] Puesto de pesca
 - [ ] Añadir tecnicas
 	- [ ] Shi
