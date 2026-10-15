@@ -453,7 +453,27 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] Rol de tester ✅ 2026-10-13
 - [x] Bot de desarrollo (local, no hosteado) ✅ 2026-10-13
 - [ ] Añadir items
+	Evidentemente no puedo cargar con esto sin relacionarlo con algo, así que voy a usar los canales
+	- [ ] Casino
+	- [ ] 
+	- [ ] Supermercado
+	- [ ] Vestibulo
+	- [ ] Buffet
+	- [ ] Tienda de souvenirs
+	- [ ] Bar de manolo
+	- [ ] Autoservicio
+		- [ ] Tarjeta de Rasca y Gana
+	- [ ] Mercado negro
+	- [ ] Puesto de pesca
 - [ ] Añadir tecnicas
+	- [ ] Shi
+		- [ ] 
+	- [ ] Antoniano
+		- [ ] 
+	- [ ] Holandés
+		- [ ] 
+	- [ ] Mutante
+		- [ ] 
 - [ ] Comando manager setup
 - [ ] Tiendas
 - [ ] Tema salarios
