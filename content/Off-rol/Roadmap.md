@@ -452,36 +452,27 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] Chequear canales de información a ver si está todo bien, si faltan imágenes o se rompieron algunas ✅ 2026-10-13
 - [x] Rol de tester ✅ 2026-10-13
 - [x] Bot de desarrollo (local, no hosteado) ✅ 2026-10-13
-- [ ] Añadir items
-	Evidentemente no puedo cargar con esto sin relacionarlo con algo, así que voy a usar los canales
-	- [ ] Casino
-		- [ ] Bar
-	- [ ] Supermercado
-	- [ ] Vestibulo
-	- [ ] Buffet
-	- [ ] Tienda de souvenirs
-	- [ ] Bar de manolo
-	- [ ] Autoservicio
-		- [ ] Tarjeta de Rasca y Gana
-	- [ ] Mercado negro
-		- [ ] Elijah
-			- [ ] Pistola
-		- [ ] Ching Xen
-			- [ ] Jet
-	- [ ] Puesto de pesca
-- [ ] Añadir tecnicas
-	- [ ] Shi
-		- [ ] 
-	- [ ] Antoniano
-		- [ ] 
-	- [ ] Holandés
-		- [ ] 
-	- [ ] Mutante
-		- [ ] 
-- [ ] Comando manager setup
-- [ ] Tiendas
-- [ ] Tema salarios
-
+- [ ] Reestructuración de Entidades 
+	- [x] Cambiar Map de Roles ✅ 2026-11-01
+	- [x] Cambiar Schemas y Types ✅ 2026-11-01
+	- [ ] EntidadManager
+	- [ ] PersonajeEconomy
+	- [ ] PersonajeManager
+	- [ ] Comandos
+		- [ ] lista
+		- [ ] manager
+		- [ ] staff
+		- [ ] dinero
+		- [ ] intercambio
+		- [ ] inventario
+		- [ ] item
+		- [ ] personaje
+		- [ ] tecnica
+		- [ ] tienda
+	- [ ] Usos
+		- [ ] Rasca y gana (falta quitar el item)
+	- [ ] Cambiar Map de Mensajes
+- [ ] ¿Oracle Cloud?
 # Introducción: La simulación (2026)
 > [!info] Beta cerrada
 > Acá empezaría la beta cerrada con los pibes y eso, pero en paralelo estaría escribiendo el lore
