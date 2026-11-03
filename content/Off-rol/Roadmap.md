@@ -461,6 +461,9 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [ ] Comandos
 		- [ ] lista
 		- [ ] manager
+			- [ ] personaje borrar
+			- [ ] manejar item
+			- [ ] manejar tecnica
 		- [ ] staff
 		- [ ] dinero
 		- [ ] intercambio
@@ -471,7 +474,11 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 		- [ ] tienda
 	- [ ] Usos
 		- [ ] Rasca y gana (falta quitar el item)
-	- [ ] Cambiar Map de Mensajes
+		- [ ] armafuego
+	- [ ] ItemSetup
+	- [ ] Cambiar Map de Mensajes 
+		- [ ] Arte marcial>Maestros
+		- [ ] Añadir familia a Ficha
 - [ ] ¿Oracle Cloud?
 # Introducción: La simulación (2026)
 > [!info] Beta cerrada
