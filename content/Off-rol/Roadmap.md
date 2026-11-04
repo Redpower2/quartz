@@ -455,15 +455,15 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [ ] Reestructuración de Entidades 
 	- [x] Cambiar Map de Roles ✅ 2026-11-01
 	- [x] Cambiar Schemas y Types ✅ 2026-11-01
-	- [ ] EntidadManager
-	- [ ] PersonajeEconomy
+	- [x] EntidadManager ✅ 2026-11-03
 	- [ ] PersonajeManager
+	- [ ] PersonajeEconomy
 	- [ ] Comandos
 		- [ ] lista
 		- [ ] manager
+			- [x] manejar item ✅ 2026-11-03
+			- [x] manejar tecnica ✅ 2026-11-03
 			- [ ] personaje borrar
-			- [ ] manejar item
-			- [ ] manejar tecnica
 		- [ ] staff
 		- [ ] dinero
 		- [ ] intercambio
