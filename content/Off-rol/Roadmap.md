@@ -456,21 +456,38 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [x] Cambiar Map de Roles ✅ 2026-11-01
 	- [x] Cambiar Schemas y Types ✅ 2026-11-01
 	- [x] EntidadManager ✅ 2026-11-03
-	- [ ] PersonajeManager
-	- [ ] PersonajeEconomy
+	- [x] PersonajeManager ✅ 2026-11-04
+	- [x] PersonajeEconomy ✅ 2026-11-04
 	- [ ] Comandos
-		- [ ] lista
-		- [ ] manager
+		- [x] manager ✅ 2026-11-04
 			- [x] manejar item ✅ 2026-11-03
 			- [x] manejar tecnica ✅ 2026-11-03
-			- [ ] personaje borrar
+			- [x] personaje crear ✅ 2026-11-04
+			- [x] personaje daritem ✅ 2026-11-04
+			- [x] personaje quitaritem ✅ 2026-11-04
+			- [x] personaje dartecnica ✅ 2026-11-04
+			- [x] personaje quitartecnica ✅ 2026-11-04
+			- [x] tienda items ✅ 2026-11-04
+			- [x] debug crearpersonajes ✅ 2026-11-04
+			- [x] debug borrarpersonajes ✅ 2026-11-04
+			- [x] Borrar debug de las entidades ✅ 2026-11-04
+		- [x] lista ✅ 2026-11-04
+			- [x] personajes ✅ 2026-11-04
+			- [x] items ✅ 2026-11-04
+			- [x] tecnicas ✅ 2026-11-04
 		- [ ] staff
-		- [ ] dinero
+			- [ ] verificar
 		- [ ] intercambio
 		- [ ] inventario
 		- [ ] item
+			- [ ] info
+			- [ ] dar
+			- [ ] usar
 		- [ ] personaje
+			- [ ] ver
 		- [ ] tecnica
+			- [ ] enseñar
+			- [ ] usar
 		- [ ] tienda
 	- [ ] Usos
 		- [ ] Rasca y gana (falta quitar el item)
