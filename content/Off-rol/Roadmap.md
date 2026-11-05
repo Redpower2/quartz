@@ -475,8 +475,8 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 			- [x] personajes ✅ 2026-11-04
 			- [x] items ✅ 2026-11-04
 			- [x] tecnicas ✅ 2026-11-04
-		- [ ] staff
-			- [ ] verificar
+		- [x] staff ✅ 2026-11-05
+			- [x] verificar ✅ 2026-11-05
 		- [ ] intercambio
 		- [ ] inventario
 		- [ ] item
