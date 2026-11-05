@@ -477,18 +477,18 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 			- [x] tecnicas ✅ 2026-11-04
 		- [x] staff ✅ 2026-11-05
 			- [x] verificar ✅ 2026-11-05
-		- [ ] intercambio
-		- [ ] inventario
-		- [ ] item
-			- [ ] info
-			- [ ] dar
-			- [ ] usar
-		- [ ] personaje
-			- [ ] ver
+		- [x] intercambio ✅ 2026-11-05
+		- [x] inventario ✅ 2026-11-05
+		- [x] item ✅ 2026-11-05
+			- [x] info ✅ 2026-11-05
+			- [x] dar ✅ 2026-11-05
+			- [x] usar ✅ 2026-11-05
+		- [x] personaje ✅ 2026-11-05
+			- [x] ver ✅ 2026-11-05
+		- [x] tienda ✅ 2026-11-05
 		- [ ] tecnica
 			- [ ] enseñar
 			- [ ] usar
-		- [ ] tienda
 	- [ ] Usos
 		- [ ] Rasca y gana (falta quitar el item)
 		- [ ] armafuego
