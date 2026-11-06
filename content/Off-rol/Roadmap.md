@@ -489,6 +489,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 		- [ ] tecnica
 			- [ ] enseñar
 			- [ ] usar
+			- [ ] practicar
 	- [ ] Usos
 		- [ ] Rasca y gana (falta quitar el item)
 		- [ ] armafuego
