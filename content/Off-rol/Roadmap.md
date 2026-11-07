@@ -487,9 +487,13 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 			- [x] ver ✅ 2026-11-05
 		- [x] tienda ✅ 2026-11-05
 		- [ ] tecnica
-			- [ ] enseñar
 			- [ ] usar
+			- [ ] enseñar
 			- [ ] practicar
+			- [ ] info
+		- [ ] tecnicas
+	- [ ] Eventos
+		- [ ] practica
 	- [ ] Usos
 		- [ ] Rasca y gana (falta quitar el item)
 		- [ ] armafuego
