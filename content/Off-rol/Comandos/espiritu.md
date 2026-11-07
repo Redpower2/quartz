@@ -1,1 +1,1 @@
-Sinceramente no sé como será el concepto de espiritu. Tengo las tecnicas muy inmaduras. Tendría que plantear desde acá, al menos, un boceto de como serán las técnicas
+Fue un comando que hoy quedó obsoleto debido a que el espíritu como concepto fue removido del servidor, a favor del espiritu individual de las técnicas y el sistema de maestría

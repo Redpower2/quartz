@@ -1,2 +1,5 @@
+## Usar
+Exactamente el mismo uso que en Item porque es el mismo sistema y todo. Solo que si no tenés la tecnica con la propiedad obtenida en true, no sirve
 ## Enseñar
-Podría simplemente copiar y pegar el codigo de item dar porque es esencialmente lo mismo. Y si, voy a hacer eso, pero le voy a meter flavor. Un mensaje intermedio, un gif, algo. Porque si no queda choto, tipo, no es como dar una pistola, es literal un cambio en tu vida espiritual o qsy. Tendría que ser algo falopa, parecido a lo de duelo capaz. Y claro, tendría que fijarse si tenés el estilo y tenés el espiritu suficiente
+## Practicar
+## Info
