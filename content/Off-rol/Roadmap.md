@@ -486,12 +486,11 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 		- [x] personaje ✅ 2026-11-05
 			- [x] ver ✅ 2026-11-05
 		- [x] tienda ✅ 2026-11-05
-		- [ ] tecnica
-			- [ ] usar
-			- [ ] enseñar
-			- [ ] practicar
-			- [ ] info
-		- [ ] tecnicas
+		- [x] tecnica ✅ 2026-11-07
+			- [x] usar ✅ 2026-11-07
+			- [x] enseñar ✅ 2026-11-07
+			- [x] info ✅ 2026-11-07
+		- [x] tecnicas ✅ 2026-11-07
 	- [ ] Eventos
 		- [ ] practica
 	- [ ] Usos
