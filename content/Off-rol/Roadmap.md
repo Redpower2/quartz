@@ -491,11 +491,12 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 			- [x] enseñar ✅ 2026-11-07
 			- [x] info ✅ 2026-11-07
 		- [x] tecnicas ✅ 2026-11-07
-	- [ ] Eventos
-		- [ ] practica
+	- [x] Eventos ✅ 2026-11-08
+		- [x] practica ✅ 2026-11-08
 	- [ ] Usos
-		- [ ] Rasca y gana (falta quitar el item)
-		- [ ] armafuego
+		- [ ] Items
+			- [ ] rascaygana (falta quitar el item)
+			- [ ] disparar
 	- [ ] ItemSetup
 	- [ ] Cambiar Map de Mensajes 
 		- [ ] Arte marcial>Maestros
