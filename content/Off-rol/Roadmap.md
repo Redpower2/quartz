@@ -495,7 +495,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 		- [x] practica ✅ 2026-11-08
 	- [ ] Usos
 		- [ ] Items
-			- [ ] rascaygana (falta quitar el item)
+			- [x] rascaygana (falta quitar el item) ✅ 2026-11-08
 			- [ ] disparar
 	- [ ] ItemSetup
 	- [ ] Cambiar Map de Mensajes 
