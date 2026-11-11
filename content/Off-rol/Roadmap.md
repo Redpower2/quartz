@@ -458,19 +458,9 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [x] EntidadManager ✅ 2026-11-03
 	- [x] PersonajeManager ✅ 2026-11-04
 	- [x] PersonajeEconomy ✅ 2026-11-04
-	- [ ] Comandos
-		- [x] manager ✅ 2026-11-04
-			- [x] manejar item ✅ 2026-11-03
-			- [x] manejar tecnica ✅ 2026-11-03
-			- [x] personaje crear ✅ 2026-11-04
-			- [x] personaje daritem ✅ 2026-11-04
-			- [x] personaje quitaritem ✅ 2026-11-04
-			- [x] personaje dartecnica ✅ 2026-11-04
-			- [x] personaje quitartecnica ✅ 2026-11-04
-			- [x] tienda items ✅ 2026-11-04
-			- [x] debug crearpersonajes ✅ 2026-11-04
-			- [x] debug borrarpersonajes ✅ 2026-11-04
-			- [x] Borrar debug de las entidades ✅ 2026-11-04
+	- [x] Eventos ✅ 2026-11-08
+		- [x] practica ✅ 2026-11-08
+	- [x] Comandos ✅ 2026-11-11
 		- [x] lista ✅ 2026-11-04
 			- [x] personajes ✅ 2026-11-04
 			- [x] items ✅ 2026-11-04
@@ -491,12 +481,23 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 			- [x] enseñar ✅ 2026-11-07
 			- [x] info ✅ 2026-11-07
 		- [x] tecnicas ✅ 2026-11-07
-	- [x] Eventos ✅ 2026-11-08
-		- [x] practica ✅ 2026-11-08
+		- [x] manager ✅ 2026-11-04
+			- [x] manejar item ✅ 2026-11-03
+			- [x] manejar tecnica ✅ 2026-11-03
+			- [x] personaje crear ✅ 2026-11-04
+			- [x] personaje daritem ✅ 2026-11-04
+			- [x] personaje quitaritem ✅ 2026-11-04
+			- [x] personaje dartecnica ✅ 2026-11-04
+			- [x] personaje quitartecnica ✅ 2026-11-04
+			- [x] tienda items ✅ 2026-11-04
+			- [x] debug crearpersonajes ✅ 2026-11-04
+			- [x] debug borrarpersonajes ✅ 2026-11-04
+			- [x] Borrar debug de las entidades ✅ 2026-11-04
+			- [x] personaje stats ✅ 2026-11-11
 	- [ ] Usos
 		- [ ] Items
 			- [x] rascaygana (falta quitar el item) ✅ 2026-11-08
-			- [ ] disparar
+			- [x] disparar ✅ 2026-11-11
 	- [ ] ItemSetup
 	- [ ] Cambiar Map de Mensajes 
 		- [ ] Arte marcial>Maestros
