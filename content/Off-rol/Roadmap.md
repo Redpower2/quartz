@@ -498,8 +498,9 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 		- [ ] Items
 			- [x] rascaygana (falta quitar el item) ✅ 2026-11-08
 			- [x] disparar ✅ 2026-11-11
-			- [ ] armadura (evento)
+			- [x] armadura ✅ 2026-11-12
 			- [ ] trampas (Listener de mensajes en el canal donde fueron asignadas, minas, trampas de oso)
+			- [ ] drogas
 		- [ ] Tecnicas
 	- [ ] ItemSetup
 	- [ ] Cambiar Map de Mensajes 
