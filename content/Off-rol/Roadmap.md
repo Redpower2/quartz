@@ -500,7 +500,6 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 			- [x] disparar ✅ 2026-11-11
 			- [ ] armadura (evento)
 			- [ ] trampas (Listener de mensajes en el canal donde fueron asignadas, minas, trampas de oso)
-			- [ ] ¿celular?
 		- [ ] Tecnicas
 	- [ ] ItemSetup
 	- [ ] Cambiar Map de Mensajes 
