@@ -504,8 +504,11 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 		- [ ] Tecnicas
 	- [ ] ItemSetup
 	- [ ] Cambiar Map de Mensajes 
+		- [ ] Ejemplificar mano negra
+		- [ ] Prohibir lineas temporales y universos paralelos
 		- [ ] Arte marcial>Maestros
-		- [ ] Añadir familia a Ficha
+		- [ ] Añadir clanes a Ficha
+		- [ ] Sistema de clanes
 - [ ] Emojis custom
 - [ ] ¿Oracle Cloud?
 # Introducción: La simulación (2026)
