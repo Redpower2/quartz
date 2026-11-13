@@ -497,7 +497,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [ ] Usos
 		- [ ] Items
 			- [x] rascaygana (falta quitar el item) ✅ 2026-11-08
-			- [x] disparar ✅ 2026-11-11
+			- [x] disparar ✅ 2026-11-13
 			- [x] armadura ✅ 2026-11-13
 			- [ ] trampas (Listener de mensajes en el canal donde fueron asignadas, minas, trampas de oso)
 			- [ ] drogas
