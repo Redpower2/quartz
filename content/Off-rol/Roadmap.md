@@ -246,7 +246,7 @@ Este va a ser un módulo peculiar, porque no vamos a meter muchas novedades si n
 ### General✅
 - [x] Estratos no tiene sentido de que sea una colección. Tengo que reworkearlo pero ya ✅ 2026-07-13
 - [x] Cambiar todos los emojis de moneda por su respectivo simbolo (Después de lo de la tienda) ✅ 2026-07-14
-# Fase 3: Extras
+# Fase 3: Consolidación
 
 ## Módulo I: Discord II✅
 ### Comandos✅
@@ -282,9 +282,6 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] [[Rasca y gana]] (con su uso) ✅ 2026-08-01
 
 ## Módulo III: Checklist
-¿Mecánica de celular, llamadas y mensajes?
-
-
 - [x] Que las tecnicas tengan el mismo tratamiento que los estratos en el personaje de MongoDB ✅ 2026-07-16
 - [x] Cambiar returns ambiguos de errores para poner un objeto error directamente y que sea universal ✅ 2026-08-01
 	- [x] dineroPJ y sus archivos ✅ 2026-08-01
@@ -452,84 +449,117 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] Chequear canales de información a ver si está todo bien, si faltan imágenes o se rompieron algunas ✅ 2026-10-13
 - [x] Rol de tester ✅ 2026-10-13
 - [x] Bot de desarrollo (local, no hosteado) ✅ 2026-10-13
-- [ ] Reestructuración de Entidades 
-	- [x] Cambiar Map de Roles ✅ 2026-11-01
-	- [x] Cambiar Schemas y Types ✅ 2026-11-01
-	- [x] EntidadManager ✅ 2026-11-03
-	- [x] PersonajeManager ✅ 2026-11-04
-	- [x] PersonajeEconomy ✅ 2026-11-04
-	- [x] Eventos ✅ 2026-11-08
-		- [x] practica ✅ 2026-11-08
-	- [x] Comandos ✅ 2026-11-11
-		- [x] lista ✅ 2026-11-04
-			- [x] personajes ✅ 2026-11-04
-			- [x] items ✅ 2026-11-04
-			- [x] tecnicas ✅ 2026-11-04
-		- [x] staff ✅ 2026-11-05
-			- [x] verificar ✅ 2026-11-05
-		- [x] intercambio ✅ 2026-11-05
-		- [x] inventario ✅ 2026-11-05
-		- [x] item ✅ 2026-11-05
-			- [x] info ✅ 2026-11-05
-			- [x] dar ✅ 2026-11-05
-			- [x] usar ✅ 2026-11-05
-		- [x] personaje ✅ 2026-11-05
-			- [x] ver ✅ 2026-11-05
-		- [x] tienda ✅ 2026-11-05
-		- [x] tecnica ✅ 2026-11-07
-			- [x] usar ✅ 2026-11-07
-			- [x] enseñar ✅ 2026-11-07
-			- [x] info ✅ 2026-11-07
-		- [x] tecnicas ✅ 2026-11-07
-		- [x] manager ✅ 2026-11-04
-			- [x] manejar item ✅ 2026-11-03
-			- [x] manejar tecnica ✅ 2026-11-03
-			- [x] personaje crear ✅ 2026-11-04
-			- [x] personaje daritem ✅ 2026-11-04
-			- [x] personaje quitaritem ✅ 2026-11-04
-			- [x] personaje dartecnica ✅ 2026-11-04
-			- [x] personaje quitartecnica ✅ 2026-11-04
-			- [x] tienda items ✅ 2026-11-04
-			- [x] debug crearpersonajes ✅ 2026-11-04
-			- [x] debug borrarpersonajes ✅ 2026-11-04
-			- [x] Borrar debug de las entidades ✅ 2026-11-04
-			- [x] personaje stats ✅ 2026-11-11
-		- [x] trampas ✅ 2026-11-14
-	- [ ] Usos
-		- [ ] Items
-			- [x] rascaygana (falta quitar el item) ✅ 2026-11-08
-			- [x] disparar ✅ 2026-11-13
-			- [x] armadura ✅ 2026-11-13
-			- [x] trampas (Listener de mensajes en el canal donde fueron asignadas, minas, trampas de oso) ✅ 2026-11-14
-			- [ ] drogas
-		- [ ] Tecnicas
-	- [ ] ItemSetup
-	- [ ] Cambiar Map de Mensajes 
-		- [ ] Ejemplificar mano negra
-		- [ ] Prohibir lineas temporales y universos paralelos
-		- [ ] Arte marcial>Maestros
-		- [ ] Añadir clanes a Ficha
-		- [ ] Sistema de clanes
+## Módulo IV: Implementación
+### Reestructuración base
+- [x] Cambiar Map de Roles ✅ 2026-11-01
+- [x] Cambiar Schemas y Types ✅ 2026-11-01
+- [x] EntidadManager ✅ 2026-11-03
+- [x] PersonajeManager ✅ 2026-11-04
+- [x] PersonajeEconomy ✅ 2026-11-04
+- [x] Eventos ✅ 2026-11-08
+	- [x] practica ✅ 2026-11-08
+- [x] Comandos ✅ 2026-11-11
+	- [x] lista ✅ 2026-11-04
+		- [x] personajes ✅ 2026-11-04
+		- [x] items ✅ 2026-11-04
+		- [x] tecnicas ✅ 2026-11-04
+	- [x] staff ✅ 2026-11-05
+		- [x] verificar ✅ 2026-11-05
+	- [x] intercambio ✅ 2026-11-05
+	- [x] inventario ✅ 2026-11-05
+	- [x] item ✅ 2026-11-05
+		- [x] info ✅ 2026-11-05
+		- [x] dar ✅ 2026-11-05
+		- [x] usar ✅ 2026-11-05
+	- [x] personaje ✅ 2026-11-05
+		- [x] ver ✅ 2026-11-05
+	- [x] tienda ✅ 2026-11-05
+	- [x] tecnica ✅ 2026-11-07
+		- [x] usar ✅ 2026-11-07
+		- [x] enseñar ✅ 2026-11-07
+		- [x] info ✅ 2026-11-07
+	- [x] tecnicas ✅ 2026-11-07
+	- [x] manager ✅ 2026-11-04
+		- [x] manejar item ✅ 2026-11-03
+		- [x] manejar tecnica ✅ 2026-11-03
+		- [x] personaje crear ✅ 2026-11-04
+		- [x] personaje daritem ✅ 2026-11-04
+		- [x] personaje quitaritem ✅ 2026-11-04
+		- [x] personaje dartecnica ✅ 2026-11-04
+		- [x] personaje quitartecnica ✅ 2026-11-04
+		- [x] tienda items ✅ 2026-11-04
+		- [x] debug crearpersonajes ✅ 2026-11-04
+		- [x] debug borrarpersonajes ✅ 2026-11-04
+		- [x] Borrar debug de las entidades ✅ 2026-11-04
+### Entidades
+#### Comandos
+- [x] personaje stats ✅ 2026-11-11
+- [x] trampas ✅ 2026-11-14
+#### Usos
+- [ ] Items
+	- [x] rascaygana (falta quitar el item) ✅ 2026-11-08
+	- [x] disparar ✅ 2026-11-13
+	- [x] armadura ✅ 2026-11-13
+	- [x] trampas (Listener de mensajes en el canal donde fueron asignadas, minas, trampas de oso) ✅ 2026-11-14
+	- [ ] salud
+	- [ ] detector
+	- [ ] drogas
+- [ ] Tecnicas
+#### Infraestructura interna
+- [ ] ItemSetup
+- [ ] Cambiar Map de Mensajes 
+	- [ ] Ejemplificar mano negra
+	- [ ] Prohibir lineas temporales y universos paralelos y sustituir la regla de Inteligencia Artificial
+	- [ ] Arte marcial>Maestros
+	- [ ] Añadir clanes a Ficha
+	- [ ] Sistema de clanes
 - [ ] Emojis custom
 	- [ ] Emojis invertidos
 		- [ ] Daga (duelo)
 		- [ ] Pie (Disparar)
-- [ ] ¿Oracle Cloud?
-# Introducción: La simulación (2026)
-> [!info] Beta cerrada
-> Acá empezaría la beta cerrada con los pibes y eso, pero en paralelo estaría escribiendo el lore
+- [ ] ¿Oracle Cloud? (hosting)
 
-## Checklist
-- [ ] Laburar en el obsidian porque hay muchas cosas a la mitad
-- [ ] Echar a todos para cuando sea la hora
-- [ ] Comando de Tablero (con custom emojis y objetos)
-- [ ] Cuestión emojis (invertir la daga, el pie, idk)
-- [ ] Eventos de Tablero
-	- [ ] tablerocerrar
-	- [ ] tableromover
-- [ ] Comando Truco
-# Acto I: El auge del emperador (2038)
-> [!info] En qué consistirá
-> Acá es dónde el servidor se tendría que consolidar. Primero existirían las alianzas, claramente. Pero el objetivo es que para el acto II no las necesitemos más gracias a las recompensas (como bonos) y al sistema de partners mensual
-## Eventos
-## Actualizaciones
+# Fase 4: Finalización
+
+## Módulo I: ButterPox
+> [!info] Concepto base
+> Básicamente es como un tupperbox pero implementado a mi bot. 
+> Doy la opción de si querés usar brackets (texto que inicialice el mensaje de tupperbox) podes usarlos, pero el default es que no. 
+> El // al inicio o al final lo desactiva, hace que se vea tu usuario normal porque es offrol 
+> Para usar los personajes tenés que:
+> 1- O estar en un canal off-rol y usar los brackets 
+> 2- O seleccionar el personaje como lo harías normalmente,ya existía antes del tupper casero
+
+## Módulo II: Clanes
+> [!info] Concepto base
+> Bueno, el sistema de clanes hoy en día es un concepto abstracto, pero tuve el Eureka de mi vida.
+   Por mucho tiempo, en la economía del servidor, no sabía como hacer que la gente gastara plata. Y hoy en día, tampoco. No voy a meter municiones porque es nefasto, pero las armas son insuficientes. No es algo que normalmente vos gastes dinero en. Las heridas si, te las tenes que tratar y curar. Pero hay poco para gastar.
+   Y ahí se me ocurrió como capitalizar lo de los clanes. No sé como, tipo, estaba pensando y de la nada me vino esa idea tremenda.
+   Básicamente, vos tenes tu guita, tenes tu salario, sí. Pero después, vos tenés el tesoro de la familia. Tenés que mantenerlo positivo porque si es negativo, entran en una pobreza tremenda narrativamente. A los avariciosos se los mira mal, se los repudia.
+   >
+   Pero no solo vos sostenes a tu familia, claramente. Si no, tambien, otros usuarios que roleen. La cantidad de dinero que necesitas es proporcional a la cantidad de miembros de la familia siendo pjs reales y no NPCs, es decir, no es que 1 tipo tiene que sostener a toda una familia, no, no... Si son 2 personas, tienen que hacer laburo de 2 personas, rolear constantemente para ganar guita y no perder la semana.
+   >
+   Aunque claro, en caso de dificultades off-rol, está la mecánica de congelar. Congelar era una mecánica antigua de Nueva Castilla cuando habían más cosas para hacer pero que las recorté por tiempo y por practicidad, como el mercado de valores y las propiedades. 
+   >
+   Para que no pierdas absolutamente todo mientras te ocupas, tenes margen de volver. Esto ahora es de los admins, congelan una familia para que no se funda por las deudas
+   Tambien podes robar el tesoro lo que te hace un hijo de puta, pero bueno, podes hacerlo. Hay 3 outcomes que varían dependiendo de la guita que te robás
+   >
+   1- Robás exitosamente, el mensaje se queda en efimero y acá no pasó nada...
+   2- Robás, pero dejas en evidencia que queda con el mensaje, sin tu nombre.
+   3- Robás, SALE TU NOMBRE, te descubren.
+   4- No lográs robarlo y te exponen
+>
+Así que cualquier cambio en la política, la inflación, te golpea a vos directamente en la narrativa.
+
+### Módulo III: Bases del Rol
+> [!tip] Vacío
+> Esto está vacío por ahora.
+# Ideas posteriores
+## Tablero
+Herramienta del combate, que afectará el disparar con el alcance y las trampas. Tiene todo un sistema por detrás que sé más o menos como será visualmente pero no como implementarlo
+## Truco
+Juego de cartas argentino, muy complejo 
+## La Garra
+Todavía no decido como va ser el diseño, pero van a haber peluches vendibles y referencias a Machtness
+## Entidades varias
+Celular
