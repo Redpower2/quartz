@@ -494,13 +494,13 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 			- [x] debug borrarpersonajes ✅ 2026-11-04
 			- [x] Borrar debug de las entidades ✅ 2026-11-04
 			- [x] personaje stats ✅ 2026-11-11
-		- [ ] trampas
+		- [x] trampas ✅ 2026-11-14
 	- [ ] Usos
 		- [ ] Items
 			- [x] rascaygana (falta quitar el item) ✅ 2026-11-08
 			- [x] disparar ✅ 2026-11-13
 			- [x] armadura ✅ 2026-11-13
-			- [x] trampas (Listener de mensajes en el canal donde fueron asignadas, minas, trampas de oso) ✅ 2026-11-13
+			- [x] trampas (Listener de mensajes en el canal donde fueron asignadas, minas, trampas de oso) ✅ 2026-11-14
 			- [ ] drogas
 		- [ ] Tecnicas
 	- [ ] ItemSetup
