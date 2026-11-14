@@ -281,7 +281,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 ### Entidades✅
 - [x] [[Rasca y gana]] (con su uso) ✅ 2026-08-01
 
-## Módulo III: Checklist
+## Módulo III: Checklist✅
 - [x] Que las tecnicas tengan el mismo tratamiento que los estratos en el personaje de MongoDB ✅ 2026-07-16
 - [x] Cambiar returns ambiguos de errores para poner un objeto error directamente y que sea universal ✅ 2026-08-01
 	- [x] dineroPJ y sus archivos ✅ 2026-08-01
@@ -500,9 +500,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [x] disparar ✅ 2026-11-13
 	- [x] armadura ✅ 2026-11-13
 	- [x] trampas (Listener de mensajes en el canal donde fueron asignadas, minas, trampas de oso) ✅ 2026-11-14
-	- [ ] general2
-	- [ ] detector
-	- [ ] basura (item: bolsa de basura)
+	- [x] general2 ✅ 2026-11-14
 	- [ ] drogas
 - [ ] Tecnicas
 #### Handler
@@ -553,15 +551,23 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 >
 Así que cualquier cambio en la política, la inflación, te golpea a vos directamente en la narrativa.
 
-### Módulo III: Bases del Rol
+## Módulo III: Impuestos
+### Módulo IV: Bases del Rol
 > [!tip] Vacío
-> Esto está vacío por ahora.
+> Esto está vacío por ahora. Planificar estaciones de Acto I
 # Ideas posteriores
 ## Tablero
 Herramienta del combate, que afectará el disparar con el alcance y las trampas. Tiene todo un sistema por detrás que sé más o menos como será visualmente pero no como implementarlo
 ## Truco
 Juego de cartas argentino, muy complejo 
 ## La Garra
-Todavía no decido como va ser el diseño, pero van a haber peluches vendibles y referencias a Machtness
+Todavía no decido como va ser el diseño, pero van a haber peluches vendibles y referencias a Machtness, como peluches de Álvaro y Héctor, emojis custom
 ## Entidades varias
 Celular
+Detector de Metales
+Bolsa de Basura
+Analgesico como droga
+Droga que te da Tourette que interrumpe tus mensajes
+## Rol
+Cementerio (listado de muertos) de Personajes con Santos o gente con sus estratos
+Programa de Radio
