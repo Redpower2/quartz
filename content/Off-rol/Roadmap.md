@@ -494,12 +494,13 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 			- [x] debug borrarpersonajes ✅ 2026-11-04
 			- [x] Borrar debug de las entidades ✅ 2026-11-04
 			- [x] personaje stats ✅ 2026-11-11
+		- [ ] trampas
 	- [ ] Usos
 		- [ ] Items
 			- [x] rascaygana (falta quitar el item) ✅ 2026-11-08
 			- [x] disparar ✅ 2026-11-13
 			- [x] armadura ✅ 2026-11-13
-			- [ ] trampas (Listener de mensajes en el canal donde fueron asignadas, minas, trampas de oso)
+			- [x] trampas (Listener de mensajes en el canal donde fueron asignadas, minas, trampas de oso) ✅ 2026-11-13
 			- [ ] drogas
 		- [ ] Tecnicas
 	- [ ] ItemSetup
@@ -510,6 +511,9 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 		- [ ] Añadir clanes a Ficha
 		- [ ] Sistema de clanes
 - [ ] Emojis custom
+	- [ ] Emojis invertidos
+		- [ ] Daga (duelo)
+		- [ ] Pie (Disparar)
 - [ ] ¿Oracle Cloud?
 # Introducción: La simulación (2026)
 > [!info] Beta cerrada
@@ -524,8 +528,8 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [ ] tablerocerrar
 	- [ ] tableromover
 - [ ] Comando Truco
-# Capítulo 1: El auge del emperador (2038)
+# Acto I: El auge del emperador (2038)
 > [!info] En qué consistirá
-> Acá es dónde el servidor se tendría que consolidar. Primero existirían las alianzas, claramente. Pero el objetivo es que para la temporada 2 no las necesitemos más gracias a las recompensas (como bonos) y al sistema de partners mensual
+> Acá es dónde el servidor se tendría que consolidar. Primero existirían las alianzas, claramente. Pero el objetivo es que para el acto II no las necesitemos más gracias a las recompensas (como bonos) y al sistema de partners mensual
 ## Eventos
 ## Actualizaciones
