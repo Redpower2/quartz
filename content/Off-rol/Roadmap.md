@@ -289,8 +289,6 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [x] manejarPersonaje y sus archivos ✅ 2026-08-01
 - [x] Manejar numeros con coma y reducirlos a 2 ✅ 2026-08-01
 - [x] Configurar permisos del off-rol ✅ 2026-08-01
-- [x] Meter estilo "Mutante" ✅ 2026-08-01
-	- Aquellos que tengan poderes aplicables a este estilo, lo conseguirán. Los de este estilo NO pueden aprender técnicas, pues las técnicas son para regular alguno de los poderes que yo vea OP, otorgandoles un cooldown o lo que sea. Pero además, si tenés un poder que puede ser visualmente impresionante, tipo, retroceder en el tiempo, el bot hará que se borren los mensajes literalmente.
 - [x] Cerrar invitaciones por ahora ✅ 2026-08-01
 - [x] Canales de Ambientación ✅ 2026-08-06
 	- [x] [[Contexto]] ✅ 2026-08-03
@@ -458,6 +456,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] PersonajeEconomy ✅ 2026-11-04
 - [x] Eventos ✅ 2026-11-08
 	- [x] practica ✅ 2026-11-08
+- [x] Borrar los Estilos (los metí literalmente en el módulo anterior) ✅ 2026-11-08
 - [x] Comandos ✅ 2026-11-11
 	- [x] lista ✅ 2026-11-04
 		- [x] personajes ✅ 2026-11-04
@@ -501,10 +500,13 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [x] disparar ✅ 2026-11-13
 	- [x] armadura ✅ 2026-11-13
 	- [x] trampas (Listener de mensajes en el canal donde fueron asignadas, minas, trampas de oso) ✅ 2026-11-14
-	- [ ] salud
+	- [ ] general2
 	- [ ] detector
+	- [ ] basura (item: bolsa de basura)
 	- [ ] drogas
 - [ ] Tecnicas
+#### Handler
+- [ ] Curatorio
 #### Infraestructura interna
 - [ ] ItemSetup
 - [ ] Cambiar Map de Mensajes 
