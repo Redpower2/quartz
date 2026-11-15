@@ -527,12 +527,13 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [ ] Personaje
 	- [ ] brackets
 	- [ ] antibrackets (default //)
-	- [ ] imagen
+	- [ ] imagen (si no tenes imagen usa la tuya)
 ### Eventos
 - [x] Listener de Mensajes ✅ 2026-11-15
 - [ ] Handler de Tupperbox
 ### Comandos
 - [ ] Butterpox
+	- [ ] info
 	- [ ] brackets
 	- [ ] antibrackets
 	- [ ] imagen
