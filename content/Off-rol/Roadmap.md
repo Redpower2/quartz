@@ -530,6 +530,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 	- [ ] imagen (si no tenes imagen usa la tuya)
 ### Eventos
 - [x] Listener de Mensajes ✅ 2026-11-15
+- [x] Listener de Reacciones ✅ 2026-11-15
 - [ ] Handler de Tupperbox
 ### Comandos
 - [ ] Butterpox
