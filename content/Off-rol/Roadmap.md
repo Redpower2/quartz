@@ -447,8 +447,8 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] Chequear canales de información a ver si está todo bien, si faltan imágenes o se rompieron algunas ✅ 2026-10-13
 - [x] Rol de tester ✅ 2026-10-13
 - [x] Bot de desarrollo (local, no hosteado) ✅ 2026-10-13
-## Módulo IV: Implementación
-### Reestructuración base
+## Módulo IV: Implementación✅
+### Reestructuración base✅
 - [x] Cambiar Map de Roles ✅ 2026-11-01
 - [x] Cambiar Schemas y Types ✅ 2026-11-01
 - [x] EntidadManager ✅ 2026-11-03
@@ -490,34 +490,27 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 		- [x] debug crearpersonajes ✅ 2026-11-04
 		- [x] debug borrarpersonajes ✅ 2026-11-04
 		- [x] Borrar debug de las entidades ✅ 2026-11-04
-### Entidades
-#### Comandos
+### Entidades✅
+#### Comandos✅
 - [x] personaje stats ✅ 2026-11-11
 - [x] trampas ✅ 2026-11-14
-#### Usos
-- [ ] Items
+#### Usos✅
+- [x] Items ✅ 2026-11-14
 	- [x] rascaygana (falta quitar el item) ✅ 2026-11-08
 	- [x] disparar ✅ 2026-11-13
 	- [x] armadura ✅ 2026-11-13
 	- [x] trampas (Listener de mensajes en el canal donde fueron asignadas, minas, trampas de oso) ✅ 2026-11-14
 	- [x] general2 ✅ 2026-11-14
-	- [ ] drogas
-- [ ] Tecnicas
-#### Handler
-- [ ] Curatorio
-#### Infraestructura interna
-- [ ] ItemSetup
-- [ ] Cambiar Map de Mensajes 
-	- [ ] Ejemplificar mano negra
-	- [ ] Prohibir lineas temporales y universos paralelos y sustituir la regla de Inteligencia Artificial
-	- [ ] Arte marcial>Maestros
-	- [ ] Añadir clanes a Ficha
-	- [ ] Sistema de clanes
-- [ ] Emojis custom
-	- [ ] Emojis invertidos
-		- [ ] Daga (duelo)
-		- [ ] Pie (Disparar)
-- [ ] ¿Oracle Cloud? (hosting)
+#### Infraestructura interna✅
+- [x] ItemSetup ✅ 2026-11-14
+- [x] Cambiar Maps de Restaurar ✅ 2026-11-15
+	- [x] Prohibir lineas temporales y universos paralelos y sustituir la regla de Inteligencia Artificial ✅ 2026-11-14
+	- [x] Añadir clanes a Ficha ✅ 2026-11-14
+
+- [x] Emojis custom ✅ 2026-11-14
+	- [x] Emojis invertidos ✅ 2026-11-14
+		- [x] Daga (duelo) ✅ 2026-11-14
+		- [x] Pie (Disparar) ✅ 2026-11-14
 
 # Fase 4: Finalización
 
@@ -530,7 +523,20 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 > 1- O estar en un canal off-rol y usar los brackets 
 > 2- O seleccionar el personaje como lo harías normalmente,ya existía antes del tupper casero
 
-## Módulo II: Clanes
+### Collections
+- [ ] Personaje
+	- [ ] brackets
+	- [ ] antibrackets (default //)
+	- [ ] imagen
+### Eventos
+- [x] Listener de Mensajes ✅ 2026-11-15
+- [ ] Handler de Tupperbox
+### Comandos
+- [ ] Butterpox
+	- [ ] brackets
+	- [ ] antibrackets
+	- [ ] imagen
+## Módulo III: Clanes
 > [!info] Concepto base
 > Bueno, el sistema de clanes hoy en día es un concepto abstracto, pero tuve el Eureka de mi vida.
    Por mucho tiempo, en la economía del servidor, no sabía como hacer que la gente gastara plata. Y hoy en día, tampoco. No voy a meter municiones porque es nefasto, pero las armas son insuficientes. No es algo que normalmente vos gastes dinero en. Las heridas si, te las tenes que tratar y curar. Pero hay poco para gastar.
@@ -550,11 +556,23 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
    4- No lográs robarlo y te exponen
 >
 Así que cualquier cambio en la política, la inflación, te golpea a vos directamente en la narrativa.
+## Módulo III: Pulido final del bot
 
-## Módulo III: Impuestos
+- [ ] Items
+	- [ ] drogas
+- [ ] Tecnicas
+- [ ] Cambiar Maps de Restaurar 
+	- [ ] Arte marcial>Maestros
+	- [ ] Sistema de clanes
 ### Módulo IV: Bases del Rol
 > [!tip] Vacío
 > Esto está vacío por ahora. Planificar estaciones de Acto I
+
+- [ ] Tiendas 
+- [ ] Precios
+- [ ] Sistemas de estaciones
+- [ ] ¿Oracle Cloud? (hosting)
+- [ ] Escribir la beta
 # Ideas posteriores
 ## Tablero
 Herramienta del combate, que afectará el disparar con el alcance y las trampas. Tiene todo un sistema por detrás que sé más o menos como será visualmente pero no como implementarlo
