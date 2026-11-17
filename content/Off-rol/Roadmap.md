@@ -523,22 +523,21 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 > 1- O estar en un canal off-rol y usar los brackets 
 > 2- O seleccionar el personaje como lo harías normalmente,ya existía antes del tupper casero
 
+### Comandos
+- [x] Butterpox ✅ 2026-11-16
+	- [x] brackets ✅ 2026-11-16
+	- [x] imagen ✅ 2026-11-16
+	- [x] ayuda ✅ 2026-11-16
 ### Collections
-- [ ] Personaje
-	- [ ] brackets
-	- [ ] antibrackets (default //)
-	- [ ] imagen (si no tenes imagen usa la tuya)
+- [x] Personaje ✅ 2026-11-15
+	- [x] brackets ✅ 2026-11-15
+	- [x] imagen (si no tenes imagen usa la tuya) ✅ 2026-11-15
 ### Eventos
 - [x] Listener de Mensajes ✅ 2026-11-15
 - [x] Listener de Reacciones ✅ 2026-11-15
-- [ ] Handler de Tupperbox
-### Comandos
-- [ ] Butterpox
-	- [ ] info
-	- [ ] brackets
-	- [ ] antibrackets
-	- [ ] imagen
-## Módulo III: Clanes
+- [x] Handler de Reacciones ButterPox ✅ 2026-11-16
+- [ ] Handler de Mensajes ButterPox
+## Módulo II: Clanes
 > [!info] Concepto base
 > Bueno, el sistema de clanes hoy en día es un concepto abstracto, pero tuve el Eureka de mi vida.
    Por mucho tiempo, en la economía del servidor, no sabía como hacer que la gente gastara plata. Y hoy en día, tampoco. No voy a meter municiones porque es nefasto, pero las armas son insuficientes. No es algo que normalmente vos gastes dinero en. Las heridas si, te las tenes que tratar y curar. Pero hay poco para gastar.
