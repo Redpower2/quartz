@@ -514,15 +514,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 
 # Fase 4: Finalización
 
-## Módulo I: ButterPox
-> [!info] Concepto base
-> Básicamente es como un tupperbox pero implementado a mi bot. 
-> Doy la opción de si querés usar brackets (texto que inicialice el mensaje de tupperbox) podes usarlos, pero el default es que no. 
-> El // al inicio o al final lo desactiva, hace que se vea tu usuario normal porque es offrol 
-> Para usar los personajes tenés que:
-> 1- O estar en un canal off-rol y usar los brackets 
-> 2- O seleccionar el personaje como lo harías normalmente,ya existía antes del tupper casero
-
+## Módulo I: ButterPox✅
 ### Comandos
 - [x] Butterpox ✅ 2026-11-16
 	- [x] brackets ✅ 2026-11-16
@@ -536,7 +528,7 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 - [x] Listener de Mensajes ✅ 2026-11-15
 - [x] Listener de Reacciones ✅ 2026-11-15
 - [x] Handler de Reacciones ButterPox ✅ 2026-11-16
-- [ ] Handler de Mensajes ButterPox
+- [x] Handler de Mensajes ButterPox ✅ 2026-11-16
 ## Módulo II: Clanes
 > [!info] Concepto base
 > Bueno, el sistema de clanes hoy en día es un concepto abstracto, pero tuve el Eureka de mi vida.
