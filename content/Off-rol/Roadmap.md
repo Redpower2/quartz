@@ -551,11 +551,11 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 Así que cualquier cambio en la política, la inflación, te golpea a vos directamente en la narrativa.
 
 ### Comandos
-- [ ] manager 
+- [ ] narrador
 	- [ ] clan
 		- [ ] crear
-		- [ ] lider
 		- [ ] borrar
+		- [ ] lider
 		- [ ] congelar
 - [ ] clan 
 	- [ ] añadir
@@ -563,7 +563,6 @@ Así que cualquier cambio en la política, la inflación, te golpea a vos direct
 	- [ ] info
 	- [ ] tesoro
 ## Módulo III: Pulido final del bot
-
 - [ ] Items
 	- [ ] drogas
 - [ ] Tecnicas
@@ -571,12 +570,10 @@ Así que cualquier cambio en la política, la inflación, te golpea a vos direct
 	- [ ] Arte marcial>Maestros
 	- [ ] Sistema de clanes
 ### Módulo IV: Bases del Rol
-> [!tip] Vacío
-> Esto está vacío por ahora. Planificar estaciones de Acto I
-
+- [ ] Primeros clanes
 - [ ] Tiendas 
 - [ ] Precios
-- [ ] Sistemas de estaciones
+- [ ] Sistemas de estaciones en los arcos narrativos
 - [ ] ¿Oracle Cloud? (hosting)
 - [ ] Escribir la beta
 # Ideas posteriores
