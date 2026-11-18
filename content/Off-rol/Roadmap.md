@@ -549,6 +549,19 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
    4- No lográs robarlo y te exponen
 >
 Así que cualquier cambio en la política, la inflación, te golpea a vos directamente en la narrativa.
+
+### Comandos
+- [ ] manager 
+	- [ ] clan
+		- [ ] crear
+		- [ ] lider
+		- [ ] borrar
+		- [ ] congelar
+- [ ] clan 
+	- [ ] añadir
+	- [ ] echar
+	- [ ] info
+	- [ ] tesoro
 ## Módulo III: Pulido final del bot
 
 - [ ] Items
