@@ -557,6 +557,7 @@ Así que cualquier cambio en la política, la inflación, te golpea a vos direct
 		- [ ] borrar
 		- [ ] lider
 		- [ ] congelar
+		- [ ] tesoro
 - [ ] clan 
 	- [ ] añadir
 	- [ ] echar
