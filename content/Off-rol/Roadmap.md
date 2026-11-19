@@ -553,7 +553,7 @@ Así que cualquier cambio en la política, la inflación, te golpea a vos direct
 ### Comandos
 - [ ] narrador
 	- [ ] clan
-		- [ ] manejar
+		- [x] manejar ✅ 2026-11-19
 		- [ ] lider
 		- [ ] congelado
 		- [ ] tesoro
