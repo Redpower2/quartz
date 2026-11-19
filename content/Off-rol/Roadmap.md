@@ -555,7 +555,7 @@ Así que cualquier cambio en la política, la inflación, te golpea a vos direct
 	- [ ] clan
 		- [ ] manejar
 		- [ ] lider
-		- [ ] congelar
+		- [ ] congelado
 		- [ ] tesoro
 - [ ] clan 
 	- [ ] añadir
