@@ -551,16 +551,16 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 Así que cualquier cambio en la política, la inflación, te golpea a vos directamente en la narrativa.
 
 ### Comandos
-- [ ] narrador
-	- [ ] clan
+- [x] narrador ✅ 2026-11-19
+	- [x] clan ✅ 2026-11-19
 		- [x] manejar ✅ 2026-11-19
-		- [ ] lider
-		- [ ] congelado
-		- [ ] tesoro
+		- [x] lider ✅ 2026-11-19
+		- [x] congelado ✅ 2026-11-19
+		- [x] tesoro ✅ 2026-11-19
 - [ ] clan 
-	- [ ] añadir
-	- [ ] echar
-	- [ ] info
+	- [x] añadir ✅ 2026-11-20
+	- [x] echar ✅ 2026-11-20
+	- [x] info ✅ 2026-11-20
 	- [ ] tesoro
 ## Módulo III: Pulido final del bot
 - [ ] Items
