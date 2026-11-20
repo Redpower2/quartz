@@ -557,6 +557,9 @@ Así que cualquier cambio en la política, la inflación, te golpea a vos direct
 		- [x] lider ✅ 2026-11-19
 		- [x] congelado ✅ 2026-11-19
 		- [x] tesoro ✅ 2026-11-19
+	- [ ] evento
+		- [ ] iniciar
+		- [ ] finalizar
 - [ ] clan 
 	- [x] añadir ✅ 2026-11-20
 	- [x] echar ✅ 2026-11-20
@@ -569,6 +572,7 @@ Así que cualquier cambio en la política, la inflación, te golpea a vos direct
 	- [ ] Eventos de personaje
 - [ ] Peligro
 	- [ ] Participación económica de los clanes
+- [ ] Evento
 ## Módulo III: Pulido final del bot
 - [ ] Items
 	- [ ] drogas
