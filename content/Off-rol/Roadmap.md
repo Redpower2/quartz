@@ -562,6 +562,13 @@ Así que cualquier cambio en la política, la inflación, te golpea a vos direct
 	- [x] echar ✅ 2026-11-20
 	- [x] info ✅ 2026-11-20
 	- [ ] tesoro
+### Eventos
+- [ ] Tesoro
+	- [ ] Diario
+	- [ ] Cierre de semana
+	- [ ] Eventos de personaje
+- [ ] Peligro
+	- [ ] Participación económica de los clanes
 ## Módulo III: Pulido final del bot
 - [ ] Items
 	- [ ] drogas
