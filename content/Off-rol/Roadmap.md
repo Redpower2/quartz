@@ -563,7 +563,7 @@ Así que cualquier cambio en la política, la inflación, te golpea a vos direct
 		- [x] congelado ✅ 2026-11-19
 		- [x] tesoro ✅ 2026-11-19
 	- [ ] evento
-		- [ ] iniciar
+		- [x] iniciar ✅ 2026-11-21
 		- [ ] finalizar
 ### Eventos
 - [ ] Tesoro
