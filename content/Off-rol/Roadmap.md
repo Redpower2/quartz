@@ -564,7 +564,7 @@ Así que cualquier cambio en la política, la inflación, te golpea a vos direct
 		- [x] tesoro ✅ 2026-11-19
 	- [ ] evento
 		- [ ] iniciar
-			- [ ] finalizar
+		- [ ] finalizar
 ### Eventos
 - [ ] Tesoro
 	- [ ] Diario
