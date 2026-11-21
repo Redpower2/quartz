@@ -551,6 +551,11 @@ SÍ. eso decidí. Así que bueno, decidí patearlo a la fase 3, no por vago, si 
 Así que cualquier cambio en la política, la inflación, te golpea a vos directamente en la narrativa.
 
 ### Comandos
+- [x] clan ✅ 2026-11-21
+	- [x] añadir ✅ 2026-11-20
+	- [x] echar ✅ 2026-11-20
+	- [x] info ✅ 2026-11-20
+	- [x] tesoro ✅ 2026-11-21
 - [x] narrador ✅ 2026-11-19
 	- [x] clan ✅ 2026-11-19
 		- [x] manejar ✅ 2026-11-19
@@ -559,18 +564,13 @@ Así que cualquier cambio en la política, la inflación, te golpea a vos direct
 		- [x] tesoro ✅ 2026-11-19
 	- [ ] evento
 		- [ ] iniciar
-		- [ ] finalizar
-- [ ] clan 
-	- [x] añadir ✅ 2026-11-20
-	- [x] echar ✅ 2026-11-20
-	- [x] info ✅ 2026-11-20
-	- [ ] tesoro
+			- [ ] finalizar
 ### Eventos
 - [ ] Tesoro
 	- [ ] Diario
 	- [ ] Cierre de semana
 	- [ ] Eventos de personaje
-- [ ] Peligro
+- [ ] Inflación
 	- [ ] Participación económica de los clanes
 - [ ] Evento
 ## Módulo III: Pulido final del bot
